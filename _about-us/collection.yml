@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Mission, Vision and Values.md
       - School Crest.md
       - School Song.md
       - Direct School Admission/Public Speaking & Debate.md
