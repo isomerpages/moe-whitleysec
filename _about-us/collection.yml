@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Direct School Admission/.keep
       - Stories of Our Ex Whitleyans.md
       - Whitley 50 E Book.md
       - School Management Committee.md
