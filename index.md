@@ -4,11 +4,11 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: "WSS Open House 26 November 2022 Our Open House will be held on 26
+  November 2022 0830hrs - 1430hrs! "
 sections:
   - hero:
-      background: /images/hero-banner.png
-      button: Contact Us
+      background: /images/Homepage.gif
       url: /contact-us/
       key_highlights:
         - title: Highlight A
