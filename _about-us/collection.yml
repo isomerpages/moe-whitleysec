@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Direct School Admission/Public Speaking & Debate.md
       - Direct School Admission/Leadership and Character @ Whitley Secondary
         School.md
       - Direct School Admission/.keep
