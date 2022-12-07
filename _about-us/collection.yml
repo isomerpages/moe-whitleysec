@@ -1,5 +1,4 @@
 collections:
   about-us:
     output: true
-    order:
-      - Staff Contact List.md
+    order: []
