@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - STEM Education/STEM Education.md
       - STEM Education/Micro:Bit.md
       - STEM Education/Environment Week.md
       - STEM Education/Amgen.md
