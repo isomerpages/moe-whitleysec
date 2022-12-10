@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Student Achievements/13th National Short Film Competition.md
       - Student Achievements/.keep
       - Staff Achievements.md
