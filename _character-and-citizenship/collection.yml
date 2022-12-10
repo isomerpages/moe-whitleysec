@@ -2,6 +2,7 @@ collections:
   character-and-citizenship:
     output: true
     order:
+      - Character Education/Education & Career Guidance.md
       - Character Education/Family Education.md
       - Character Education/Mental Health.md
       - Character Education/Sexuality Education.md
