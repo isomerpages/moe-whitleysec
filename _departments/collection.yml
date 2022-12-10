@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - Student Development Committee.md
       - Executive and Administrative Staff.md
