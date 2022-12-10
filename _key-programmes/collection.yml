@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - Full Subject Based Banding.md
       - Active Citizenship/Active Citizenship for Social Change.md
       - Active Citizenship/National and Citizenship Education.md
       - Active Citizenship/.keep
