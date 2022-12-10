@@ -1,4 +1,5 @@
 collections:
   character-and-citizenship:
     output: true
-    order: []
+    order:
+      - Student Leadership.md
