@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - Outdoor Education/.keep
       - STEM Education/STEM Education.md
       - STEM Education/Micro:Bit.md
       - STEM Education/Environment Week.md
