@@ -2,5 +2,6 @@ collections:
   key-programmes:
     output: true
     order:
+      - STEM Education/Environment Week.md
       - STEM Education/Amgen.md
       - STEM Education/.keep
