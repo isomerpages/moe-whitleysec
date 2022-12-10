@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - National Digital Literacy Programme.md
       - Outdoor Education/Cross Country.md
       - Outdoor Education/Sports Education Programme.md
       - Outdoor Education/.keep
