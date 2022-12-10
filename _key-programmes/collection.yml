@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - Active Citizenship/National and Citizenship Education.md
       - Active Citizenship/.keep
       - GEAR UP.md
       - National Digital Literacy Programme.md
