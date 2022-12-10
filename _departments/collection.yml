@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Physical Education.md
       - Student Development Committee.md
       - Executive and Administrative Staff.md
