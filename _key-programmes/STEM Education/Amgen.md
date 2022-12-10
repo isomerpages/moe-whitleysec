@@ -4,6 +4,8 @@ permalink: /key-programmes/STEM-Education/amgen/permalink/
 description: ""
 third_nav_title: STEM Education
 ---
+![](/images/key%20programmes.jpg)
+
 Amgen
 =====
 
