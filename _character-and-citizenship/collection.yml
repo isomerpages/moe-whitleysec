@@ -2,6 +2,5 @@ collections:
   character-and-citizenship:
     output: true
     order:
-      - Active Citizenship/Active Citizenship for Social Change.md
       - Active Citizenship/.keep
       - Student Leadership.md
