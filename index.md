@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Whitley Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -21,4 +21,5 @@ sections:
           description: Page A is important too
           url: /privacy/
 ---
+
 
