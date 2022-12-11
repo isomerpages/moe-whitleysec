@@ -18,3 +18,5 @@ Our students also had the chance to embark on a History Trail at Kent Ridge Park
   
 
 The most highly-anticipated activity was the Dragon Boating experience. Students learnt that the skill of paddling in coordination was not as easy as it seemed! Yet, with perseverance, grit, and laughter, the entire endeavour turned out to be a memorable day under the afternoon sun for them. Afterwards, the students were rewarded with a huge campfire in the middle of our parade square, cheering and dancing throughout the evening, and leaving with satisfied minds, grateful hearts, toughened spirits and new friendships forged.
+
+![](/images/Secondary%201%20Camp1.png)
