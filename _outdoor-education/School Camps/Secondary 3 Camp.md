@@ -20,3 +20,5 @@ For the Sea Expedition segment of the challenge, our students endured the harsh 
 Through these encouraging experiences, our Secondary 3 students not only learnt how to make the right choices to influence their circumstances, but also forged lasting bonds with their new classmates. At the end of the programme, there were tired but beaming faces all around as the students proudly received their certificates of completion from their facilitators.
 
 ![](/images/Secondary%203%20Camp1.png)
+
+![](/images/Secondary%203%20Camp2.png)
