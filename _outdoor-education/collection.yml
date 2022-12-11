@@ -2,6 +2,7 @@ collections:
   outdoor-education:
     output: true
     order:
+      - School Camps/Secondary 4 & 5 Camp.md
       - School Camps/.keep
       - Cross Country.md
       - Sports Education Programme.md
