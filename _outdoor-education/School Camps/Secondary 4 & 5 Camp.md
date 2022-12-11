@@ -22,3 +22,5 @@ The 4N(A) classes went on a journey to the revamped Funan Centre, which offered 
   
 
 As part of their camp programme, 4C also participated in the structured mock interview practice. They also got to find out more about their own personal profiles, and learn more about the range of ITE courses available. All of them were engaged as their trainer shared his own personal ITE experience! Through this camp, our Sec 4 and 5s developed their confidence, self-worth, and initiative and we hope that our students were inspired to take responsibility for their own learning, and strive for excellence!
+
+![](/images/Secondary%204%20&%205%20Camp1.png)
