@@ -22,3 +22,5 @@ Elsewhere, at Home TeamNS Bukit Batok, our students were taught elements of camp
   
 
 At PA Sembawang, our students enthusiastically took to the water in their rafts and kayaks. These water activities aimed to orientate students with the necessary paddling skills. The students loved this activity, and some students were reluctant to leave the water. The Camp culminated in a series of mini-campfires across the venues, where they shared their learning, experiences and bonded with each other over the warm smell of freshly-toasted marshmallows. The students told us it was a great experience for them!
+
+![](/images/Secondary%202%20Camp1.png)
