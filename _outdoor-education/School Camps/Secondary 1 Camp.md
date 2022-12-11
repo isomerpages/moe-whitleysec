@@ -22,3 +22,5 @@ The most highly-anticipated activity was the Dragon Boating experience. Students
 ![](/images/Secondary%201%20Camp1.png)
 
 ![](/images/Secondary%201%20Camp2.png)
+
+![](/images/Secondary%201%20Camp3.png)
