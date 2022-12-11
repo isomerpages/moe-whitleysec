@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Cross Country.md
+      - School Camps/Secondary 2 Camp.md
       - School Camps/Secondary 3 Camp.md
       - School Camps/.keep
       - School Camps/Secondary 4 & 5 Camp.md
