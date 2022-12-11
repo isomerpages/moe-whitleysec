@@ -1,4 +1,5 @@
 collections:
   outdoor-education:
     output: true
-    order: []
+    order:
+      - Cross Country.md
