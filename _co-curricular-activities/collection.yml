@@ -2,5 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Uniformed Groups/National Cadets Corp (Land).md
       - Uniformed Groups/National Police Cadets Corp.md
       - Uniformed Groups/.keep
