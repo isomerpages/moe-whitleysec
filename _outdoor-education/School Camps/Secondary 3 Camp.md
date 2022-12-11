@@ -22,3 +22,5 @@ Through these encouraging experiences, our Secondary 3 students not only learnt 
 ![](/images/Secondary%203%20Camp1.png)
 
 ![](/images/Secondary%203%20Camp2.png)
+
+![](/images/Secondary%203%20Camp3.png)
