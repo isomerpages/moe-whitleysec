@@ -5,5 +5,13 @@ links:
   - title: Example Page
     url: /example-page/
   - title: Key Programmes
-    url: /permalink
-    sublinks: []
+    url: /key-programmes/Communicative-Arts/
+    sublinks:
+      - title: Communicative Arts
+        url: /key-programmes/Communicative-Arts/
+      - title: Full Subject Based Banding
+        url: /permalink
+      - title: Active Citizenship
+        url: /permalink
+      - title: GEAR-UP
+        url: /permalink
