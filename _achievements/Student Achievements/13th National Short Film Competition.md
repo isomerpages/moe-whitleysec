@@ -17,3 +17,5 @@ Aug 2021: Congratulations to a team of 6 Sec 3 HCL students for clinching 3rd pr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cL4mLHwERFU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+![](/images/film1.png)
+![](/images/film2.png)
