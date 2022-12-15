@@ -2,6 +2,8 @@ collections:
   achievements:
     output: true
     order:
+      - Student Achievements/Temasek Polytechnic 'Future of Food' Baking
+        Challenge.md
       - Student Achievements/O Level Results.md
       - Student Achievements/National Schools Chinese Stiff Pen Calligraphy
         Competition.md
