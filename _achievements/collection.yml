@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Student Achievements/O Level Results.md
       - Student Achievements/National Schools Chinese Stiff Pen Calligraphy
         Competition.md
       - Student Achievements/N Level Results.md
