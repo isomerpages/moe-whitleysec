@@ -19,7 +19,13 @@ links:
         url: /outdoor-education/Cross-Country/
       - title: STEM Education
         url: /key-programmes/STEM-Education/permalink/
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: CCE
+    collection: character-and-citizenship
+  - title: Departments
+    collection: departments
+  - title: CCAs
+    collection: co-curricular-activities
+  - title: Achievements
+    collection: achievements
+  - title: Useful Links
+    collection: useful-links
