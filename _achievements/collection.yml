@@ -2,6 +2,8 @@ collections:
   achievements:
     output: true
     order:
+      - Student Achievements/National Schools Chinese Stiff Pen Calligraphy
+        Competition.md
       - Student Achievements/N Level Results.md
       - Student Achievements/Draw My Stamp Story Art Competition.md
       - Student Achievements/CCA Achievements.md
