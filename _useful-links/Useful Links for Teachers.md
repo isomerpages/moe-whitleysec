@@ -92,8 +92,8 @@ Useful Links for Teachers
 </tbody>
 </table>
 
-FORGOT YOUR IAMS / ICON PASSWORDS?
-----------------------------------
+#### FORGOT YOUR IAMS / ICON PASSWORDS?
+
 
 **IAMS**  
 Self-reset at [https://idp.mims.moe.gov.sg/nidp/saml2/sso](https://idp.mims.moe.gov.sg/nidp/saml2/sso), or approach our school's IAMS local administrator for assistance.  
