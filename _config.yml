@@ -1,9 +1,9 @@
 title: Whitley Secondary School
 url: https://www.whitleysec.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/School_Logo.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#5b2c2c"
+  secondary-color: "#f5a623"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d383uslwl5tysp.amplifyapp.com
 prod: https://master.d383uslwl5tysp.amplifyapp.com
-shareicon: ""
+shareicon: /images/isomer-logo.svg
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
