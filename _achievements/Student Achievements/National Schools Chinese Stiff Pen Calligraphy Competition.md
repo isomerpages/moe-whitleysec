@@ -18,3 +18,7 @@ National Schools Chinese Stiff Pen Calligraphy Competition
 
 </figure>
 
+
+![](/images/2021%20National%20Schools%20Chinese%20Stiff%20Pen%20Calligraphy%20Competition%203.jpg)
+![](/images/2021%20National%20Schools%20Chinese%20Stiff%20Pen%20Calligraphy%20Competition%202.jpg)
+
