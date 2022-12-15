@@ -152,5 +152,3 @@ O Level Results
 </table>
 
 ![](/images/olevel.png)
-
-
