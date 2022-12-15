@@ -98,7 +98,6 @@ Uniform Groups
 
 Performing Arts
 ---------------
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -110,7 +109,7 @@ Performing Arts
 .tg .tg-fvar{background-color:#FFFAF3;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-9s8r{background-color:#5b2c2c;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-aoer{background-color:#fffaf3;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-qlzd{background-color:#5b2c2c;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
@@ -125,17 +124,17 @@ Performing Arts
   <tr>
     <td class="tg-9s8r"><span style="font-weight:bold;color:#EFEFEF">International Dance</span></td>
     <td class="tg-0lax"></td>
-    <td class="tg-amwm" colspan="3"><span style="font-style:normal">Certificate of Participation (SYF 2021)</span><br><span style="font-style:normal">Certificate of Accomplishment (SYF 2019)</span><br><span style="font-style:normal">Certificate of Accomplishment (SYF 2017)</span><br></td>
+    <td class="tg-aoer" colspan="3"><span style="font-style:normal">Certificate of Participation (SYF 2021)</span><br><span style="font-style:normal">Certificate of Accomplishment (SYF 2019)</span><br><span style="font-style:normal">Certificate of Accomplishment (SYF 2017)</span><br></td>
   </tr>
   <tr>
     <td class="tg-qlzd"><span style="font-weight:bold;color:#FFF">English Drama</span></td>
     <td class="tg-0lax"></td>
-    <td class="tg-amwm" colspan="3"><span style="font-style:normal">Certificate of Participation (SYF 2021)</span><br><span style="font-style:normal">Certificate of Accomplishment (SYF 2019)</span><br><span style="font-style:normal">Certificate of Accomplishment (SYF 2017)</span></td>
+    <td class="tg-aoer" colspan="3"><span style="font-style:normal">Certificate of Participation (SYF 2021)</span><br><span style="font-style:normal">Certificate of Accomplishment (SYF 2019)</span><br><span style="font-style:normal">Certificate of Accomplishment (SYF 2017)</span></td>
   </tr>
   <tr>
     <td class="tg-qlzd"><span style="font-weight:bold;color:#FFF">Concert Band</span></td>
     <td class="tg-0lax"></td>
-    <td class="tg-amwm" colspan="3"><span style="font-style:normal">Non Participation (SYF 2021)</span><br><span style="font-style:normal">Certificate of Accomplishment (SYF 2019)</span><br><span style="font-style:normal">Certificate of Accomplishment (SYF 2017)</span></td>
+    <td class="tg-aoer" colspan="3"><span style="font-style:normal">Non Participation (SYF 2021)</span><br><span style="font-style:normal">Certificate of Accomplishment (SYF 2019)</span><br><span style="font-style:normal">Certificate of Accomplishment (SYF 2017)</span></td>
   </tr>
 </tbody>
 </table>
