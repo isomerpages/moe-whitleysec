@@ -6,17 +6,16 @@ third_nav_title: Direct School Admission
 ---
 ![](/images/about%20us.jpg)
 
-Public Speaking & Debate
-========================
+### Public Speaking & Debate
 
-Direct School Admission (DSA)
------------------------------
+#### Direct School Admission (DSA)
 
-### Public Speaking and Debate @ Whitley Secondary School
+#### Public Speaking and Debate @ Whitley Secondary School
 
-### The Caring & Learning Community of Leaders
+#### The Caring & Learning Community of Leaders
 
-![](/images/PublicSpeaking%201.jpeg)
+<img src="/images/PublicSpeaking%201.jpeg" style="width:80%">
+
 
 Lights, camera, action! Standing before the audience and articulating your thoughts have been gaining momentum in our educational landscape and beyond in the 21st century. Whitley Secondary School has designed a unique four-year programme called Communicative Arts that aims to equip every Whitleyan with good communication and critical thinking skills. All incoming Secondary 1 students build their stage confidence through fun and engaging drama. They become budding stars who jump into acting with a convincing portrayal of their characters, bringing the story to life. Secondary 2 students progress to build convincing cases for their stand, backed with an arsenal of evidence through research, and hone their debating skills to further sharpen their arguments. They are also exposed to writing scripts and presenting as newscasters, as well as doing post-filming edits, in our Broadcasting Programme. As critical and lateral thinkers, Secondary 3 students are equipped with an array of thinking tools to respond to impromptu questions and interact with the audience persuasively. Bombarded with the myriad of information online, Secondary 4 students are trained to deconstruct texts, particularly news or media materials, in order to expose and resist media manipulation, as well as to use media materials in constructive ways. All the training and exposure culminate in them delivering a speech on current affairs before the entire school population where they put across their perspectives and insights on a piece of news that they are concerned with.
 
@@ -100,8 +99,7 @@ DSA is a commitment on the part of both the student and the secondary school. Th
 
   
 
-Whitley Secondary School warmly welcomes you!
----------------------------------------------
+#### Whitley Secondary School warmly welcomes you!
 
   
 
