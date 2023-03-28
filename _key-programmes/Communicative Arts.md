@@ -7,7 +7,7 @@ description: ""
 
 ### Communicative Arts
 
-![](/images/arts.jpg)
+<img src="/images/arts.jpg" style="width:80%">
 
 #### Secondary 1
 
@@ -21,4 +21,4 @@ Students would learn the relevant communication skills needed to conduct intervi
 
 Students would work in pairs, to apply what they have learnt in Secondary 1 and 2, to design and conduct a talk show on a topic they are interested in. They would create a deck of PowerPoint slides and take turns to present the topic to their classmates. The presentation would be around 3 minutes long. Thereafter, they would have to hold a question and answer session, answering at least 3 questions from their classmates.
 
-![](/images/arts1.png)
+<img src="/images/arts1.png" style="width:80%">
