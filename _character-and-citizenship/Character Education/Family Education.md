@@ -6,8 +6,7 @@ third_nav_title: Character Education
 ---
 ![](/images/CCE.jpg)
 
-Family Education
-================
+### Family Education
 
 
 Family Education will focus on the teaching and learning of skills to strengthen relationships. This will nurture confidence and seed positive experiences for a longer-term perspective of the value of families. Crucial for individual well-being, strong and stable families provide the foundation for the building of communities and for developing the resilience of our people for the flourishing of the nation.  
