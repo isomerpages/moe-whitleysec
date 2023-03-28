@@ -7,23 +7,19 @@ third_nav_title: Clubs and Societies
 ![](/images/CCA.jpg)
 
   
-English Debating Club
-========================
+### English Debating Club
 
-Teachers in Charge
-------------------
+#### Teachers in Charge
 
 Ms Daphne Li: [li\_weixiang\_daphne@schools.gov.sg](mailto:li_weixiang_daphne@schools.gov.sg)  
 Mr Jerome Lim: [jerome\_lim\_jit\_how@schools.gov.sg](mailto:jerome_lim_jit_how@schools.gov.sg)
 
-Training Details
-----------------
+#### Training Details
 
 Tuesdays & Thursdays 1515h - 1715h  
 Venue: Computer Lab 2  
 
-Recent Achievements
--------------------
+#### Recent Achievements
 
 **1\. Singapore Secondary Schools Debating Championships (April 2022)**  
 Division 3 1st place  
@@ -40,5 +36,5 @@ Best Speaker - Wong Sung May 4I
 **4\. Mid-Year Debate Invitationals (July 2022)**  
 Silver Division 2nd Best Speaker - Wu Mengjia 3R
 
-![](/images/debate1.png)
-![](/images/debate2.png)
+<img src="/images/debate1.png" style="width:80%">
+<img src="/images/debate2.png" style="width:80%">
