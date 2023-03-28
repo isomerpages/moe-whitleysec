@@ -6,8 +6,7 @@ third_nav_title: Character Education
 ---
 ![](/images/CCE.jpg)
 
-Mental Health
-=============
+### Mental Health
 
 Mental Health Education (MHE) goes beyond Mental Health Awareness. MHE provides our students with knowledge, values, and competencies to develop and enhance mental well-being and address mental health problems. Students learn to take better care of themselves and others in their families and community. Mental Health is taught explicitly, as well as infused and reinforced in other CCE Lessons, and Student Development Experiences.  
   
@@ -20,4 +19,4 @@ A focus on mental health and well-being in CCE helps students to strengthen thei
 *   Help-seeking is not a sign of weakness but an act of strength as it leads to better outcomes.
 *   We have a responsibility to fight stigma by being careful with our words and actions, as well as ensure we have an accurate understanding about mental illnesses.
 
-![](/images/mental.jpg)
+<img src="/images/mental.jpg" style="width:80%">
