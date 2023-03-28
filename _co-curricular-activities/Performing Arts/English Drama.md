@@ -6,23 +6,19 @@ third_nav_title: Performing Arts
 ---
 ![](/images/CCA.jpg)
 
-Drama-English
-=============
+### Drama-English
 
-Teachers in Charge
-------------------
+#### Teachers in Charge
 
 Mr Faizal Bin Mohamad: [faizal\_mohamad@schools.gov.sg](mailto:faizal_mohamad@schools.gov.sg)  
 Ms Vivian Tan: [lowe\_jiak\_hng@schools.gov.sg](mailto:lowe_jiak_hng@schools.gov.sg)
 
-Training Details
-----------------
+#### Training Details
 
 Venue: Performing Arts Studio  
 Tuesdays & Thursdays: 1500h - 1800h  
 
-Recent Achievements
--------------------
+#### Recent Achievements
 
 **2021**  
   
@@ -50,5 +46,5 @@ Popularity Award
   
 The two teams represented Singapore in the International Grand Finals where they competed with teams from Australia, Brunei, China, Nigeria, Philippines, and Thailand (August).
 
-![](/images/drama1.png)
-![](/images/drama2.png)
+<img src="/images/drama1.png" style="width:80%">
+<img src="/images/drama2.png" style="width:80%">
