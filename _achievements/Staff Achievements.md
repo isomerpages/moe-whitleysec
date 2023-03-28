@@ -65,7 +65,84 @@ description: ""
 </tbody>
 </table>
 
-### Staff Accolades 2021 (National/MOE)
+#### Staff Accolades (School)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fih6{background-color:#FFFAF3;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-i7qf{background-color:#FFFAF3;border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-0ys1{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-xvsk{background-color:#FFFAF3;text-align:left;vertical-align:middle}
+.tg .tg-m111{background-color:#5B2C2C;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-jxgv{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-1xbg{background-color:#FFFAF3;text-align:left;vertical-align:top}
+.tg .tg-pdeq{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-tmat{background-color:#FFFAF3;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-m111"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">Name of Award</span></th>
+    <th class="tg-m111"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">Description of Award</span></th>
+    <th class="tg-m111"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">Name of Recipient/Nominee(s)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pdeq">WSS Long Service Award (LSA) 2022</td>
+    <td class="tg-0ys1"><span style="color:#000;background-color:#FFF"> The school recognises staff contributions and their years of service to our school. </span><br></td>
+    <td class="tg-0ys1"><span style="color:#000;background-color:#FFF">Recipients:</span><br><br>• Wan Sook Kheng (38 years)<br>• Koo Nan Yong (28 years)<br>• Chin Siew Kin Christine (23 years)<br>• Lye-Yong Kwee Fah (18 years)<br>• K Amutha (18 years)<br>• Foo Moo Tean (13 years)<br>• Lim Eu Boon (13 years)<br>• Yue Heng Pang (8 years)<br>• Lin Bihui Celisa (8 years)</td>
+  </tr>
+  <tr>
+    <td class="tg-fih6">Most Caring Teacher 2022</td>
+    <td class="tg-i7qf"><span style="color:#000;background-color:#FFFAF3">Most Caring Teacher Award recognises teachers who show care and concern for students, developing their potential to the fullest. </span><br></td>
+    <td class="tg-i7qf"><span style="color:#000;background-color:#FFFAF3">Recipients:</span><br><br>1. Heng Hui Hui<br>2. Lee Shin Jiu<br>3. Valentino Lee<br>4. Alfred Rojes<br>5. Ong Chan Hong</td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">Most Engaging Teacher 2022</td>
+    <td class="tg-0ys1"><span style="color:#000;background-color:#FFF">Most Engaging Teacher Award recognises teachers who engage students with creative teaching and learning activities, developing their potential to the fullest. </span><br></td>
+    <td class="tg-jxgv">1. Faizal Bin Mohd<br>2. Lin Weiquan<br>3. Valentino Lee<br>4. Jerome Lim<br>5. Tan Hui Xian</td>
+  </tr>
+  <tr>
+    <td class="tg-fih6">Most Friendly and Helpful Non-Teaching Staff 2022<br></td>
+    <td class="tg-i7qf"><span style="color:#000;background-color:#FFFAF3">Most Friendly and Helpful Non-Teaching Staff Award recognises staff who show care and concern for all staff and students, going the extra mile to help students or staff. </span><br></td>
+    <td class="tg-i7qf"><span style="color:#000;background-color:#FFFAF3">Recipients:</span><br><br>1. Ng Ah Hee<br>2. Monica Chua<br>3. Zaini Bin Zainol<br>4. Elwin Leong<br>5. Maslina Binte Mohd</td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">Most Innovative (ICT) Teacher Award 2022<br></td>
+    <td class="tg-0ys1"><span style="color:#000;background-color:#FFF">The award recognises teachers who show creativity and passion to carry out innovative ICT lessons with e-Pedagogy to value-add students’ learning. These teachers also help fellow teachers to develop interest in using ICT &amp; e-Pedagogy for classroom teaching and blended learning (such as HBL). </span><br></td>
+    <td class="tg-0ys1"><span style="color:#000;background-color:#FFF">Recipient:</span><br><span style="color:#000;background-color:#FFF">1. Jerome Lim</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fih6">Most Inspiring Teacher Award 2022<br></td>
+    <td class="tg-i7qf"><span style="color:#000;background-color:#FFFAF3">The award recognises teachers who are passionate about teaching, showing genuine care for the students and inspire teachers and students the passion for learning. </span><br></td>
+    <td class="tg-i7qf"><span style="color:#000;background-color:#FFFAF3">Recipients:</span><br><span style="color:#000;background-color:#FFFAF3">1. Clarissa Ong</span></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">Best Team Player Teacher Award 2022<br></td>
+    <td class="tg-0ys1"><span style="color:#000;background-color:#FFF">The award recognises teachers who show care and concern for fellow colleagues when working in teams. These teachers embrace collaboration and empower colleagues to contribute actively in teams and school goals. </span><br></td>
+    <td class="tg-0ys1"><span style="color:#000;background-color:#FFF">Recipients:</span><br><span style="color:#000;background-color:#FFF">1. Heng Hui Hui</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-tmat">OCA Individual Award (2022)<br></td>
+    <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">MOE Outstanding Contribution Award (OCA) was introduced in 2001 and it recognises significant contributions made by individual staff and teams in schools.</span><br></td>
+    <td class="tg-1xbg">1. Sim Shi Dian Pearly<br>2. Ong Xin Yi Clarissa<br>3. Jerome Lim Jit How</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">OCA Team Award (2022)<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">MOE Outstanding Contribution Award (OCA) was introduced in 2001 and it recognises significant contributions made by individual staff and teams in schools.</span><br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Student Management Committee</span><br><br>• Ambikai Veeramurugan<br>• Goh Chiat Yi Crystal<br>• Hamad Zainudin Bin Othman<br>• Hanim Binte Shaik Noh<br>• Jaswant Singh s/o G Singh<br>• Loh Mun Kay<br>• Low Chee Chuen<br>• Ng Soon Hoon<br>• Zaini Bin Zainol<br><br><span style="font-weight:400;color:#000">Gear Up Team</span><br>• Ambikai Veeramurugan<br>• Low Hooi Yee<br>• Foo Moo Tean<br>• Tan Gek Yim <br>• Ong Xin Yi Clarissa<br>• Dave Renuka<br>• Chin Siew Kin Christine<br>• Lee Shin Jiu<br>• Ng Kai Yong<br>• Jaswant Singh s/o G Singh<br>• Low Chee Chuen</td>
+  </tr>
+</tbody>
+</table>
+
+#### Staff Accolades 2021 (National/MOE)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -106,4 +183,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
