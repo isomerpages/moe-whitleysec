@@ -6,7 +6,6 @@ third_nav_title: Character Education
 ---
 ![](/images/CCE.jpg)
 
-Education & Career Guidance
-===========================
+### Education & Career Guidance
 
-![](/images/ECG.png)
+<img src="/images/ECG.png" style="width:80%">
