@@ -6,11 +6,9 @@ third_nav_title: Active Citizenship
 ---
 ![](/images/CCE.jpg)
 
-National / Citizenship Education
-================================
+### National / Citizenship Education
 
-NATIONAL / CITIZENSHIP EDUCATION
---------------------------------
+#### NATIONAL / CITIZENSHIP EDUCATION
 
 **CITIZENSHIP EDUCATION@WSS**  
   
@@ -34,18 +32,15 @@ NATIONAL / CITIZENSHIP EDUCATION
 *   NE is infused into Character and Citizenship Education, Languages and Humanities classroom lessons, as well as the four
 *   NE Commemorative Days, the Learning Journeys and Values in Action programmes .
 
-Total Defence Day
------------------
+#### Total Defence Day
 
 ![](/images/NE%20-%20Total%20Defence.jpg)
 
-International Friendship Day
-----------------------------
+#### International Friendship Day
 
 ![](/images/NE%20-%20International%20Friendship%20Day.jpg)
 
-Racial Harmony Day
-------------------
+#### Racial Harmony Day
 
 Our students learned and shared about key contemporary social issues. One of these was to look at radicalization and how we can go about weaving the threads of cohesion in our society through the use of The Straits Time IN. As part of reflection, we got our students to pen it down on Padlet, a new ICT platform for them to share their thoughts.
 
