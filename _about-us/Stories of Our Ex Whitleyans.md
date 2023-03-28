@@ -5,8 +5,7 @@ description: ""
 ---
 ![](/images/about%20us.jpg)
 
-Stories of Our Ex-Whitleyans
-============================
+### Stories of Our Ex-Whitleyans
 
 ![](/images/AlanTanStory.jpg)
 ![](/images/AnbarasanStory.jpg)
