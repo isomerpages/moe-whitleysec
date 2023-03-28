@@ -6,8 +6,7 @@ third_nav_title: Character Education
 ---
 ![](/images/CCE.jpg)
 
-CCE Lessons
-===========
+### CCE Lessons
 
 In Whitley, the CCE lessons provide time for teachers to engage and build relationships with their students through discussions and effective classroom strategies.
 
