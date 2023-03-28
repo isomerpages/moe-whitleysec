@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Student Achievements/Commonwealth Essay Competition.md
       - Student Achievements/Temasek Polytechnic 'Future of Food' Baking
         Challenge.md
       - Student Achievements/O Level Results.md
