@@ -10,11 +10,11 @@ Whitley Secondary School continued to re-position its Values In Action (VIA) Pro
 
   
 
-1.  active citizenry and empathy where students take an active role in bettering the lives of others;
-2.  critical and creative thinking so that students can take action towards a more desirable future;
-3.  takes responsibility for their own learning, character and leadership development;
-4.  confidence and belief in their abilities, strengths and potentials and
-5.  collaborative skills such as teamwork and conflict management
+1\.  active citizenry and empathy where students take an active role in bettering the lives of others; <br>
+2\.  critical and creative thinking so that students can take action towards a more desirable future;<br>
+3\.  takes responsibility for their own learning, character and leadership development;<br>
+4\.  confidence and belief in their abilities, strengths and potentials and<br>
+5\.  collaborative skills such as teamwork and conflict management
 
 Under the guidance of Form Teachers, our students explored important problems and issues and came up with solutions using the Design Thinking Protocol.
 
