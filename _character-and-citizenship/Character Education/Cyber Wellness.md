@@ -6,8 +6,7 @@ third_nav_title: Character Education
 ---
 ![](/images/CCE.jpg)
 
-Cyber Wellness
-==============
+### Cyber Wellness
 
 Through CyberWellness (CW) education in CCE, students learn to be respectful, safe, and responsible users of technology and be a positive peer influence, advocating for the good of the community online. These are the key messages which students will understand: Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities Be a safe and responsible user of technology and maintain a positive online presence Be responsible for personal well-being in the cyberspace CW in CCE focuses on the positive physical and psychological well-being of students as they navigate the cyber world. It involves an understanding of the norms of responsible behaviour regarding technology use as well as knowledge, skills, values, and attitudes on how to protect oneself and other users in the cyber world.  
   
@@ -40,4 +39,4 @@ Cyber Ethics
 
 *   create and share online content in a responsible manner
 
-![](/images/cyber.jpg)
+<img src="/images/cyber.jpg" style="width:80%">
