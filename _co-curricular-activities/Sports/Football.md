@@ -12,9 +12,8 @@ third_nav_title: Sports
 
 Boys Football  
   
-Mr Ng Hua Yang, Ryan: ng\_hua\_yang@schools.gov.sg  
-Mr Jaswant Singh G Singh: jaswant\_singh\_g\_singh@schools.gov.sg  
-Mr Krishan Sanjay Mahesh: Krishan\_Sanjay\_Mahesh@schools.gov.sg
+Mr Ng Hua Yang, Ryan: [ng\_hua\_yang@schools.gov.sg]( ng\_hua\_yang@schools.gov.sg)<br> 
+Mr Jaswant Singh G Singh: [jaswant\_singh\_g\_singh@schools.gov.sg](jaswant\_singh\_g\_singh@schools.gov.sg])<br>  Mr Krishan Sanjay Mahesh: [Krishan\_Sanjay\_Mahesh@schools.gov.sg](Krishan\_Sanjay\_Mahesh@schools.gov.sg)
 
 #### Training Details
 
