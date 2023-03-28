@@ -5,8 +5,6 @@ description: ""
 ---
 ![](/images/about%20us.jpg)
 
-School Song
-===========
+### School Song
 
-![](https://www.whitleysec.moe.edu.sg/pix/spacer.gif)
-
+Insert VIDEO here
