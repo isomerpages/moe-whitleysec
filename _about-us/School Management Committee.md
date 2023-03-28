@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/about%20us.jpg)
 
-School Management Committee
-===========================
+### School Management Committee
 
-![](/images/SMC%202022.jpg)
+<img src="/images/SMC%202022.jpg" style="width:80%">
+
