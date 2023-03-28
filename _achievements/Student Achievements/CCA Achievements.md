@@ -6,11 +6,9 @@ third_nav_title: Student Achievements
 ---
 ![](/images/achievements.jpg)
 
-CCA Achievements
-================
+### CCA Achievements
 
-Club & Societies Achievements
------------------------------
+#### Club & Societies Achievements
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
