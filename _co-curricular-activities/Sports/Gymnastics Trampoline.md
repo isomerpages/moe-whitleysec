@@ -6,24 +6,20 @@ third_nav_title: Sports
 ---
 ![](/images/CCA.jpg)
 
-Gymnastics Trampoline
-=====================
+### Gymnastics Trampoline
 
-Teachers in Charge
-------------------
+#### Teachers in Charge
 
 Miss Lee Sok Kum: [lee\_sok\_kum@schools.gov.sg](mailto:lee_sok_kum@schools.gov.sg)  
 Ms Kuah Li Wen: [kuah\_li\_wen@schools.gov.sg](mailto:kuah_li_wen@schools.gov.sg)  
 Ms Wong Sow Lin: [wong\_sow\_lin@schools.gov.sg](mailto:wong_sow_lin@schools.gov.sg)
 
-Training Details
-----------------
+#### Training Details
 
 Tuesdays & Thursdays: 1500 - 1800 hrs  
 Venue: Indoor Sports Hall
 
-Recent Achievements
--------------------
+#### Recent Achievements
 
 **NATIONAL SCHOOL GAMES TRAMPOLINE CHAMPIONSHIP 2021**  
 B Divison - Boys  
@@ -46,5 +42,5 @@ LEONG KAIXIN
 RACHEL TAN WEN XIU  
 CULATON LOWIS ARWEN LALUCIS
 
-![](/images/gym1.png)
-![](/images/gym2.png)
+<img src="/images/gym1.png" style="width:80%">
+<img src="/images/gym2.png" style="width:80%">
