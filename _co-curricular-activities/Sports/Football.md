@@ -6,11 +6,9 @@ third_nav_title: Sports
 ---
 ![](/images/CCA.jpg)
 
-Football
-========
+### Football
 
-Teachers in Charge
-------------------
+#### Teachers in Charge
 
 Boys Football  
   
@@ -18,12 +16,11 @@ Mr Ng Hua Yang, Ryan: ng\_hua\_yang@schools.gov.sg
 Mr Jaswant Singh G Singh: jaswant\_singh\_g\_singh@schools.gov.sg  
 Mr Krishan Sanjay Mahesh: Krishan\_Sanjay\_Mahesh@schools.gov.sg
 
-Training Details
-----------------
+#### Training Details
 
 **Boys Football:**  
 Tuesdays & Thursdays: 1500h - 1800h
 
-![](/images/football1.png)
-![](/images/football2.png)
-![](/images/football3.png)
+<img src="/images/football1.png" style="width:80%">
+<img src="/images/football2.pngg" style="width:80%">
+<img src="/images/football3.png" style="width:80%">
