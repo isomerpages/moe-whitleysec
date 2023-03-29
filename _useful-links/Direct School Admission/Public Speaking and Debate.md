@@ -4,14 +4,13 @@ permalink: /useful-links/direct-school-admission/public-speaking-and-debate/
 description: ""
 third_nav_title: Direct School Admission
 ---
-
 ### Direct School Admission (DSA)
 
 #### Public Speaking and Debate @ Whitley Secondary School
 
 #### The Caring & Learning Community of Leaders
 
-<img src="/images/about%20us.jpg" style="width:80%">
+<img src="/images/PublicSpeaking%201.jpeg" style="width:80%">
   
   
 
