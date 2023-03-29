@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Whitley School Library's Online Catalogue (OPAC).md
       - School Year Books/.keep
       - School Year Books/School Magazine 2021.md
       - School Bookshop and Uniform Supplier.md
