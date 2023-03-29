@@ -18,3 +18,15 @@ description: ""
 |  |  |  |  |  |
 |---|---|---|---|---|
 | <a href="e"><img style="width:95%" src="/images/cca6.png"></a> | <a href="e"><img style="width:95%" src="/images/cca7.png"></a> | <a href="e"><img style="width:95%" src="/images/cca8.png"></a> | <a href="e"><img style="width:95%" src="/images/cca9.png"></a> | <a href="e"><img style="width:95%" src="/images/cca10.png"></a> |
+
+#### Performing Arts
+
+|  |  |  |  |  |
+|---|---|---|---|---|
+| <a href="e"><img style="width:80%" src="/images/cca11.png"></a> | <a href="e"><img style="width:80%" src="/images/cca12.png"></a> | <a href="e"><img style="width:80%" src="/images/cca13.png"></a> | <a href="e"><img style="width:80%" src="/images/cca14.png"></a> |  |
+
+#### Clubs & Societies
+
+|  |  |  |  |  |
+|---|---|---|---|---|
+| <a href="e"><img style="width:80%" src="/images/cca15.png"></a> | <a href="e"><img style="width:80%" src="/images/cca16.png"></a> | <a href="e"><img style="width:80%" src="/images/cca17.png"></a> | <a href="e"><img style="width:80%" src="/images/cca18.png"></a> |  |
