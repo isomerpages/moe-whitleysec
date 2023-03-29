@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Co–Curricular Activities.md
       - Clubs and Societies/Art Club.md
       - Clubs and Societies/English Debating Club.md
       - Clubs and Societies/Media Comm Club.md
