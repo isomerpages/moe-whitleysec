@@ -7,13 +7,13 @@ description: ""
 
 ### School Mission, Vision and Values
 
-##### <center> Our Mission <br><br>
+##### <center> Our Mission <br></center> 
 
-To nurture Whitleyans to be Exemplary Leaders with the Heart to Care and the Will to Learn</center> 
+To nurture Whitleyans to be Exemplary Leaders with the Heart to Care and the Will to Learn
 
-##### <center> Our Vision<br><br>
+##### <center> Our Vision<br></center>
 
-To nurture Whitleyans to be Exemplary Leaders with the Heart to Care and the Will to Learn</center>
+To nurture Whitleyans to be Exemplary Leaders with the Heart to Care and the Will to Learn
 
 ##### <center> Our Values
 
@@ -24,4 +24,3 @@ To nurture Whitleyans to be Exemplary Leaders with the Heart to Care and the Wil
 <u>E</u>mpathy</center>
 
 <img src="/images/034A0843A.jpeg" style="width:80%">
-
