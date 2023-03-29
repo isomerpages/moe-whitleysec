@@ -2,10 +2,10 @@ collections:
   useful-links:
     output: true
     order:
+      - Direct School Admission/.keep
+      - Direct School Admission/Public Speaking and Debate.md
       - Direct School Admission/Leadership and Character at Whitley Secondary
         School.md
-      - Direct School Admission/Public Speaking and Debate.md
-      - Direct School Admission/.keep
       - School Year Books/School Magazine 2021.md
       - School Year Books/.keep
       - School Bookshop and Uniform Supplier.md
