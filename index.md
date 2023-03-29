@@ -9,4 +9,11 @@ sections:
   - hero:
       background: /images/Homepage.gif
       url: /contact-us/
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: /announcements/
+        - title: News & Events
+          description: ""
+          url: /news-and-events/
 ---
