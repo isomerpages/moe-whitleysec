@@ -18,6 +18,8 @@ To proceed, please click [here](https://sites.google.com/s/0B64LkrqDRT7ERUlZbGF
 
 **Video Guide - How to access school's info using school Google email login**
 
+Insert video here!
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
