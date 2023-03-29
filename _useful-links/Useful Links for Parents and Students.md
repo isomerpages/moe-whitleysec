@@ -5,8 +5,7 @@ description: ""
 ---
 ![](/images/useful%20links.jpg)
 
-Useful Links for Parents and Students
-=====================================
+### Useful Links for Parents and Students
 
 To access important information from the school, parents and students will need to log in using their Whitley's Gmail account.  
   
