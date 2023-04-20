@@ -1,15 +1,31 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/School_Logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Key Programmes
+    url: /key-programmes/Communicative-Arts/
+    sublinks:
+      - title: Communicative Arts
+        url: /key-programmes/Communicative-Arts/
+      - title: Full Subject Based Banding
+        url: /key-programmes/sbb/permalink/
+      - title: Active Citizenship
+        url: /key-programmes/Active-Citizenship/permalink/
+      - title: GEAR-UP
+        url: /key-programmes/GEAR-UP/permalink/
+      - title: NDLP
+        url: /key-programmes/ndlp/permalink/
+      - title: Outdoor Education
+        url: /outdoor-education/Cross-Country/
+      - title: STEM Education
+        url: /key-programmes/STEM-Education/permalink/
+  - title: CCE
+    collection: character-and-citizenship
+  - title: Departments
+    collection: departments
+  - title: CCAs
+    collection: co-curricular-activities
+  - title: Achievements
+    collection: achievements
+  - title: Useful Links
+    collection: useful-links
