@@ -9,8 +9,8 @@ description: ""
 
 Whitley Secondary School<br>
 30 Bishan Street 24 Singapore 579747<br>
-Tel: 64561336<br>
-Fax: 64591330<br>
-Email: [whitley\_ss@moe.edu.sg](mailto:whitley_ss@moe.edu.sg)
+Tel: +65 64561336<br>
+Fax: +65 64591330<br>
+Email:&nbsp;[whitley\_ss@moe.edu.sg](mailto:whitley_ss@moe.edu.sg)
 
 <img src="/images/contactus.jpeg" style="width:80%">

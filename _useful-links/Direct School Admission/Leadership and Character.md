@@ -6,8 +6,6 @@ third_nav_title: Direct School Admission
 ---
 ### Leadership and Character
 
-#### Direct School Admission (DSA)
-
 #### Leadership and Character @ Whitley Secondary School  
 
 <img src="/images/lc1.png" style="width:80%">
@@ -26,4 +24,3 @@ At WSS, students can take on different leadership positions: prefects, CCA leade
 At the heart of leadership is the heart of service. At WSS, we nurture exemplary student leaders who have the heart to care and the will to learn. You will be given opportunities to plan and organise school events and values-in-action projects, and to effect changes in student-initiated school improvement projects. Through a wide range of projects and developmental opportunities, you will be able to discover your talents and develop your leadership skills, abilities and character, through discipline, dedication, teamwork and perseverance. If you have the desire to lead and serve, join us and be part of our family.
 
   In the meantime, please check here regularly for further updates.
- 
