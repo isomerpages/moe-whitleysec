@@ -6,8 +6,6 @@ third_nav_title: Direct School Admission
 ---
 ### Leadership and Character
 
-#### Direct School Admission (DSA)
-
 #### Leadership and Character @ Whitley Secondary School  
 
 <img src="/images/lc1.png" style="width:80%">
