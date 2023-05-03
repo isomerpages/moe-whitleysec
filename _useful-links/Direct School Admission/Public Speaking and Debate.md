@@ -48,7 +48,7 @@ Should your child be shortlisted for an interview, you will be contacted between
 
 
 Useful MOE weblinks:<br>
-•	DSA-Sec Main Webpage <br>	https://www.moe.gov.sg/dsa-sec
+•	DSA-Sec Main Webpage <br>[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
 •	Instructions on Application (Mainstream students) <br>	https://go.gov.sg/dsa-sec-application
  
