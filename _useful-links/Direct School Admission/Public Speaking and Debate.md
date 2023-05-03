@@ -50,17 +50,17 @@ Should your child be shortlisted for an interview, you will be contacted between
 Useful MOE weblinks:<br>
 •	DSA-Sec Main Webpage <br>[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
-•	Instructions on Application (Mainstream students) <br>	https://go.gov.sg/dsa-sec-application
+•	Instructions on Application (Mainstream students) <br>	[https://go.gov.sg/dsa-sec-application](https://go.gov.sg/dsa-sec-application)
  
-•	Instructions on Application (Non Mainstream Students) <br>	https://go.gov.sg/nmsdsa-sec-application
+•	Instructions on Application (Non Mainstream Students) <br>	[https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)
  
-•	Direct to DSA-Sec Portal (Mainstream Students) * go live on 4 May, 11am 	https://go.gov.sg/apply-dsa-sec
+•	Direct to DSA-Sec Portal (Mainstream Students) * go live on 4 May, 11am 	[https://go.gov.sg/apply-dsa-sec](https://go.gov.sg/apply-dsa-sec)
  
-•	Direct to DSA-Sec Portal (Non Mainstream Students) * go live on 4 May, 11am 	https://go.gov.sg/apply-dsa-sec-nms
+•	Direct to DSA-Sec Portal (Non Mainstream Students) * go live on 4 May, 11am 	[https://go.gov.sg/apply-dsa-sec-nms](https://go.gov.sg/apply-dsa-sec-nms)
  
-•	DSA-Sec iFAQs 	<br>https://go.gov.sg/dsa-secfaqs
+•	DSA-Sec iFAQs 	<br>[https://go.gov.sg/dsa-secfaqs](https://go.gov.sg/dsa-secfaqs)
  
-•	DSA-Sec School Finder <br>	https://go.gov.sg/dsa-secschfinder
+•	DSA-Sec School Finder <br>	[https://go.gov.sg/dsa-secschfinder](https://go.gov.sg/dsa-secschfinder)
 
 
 
