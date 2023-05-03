@@ -26,13 +26,13 @@ At Whitley Secondary School, the spiral progression approach to learning is pivo
 #### Who should apply?
 If you are keen on developing yourself holistically, possess strong oracy skills and demonstrate a confidence and passion for speaking, this programme is for you. 
 
-The following will be our criteria for selection:
-•	Students with very good conduct
-•	Experiences pertinent to public speaking or debating in the presence of audience
-•	An interview to determine suitability (no experience required)
-o	To deliver a 3-minute prepared speech on any social issue or story
-o	To speak on an impromptu topic during the interview
-•	Your achievements at the national / international level would be an advantage
+The following will be our criteria for selection:<br>
+* Students with very good conduct<br>
+* Experiences pertinent to public speaking or debating in the presence of audience<br>
+* An interview to determine suitability (no experience required)<br>
+o	To deliver a 3-minute prepared speech on any social issue or story<br>
+o	To speak on an impromptu topic during the interview<br>
+* Your achievements at the national / international level would be an advantage
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
@@ -47,26 +47,24 @@ For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](www.m
 Should your child be shortlisted for an interview, you will be contacted between **26 June and 11 September**. 
 
 
-Useful MOE weblinks:
-•	DSA-Sec Main Webpage 	https://www.moe.gov.sg/dsa-sec
+Useful MOE weblinks:<br>
+•	DSA-Sec Main Webpage <br>	https://www.moe.gov.sg/dsa-sec
 
-•	Instructions on Application (Mainstream students) 	https://go.gov.sg/dsa-sec-application
+•	Instructions on Application (Mainstream students) <br>	https://go.gov.sg/dsa-sec-application
  
-•	Instructions on Application (Non Mainstream Students) 	https://go.gov.sg/nmsdsa-sec-application
+•	Instructions on Application (Non Mainstream Students) <br>	https://go.gov.sg/nmsdsa-sec-application
  
 •	Direct to DSA-Sec Portal (Mainstream Students) * go live on 4 May, 11am 	https://go.gov.sg/apply-dsa-sec
  
 •	Direct to DSA-Sec Portal (Non Mainstream Students) * go live on 4 May, 11am 	https://go.gov.sg/apply-dsa-sec-nms
  
-•	DSA-Sec iFAQs 	https://go.gov.sg/dsa-secfaqs
+•	DSA-Sec iFAQs 	<br>https://go.gov.sg/dsa-secfaqs
  
-•	DSA-Sec School Finder 	https://go.gov.sg/dsa-secschfinder
+•	DSA-Sec School Finder <br>	https://go.gov.sg/dsa-secschfinder
 
 
 
-Contact Details
-Ms Veronica Lim (HOD EL)
-Email: [lim_puay_hoon_veronica@schools.gov.sg](lim_puay_hoon_veronica@schools.gov.sg)
+Contact Details<br>
+Ms Veronica Lim (HOD EL)<br>
+Email: [lim_puay_hoon_veronica@schools.gov.sg](lim_puay_hoon_veronica@schools.gov.sg)<br>
 School Code: 3015
-
-
