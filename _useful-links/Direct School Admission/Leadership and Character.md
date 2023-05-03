@@ -51,23 +51,17 @@ For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec
 Should your child be shortlisted for an interview, you will be contacted between** 26 June and 11 September**. 
 
 
-Useful MOE weblinks:
-•	DSA-Sec Main Webpage 	https://www.moe.gov.sg/dsa-sec
+**Useful MOE weblinks:**
 
-•	Instructions on Application (Mainstream students) 	https://go.gov.sg/dsa-sec-application
- 
-•	Instructions on Application (Non Mainstream Students) 	https://go.gov.sg/nmsdsa-sec-application
- 
-•	Direct to DSA-Sec Portal (Mainstream Students) * go live on 4 May, 11am 	https://go.gov.sg/apply-dsa-sec
- 
-•	Direct to DSA-Sec Portal (Non Mainstream Students) * go live on 4 May, 11am 	https://go.gov.sg/apply-dsa-sec-nms
- 
-•	DSA-Sec iFAQs 	https://go.gov.sg/dsa-secfaqs
- 
-•	DSA-Sec School Finder 	https://go.gov.sg/dsa-secschfinder
+•	DSA-Sec Main Webpage <br>https://www.moe.gov.sg/dsa-sec<br>
+•	Instructions on Application (Mainstream students)<br> 	https://go.gov.sg/dsa-sec-application<br>
+•	Instructions on Application (Non Mainstream Students)<br> 	https://go.gov.sg/nmsdsa-sec-application<br>
+•	Direct to DSA-Sec Portal (Mainstream Students) * go live on 4 May, 11am 	https://go.gov.sg/apply-dsa-sec<br>
+•	Direct to DSA-Sec Portal (Non Mainstream Students) * go live on 4 May, 11am 	https://go.gov.sg/apply-dsa-sec-nms<br>
+•	DSA-Sec iFAQs 	<br>https://go.gov.sg/dsa-secfaqs<br>
+•	DSA-Sec School Finder<br> 	https://go.gov.sg/dsa-secschfinder<br>
 
-
-Contact Details
-Ms Winnie Kok (SH Student Leadership)
-Email: kok_pei_shan_winnie@schools.gov.sg
+**Contact Details**<br>
+Ms Winnie Kok (SH Student Leadership)<br>
+Email: kok_pei_shan_winnie@schools.gov.sg<br>
 School Code: 3015
