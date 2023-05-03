@@ -54,12 +54,19 @@ Should your child be shortlisted for an interview, you will be contacted between
 **Useful MOE weblinks:**
 
 •	DSA-Sec Main Webpage <br>https://www.moe.gov.sg/dsa-sec<br>
+
 •	Instructions on Application (Mainstream students)<br> 	https://go.gov.sg/dsa-sec-application<br>
+
 •	Instructions on Application (Non Mainstream Students)<br> 	https://go.gov.sg/nmsdsa-sec-application<br>
+
 •	Direct to DSA-Sec Portal (Mainstream Students) * go live on 4 May, 11am 	https://go.gov.sg/apply-dsa-sec<br>
+
 •	Direct to DSA-Sec Portal (Non Mainstream Students) * go live on 4 May, 11am 	https://go.gov.sg/apply-dsa-sec-nms<br>
+
 •	DSA-Sec iFAQs 	<br>https://go.gov.sg/dsa-secfaqs<br>
+
 •	DSA-Sec School Finder<br> 	https://go.gov.sg/dsa-secschfinder<br>
+
 
 **Contact Details**<br>
 Ms Winnie Kok (SH Student Leadership)<br>
