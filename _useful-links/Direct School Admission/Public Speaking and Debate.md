@@ -64,5 +64,5 @@ Useful MOE weblinks:<br>
 
 Contact Details<br>
 Ms Veronica Lim (HOD EL)<br>
-Email: [mailto:lim_puay_hoon_veronica@schools.gov.sg](lim_puay_hoon_veronica@schools.gov.sg)<br>
+Email: [lim_puay_hoon_veronica@schools.gov.sg](mailto:lim_puay_hoon_veronica@schools.gov.sg)<br>
 School Code: 3015
