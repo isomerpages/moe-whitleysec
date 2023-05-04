@@ -46,9 +46,7 @@ Please note that students who are successfully admitted to the school via DSA ar
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. 
 
-For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec
-
-Should your child be shortlisted for an interview, you will be contacted between** 26 June and 11 September**. 
+Should your child be shortlisted for an interview, you will be contacted between **26 June and 11 September**. 
 
 
 **Useful MOE weblinks:**
@@ -70,5 +68,5 @@ Should your child be shortlisted for an interview, you will be contacted between
 
 **Contact Details**<br>
 Ms Winnie Kok (SH Student Leadership)<br>
-Email: kok_pei_shan_winnie@schools.gov.sg<br>
+Email: [kok_pei_shan_winnie@schools.gov.sg](mailto:kok_pei_shan_winnie@schools.gov.sg)<br>
 School Code: 3015
