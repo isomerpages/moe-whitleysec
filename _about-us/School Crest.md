@@ -9,6 +9,6 @@ description: ""
 
 <img src="/images/School_Logo.png" style="width:50%">
 
-##### <center> School Motto <br><br>
+##### <center> School Motto </center> 
 
-Knowledge<br>and<br> Sportsmanship</center> 
+<center> Knowledge<br>and<br> Sportsmanship</center>
