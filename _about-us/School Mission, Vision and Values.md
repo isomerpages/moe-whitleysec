@@ -9,18 +9,18 @@ description: ""
 
 ##### <center> Our Mission <br></center> 
 
-To nurture Whitleyans to be Exemplary Leaders with the Heart to Care and the Will to Learn
+<center> To nurture Whitleyans to be Exemplary Leaders with the Heart to Care and the Will to Learn </center> 
 
 ##### <center> Our Vision<br></center>
 
-To nurture Whitleyans to be Exemplary Leaders with the Heart to Care and the Will to Learn
+<center> A Caring and Learning Community of Leaders </center> 
 
 ##### <center> Our Values
 
-<u>P</u>erseverance  <br>
+<center><u>P</u>erseverance  <br>
 <u>R</u>espect  <br>
 <u>I</u>ntegrity  <br>
 <u>D</u>iscipline  <br>
-<u>E</u>mpathy</center>
+<u>E</u>mpathy</center></center>
 
 <img src="/images/034A0843A.jpeg" style="width:80%">
