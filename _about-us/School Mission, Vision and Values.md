@@ -15,12 +15,12 @@ description: ""
 
 <center> A Caring and Learning Community of Leaders </center> 
 
-##### <center> Our Values
+##### <center> Our Values<br></center>
 
 <center><u>P</u>erseverance  <br>
 <u>R</u>espect  <br>
 <u>I</u>ntegrity  <br>
 <u>D</u>iscipline  <br>
-<u>E</u>mpathy</center></center>
+<u>E</u>mpathy </center>
 
 <img src="/images/034A0843A.jpeg" style="width:80%">
