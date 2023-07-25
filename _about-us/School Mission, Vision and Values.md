@@ -21,6 +21,6 @@ description: ""
 <u>R</u>espect  <br>
 <u>I</u>ntegrity  <br>
 <u>D</u>iscipline  <br>
-<u>E</u>mpathy</center>
+<u>E</u>mpathy
 
-<img src="/images/034A0843A.jpeg" style="width:80%">
+<img src="/images/034A0843A.jpeg" style="width:80%"></center>
