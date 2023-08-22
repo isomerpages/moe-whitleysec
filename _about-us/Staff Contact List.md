@@ -797,10 +797,6 @@ description: ""
     <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">Administrative Executive</span></td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mr Karthik Raj</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Desktop Engineer</span></td>
-  </tr>
-  <tr>
     <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">Mr Muhammad Lutfi Bin Rahman</span></td>
     <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">Desktop Engineer</span></td>
   </tr>
