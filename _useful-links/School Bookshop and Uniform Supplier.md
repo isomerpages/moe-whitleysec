@@ -34,7 +34,7 @@ School Bookshop and Uniform Supplier
   <tr>
     <td class="tg-dnru"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">SCHOOL BOOKSHOP</span></td>
     <td class="tg-7yig" colspan="2" rowspan="2"><span style="font-weight:400;color:#000">MONDAY - FRIDAY</span><br><span style="font-weight:400;color:#000">9AM - 3PM</span></td>
-    <td class="tg-dgl5" colspan="2">Casco Educational Supply Pte. Ltd.<br><span style="color:#000;background-color:#FFF">Tel: 65474203 /04</span><br><a href="http://www.cascoedusupply.com.sg/"><span style="text-decoration:underline;color:#E68520">www.cascoedusupply.com.sg</span></a><br></td>
+    <td class="tg-dgl5" colspan="2">COZY BOOKSTORE<br><span style="color:#000;background-color:#FFF">Tel: 84662516</span><br><a href="http://www.cascoedusupply.com.sg/"><span style="text-decoration:underline;color:#E68520">cozybkstore@gmail.com</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-dnru"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">SCHOOL UNIFORM</span></td>
