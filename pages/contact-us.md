@@ -13,7 +13,7 @@ locations:
         time: 7.00am - 6.00pm
         description: Closed on Public Holidays
     maps_link: https://goo.gl/maps/wbTzoFjUSiafVmcy9
-    title: General Office
+    title: General Office.
 contacts:
   - content:
       - phone: +65 6564 5613
