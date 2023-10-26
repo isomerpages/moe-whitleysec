@@ -7,4 +7,4 @@ description: ""
 
 #### Welcome to WSS Open House
 
-<img src="/images/openhouse.png" style="width:80%">
+![](/images/wss%20broadcast%20screen%205.jpg)
