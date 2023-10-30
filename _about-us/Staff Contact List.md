@@ -741,12 +741,20 @@ description: ""
     <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">Ms Cholmain Tse Wing Yi</span></td>
     <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">Administrative Executive (AE)</span></td>
   </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Hamaliah Kaerie</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Corporate Support Officer(CSO)</span></td>
+ <tr>
+    <td class="tg-xvsk"><span style="color:#000;background-color:#FFF">Mr Low Daniel</span></td>
+    <td class="tg-xvsk"><span style="color:#000;background-color:#FFF">ICT Associate</span></td>
   </tr>
   <tr>
-    <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">Mdm Seh Kim Far</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFFAF3">Ms Hamaliah Kaerie</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFFAF3">Corporate Support Officer(CSO)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-xvsk"><span style="color:#000;background-color:#FFF">Mdm Lai Swee Lee</span></td>
+    <td class="tg-xvsk"><span style="color:#000;background-color:#FFF">Corporate Support Officer(CSO)</span></td>
+  </tr>
+<tr>
+    <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">Miss Colleen Fong</span></td>
     <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">Corporate Support Officer(CSO)</span></td>
   </tr>
   <tr>
@@ -793,16 +801,17 @@ description: ""
     <td class="tg-9hzb" colspan="2">Support Staff</td>
   </tr>
   <tr>
-    <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">Mdm Monica Chua</span></td>
-    <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">Administrative Executive</span></td>
-  </tr>
-  <tr>
     <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">Mr Muhammad Lutfi Bin Rahman</span></td>
     <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">Desktop Engineer</span></td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mdm Hasimah Binte Ahmad</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Librarian Assistant</span></td>
+    <td class="tg-xvsk"><span style="color:#000;background-color:#FFF">Mr Alvin Lau Kiang Loong </span></td>
+    <td class="tg-xvsk"><span style="color:#000;background-color:#FFFF">Desktop Engineer</span></td>
+  </tr>
+
+  <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFFAF3">Mdm Hasimah Binte Ahmad</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFFAF3">Librarian Assistant</span></td>
   </tr>
 </tbody>
 </table>
