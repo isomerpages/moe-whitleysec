@@ -2,13 +2,12 @@
 title: Student Development Committee
 permalink: /departments/sdc/permalink/
 description: ""
+variant: markdown
 ---
-![](/images/departments.jpg)
-
 Student Development Committee
 =============================
 
-![](/images/Student%20Development%20Committee.jpg)
+![SD](/images/Student_Development_FORMAL___S.jpg)
 
 Character & Citizenship Education Department Whitley Secondary School adopts a holistic approach to Character & Citizenship Education (CCE). CCE lessons focus on the explicit teaching of values and social-emotional competencies to address the holistic developmental needs of students, and this is complemented by guided opportunities for reinforcement and application of learning. Our lessons aim to equip students with relevant knowledge and skills to better understand real-world contexts, including understanding mental health issues, navigating cyber spaces responsibly, making appropriate educational and career choices, appreciating family life and understanding Singapore’s racial and religious diversity.
 

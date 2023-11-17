@@ -2,13 +2,12 @@
 title: Physical Education
 permalink: /departments/pe/permalink/
 description: ""
+variant: markdown
 ---
-![](/images/departments.jpg)
-
 Physical Education
 ==================
 
-![](/images/PE%20copy.jpg)
+![PE](/images/PE_FORMAL_Named___S.jpg)
 
 Whitley Secondary School’s Physical Education Department aims to develop students’ learning capacity to be fit and healthy students who are resilient and adventurous. We believe in teaching our students to learn and adopt life-long healthy habits and that Physical Education is an integral part of the holistic development of every child. We seek to educate our students on overall fitness and wellness, develop games proficiency and learn important values such as teamwork, resilience and grit through sports.  
   

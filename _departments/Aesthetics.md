@@ -2,11 +2,12 @@
 title: Aesthetics
 permalink: /departments/Aesthetics/permalink/
 description: ""
+variant: markdown
 ---
 Aesthetics
 ==========
 
-![](/images/Aesthetics%20copy.jpg)
+![Aes](/images/Aesthetic_FORMAL_Named___S.jpg)
 
 Design and Technology Unit
 --------------------------

@@ -2,13 +2,12 @@
 title: Humanities
 permalink: /departments/Humanities/permalink/
 description: ""
+variant: markdown
 ---
-![](/images/departments.jpg)
-
 Humanities
 ==========
 
-![](/images/Humanities%20copy.jpg)
+![Hum](/images/Humanities_FORMAL_Named___S.jpg)
 
 Whitley Secondary School Humanities Department teachers are committed to helping our students succeed in and broaden the horizons of their learning. Our History, Social Studies, Geography and Principles of Accounts teachers care for our students’ well-being and strive to make their learning enjoyable, meaningful and authentic by promoting experiential learning and relating their learning to contemporary world issues and events. Through our Humanities curriculum, we aim to inculcate strong citizenship values and develop students’ critical and analytical thinking skills. Furthermore, student collaboration and peer learning is strongly valued, and promoted through group projects and relevant pedagogical approaches such as the Structured Inquiry Cycle & Deliberation process.
 

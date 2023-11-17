@@ -2,14 +2,12 @@
 title: English & Literature
 permalink: /departments/permalink/
 description: ""
+variant: markdown
 ---
-
-![](/images/departments.jpg)
-
 English & Literature 
 =====================
 
-![](/images/English%20Language%20and%20Literature%20copy%20(1).jpg)
+![ENG](/images/English_FORMAL_Named___S.jpg)
 
 The English Language and Literature Department is committed to equipping every Whitleyan with effective and affective communication skills. As a core competency in navigating the intricacies of our increasingly complex world, we believe in exposing our students to relevant language-use contexts. This is done through infusing authentic texts and tasks into our classroom pedagogies. Across the levels, students embark on a variety of meaningful tasks such as public speaking, critical thinking, collaborative research, and story creation. In 2021, we have adapted well to the challenges of the pandemic, tapping on platforms such as StoryJumper and Libby, as well as advanced software such as Scribo, to augment and deliver our English Language curriculum effectively. Indeed, our students have risen to the challenge, winning Gold Awards in the Queen's Commonwealth Essay Competition. Alongside the Applied Learning Programme, all these come together in our goal to develop our students into confident communicators and curious learners.
 

@@ -2,10 +2,9 @@
 title: Executive and Administrative Staff
 permalink: /departments/ExecutiveandAdministrativeStaff/permalink/
 description: ""
+variant: markdown
 ---
-![](/images/departments.jpg)
-
 Executive and Administrative Staff
 ==================================
 
-![](/images/EAS%20copy.jpg)
+![Admin](/images/Admin_FORMAL_Named___S.jpg)

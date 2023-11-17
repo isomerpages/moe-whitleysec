@@ -2,13 +2,12 @@
 title: Mother Tongue
 permalink: /departments/MotherTongue/permalink/
 description: ""
+variant: markdown
 ---
-![](/images/departments.jpg)
-
 Mother Tongue
 =============
 
-![](/images/Mother%20Tongue%20Language%20copy.jpg)
+![MTL](/images/MTL_FORMAL_Named___S.jpg)
 
 MTL Reading Programme
 ---------------------
