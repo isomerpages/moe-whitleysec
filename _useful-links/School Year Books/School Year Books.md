@@ -6,8 +6,8 @@ third_nav_title: School Year Books
 variant: markdown
 ---
 
-[**CLICK HERE TO VIEW MORE (YEAR BOOK 2023)**](https://drive.google.com/drive/folders/1PKdtIWDek0f9YmCxa4SDxdQw0MDurxcN)
-
+![](/images/Whitley_Sec_2023__3_page_0001.jpg)
+[**CLICK HERE TO VIEW MORE (YEAR BOOK 2023)**](https://drive.google.com/file/d/1XIYp4heCUF-ySVPczfemzQIdyzK4gmZE/view?usp=sharing)
 
 ![](/images/Whitley_Sec_2022_page_0001.jpg)
 [**CLICK HERE TO VIEW MORE (YEAR BOOK 2022)**](https://drive.google.com/file/d/1v6sZrhsMBfNUwoX_Kp4oGkAbFZK0TLKG/view?usp=sharing)
