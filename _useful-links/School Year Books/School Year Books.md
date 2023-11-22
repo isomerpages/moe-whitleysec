@@ -5,7 +5,6 @@ description: ""
 third_nav_title: School Year Books
 variant: markdown
 ---
-
 ![](/images/Whitley_Sec_2023__3_page_0001.jpg)
 [**CLICK HERE TO VIEW MORE (YEAR BOOK 2023)**](https://drive.google.com/file/d/1XIYp4heCUF-ySVPczfemzQIdyzK4gmZE/view?usp=sharing)
 
