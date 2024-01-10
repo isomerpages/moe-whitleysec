@@ -2,11 +2,11 @@ collections:
   useful-links:
     output: true
     order:
-      - For Students/Useful Links for Students.md
-      - For Students/.keep
-      - For Parents/Information on Sale of Textbooks and Uniforms 2024.md
-      - For Parents/.keep
       - For Teachers.md
+      - For Students/.keep
+      - For Students/Useful Links for Students.md
+      - For Parents/.keep
+      - For Parents/Information on Sale of Textbooks and Uniforms 2024.md
       - School Year Books/.keep
       - School Year Books/School Year Books.md
       - Direct School Admission/.keep
