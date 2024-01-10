@@ -2,11 +2,10 @@
 title: Useful Links for Teachers
 permalink: /useful-links/teachers/permalink/
 description: ""
+variant: markdown
 ---
 ![](/images/useful%20links.jpg)
 
-Useful Links for Teachers
-=========================
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -33,20 +32,26 @@ Useful Links for Teachers
   </tr>
 </thead>
 <tbody>
+ <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span><a href="https://portal.mims.moe.gov.sg/"><span style="text-decoration:underline;color:#E68520">MIMS Portal</span></a></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">No</span></td>
+  </tr>
   <tr>
     <td class="tg-bhk3"><a href="https://vle.learning.moe.edu.sg/"><span style="text-decoration:underline;color:#E68520">Student Learning Space</span></a></td>
     <td class="tg-zufg"><span style="color:#000;background-color:#FFF">No</span></td>
   </tr>
-  <tr>
-    <td class="tg-8zl1"><a href="https://login.microsoftonline.com/"><span style="text-decoration:underline;color:#E68520">Microsoft Office Login</span></a></td>
-    <td class="tg-snrq"><span style="color:#000;background-color:#FFFAF3">No</span></td>
-  </tr>
+
   <tr>
     <td class="tg-giy4"><a href="https://icon.moe.edu.sg/"><span style="text-decoration:underline;color:#E68520">ICON</span></a></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">No</span></td>
   </tr>
   <tr>
     <td class="tg-xgl2"><a href="https://schoolcockpit.moe.gov.sg/"><span style="text-decoration:underline;color:#E68520">School Cockpit</span></a></td>
+    <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">Yes</span></td>
+  </tr>
+  <tr>
+</tr><tr>
+    <td class="tg-xgl2"><a href="https://intranet.moe.gov.sg/Pages/Home.aspx"><span style="text-decoration:underline;color:#E68520">MOE Intranet</span></a></td>
     <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">Yes</span></td>
   </tr>
   <tr>
@@ -73,30 +78,15 @@ Useful Links for Teachers
     <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3"> </span><a href="https://pg.moe.edu.sg/"><span style="text-decoration:underline;color:#E68520">Parents Gateway</span></a></td>
     <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">No</span></td>
   </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span><a href="https://portal.mims.moe.gov.sg/"><span style="text-decoration:underline;color:#E68520">MIMS Portal</span></a></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">No</span></td>
-  </tr>
-  <tr>
-    <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3"> </span><a href="https://form.gov.sg/"><span style="text-decoration:underline;color:#E68520">Form SG</span></a></td>
-    <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">No</span></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span><a href="https://go.gov.sg/"><span style="text-decoration:underline;color:#E68520">Go.gov.sg</span></a></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">No</span></td>
-  </tr>
-  <tr>
-    <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3"> </span><a href="https://go.gov.sg/whitleyict"><span style="text-decoration:underline;color:#E68520">ICT Service Requests</span></a></td>
-    <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">No</span></td>
-  </tr>
+ 
 </tbody>
 </table>
 
-#### FORGOT YOUR IAMS / ICON PASSWORDS?
+#### **FORGOT YOUR IAMS / ICON PASSWORDS?**
 
 
 **IAMS**  
-Self-reset at [https://idp.mims.moe.gov.sg/nidp/saml2/sso](https://idp.mims.moe.gov.sg/nidp/saml2/sso), or approach our school's IAMS local administrator for assistance.  
+Self-reset at&nbsp;[https://idp.mims.moe.gov.sg/nidp/saml2/sso](https://idp.mims.moe.gov.sg/nidp/saml2/sso), or approach our school's IAMS local administrator for assistance.  
   
 **ICON**  
-Self-reset at [https://icon.moe.edu.sg](https://icon.moe.edu.sg/), or contact the SSOE Service Desk at 1800-7663-663 or [help@moe.edu.sg](mailto:help@moe.edu.sg) for assistance.
+Self-reset at&nbsp;[https://icon.moe.edu.sg](https://icon.moe.edu.sg/), or contact the SSOE Service Desk at 1800-7663-663 or&nbsp;[help@moe.edu.sg](mailto:help@moe.edu.sg)&nbsp;for assistance.
