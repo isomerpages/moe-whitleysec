@@ -52,7 +52,7 @@ variant: markdown
 	</tr>
 	<tr>
 	 <td> <a href="https://www.hrp.gov.sg/">HRP</a></td>
-   <td>No</td>
+   <td>Yes</td>
 	</tr>
 	<tr>
 	 <td> <a href="https://pg.moe.edu.sg/">Parents Gateway</a></td>
