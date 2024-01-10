@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Staff Contact List.md
       - School Mission, Vision and Values.md
       - School Crest.md
       - School Song.md
@@ -10,3 +9,4 @@ collections:
       - Whitley 50 E Book.md
       - School Management Committee.md
       - Contact Us.md
+      - Staff Contact List.md
