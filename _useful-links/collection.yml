@@ -2,9 +2,9 @@ collections:
   useful-links:
     output: true
     order:
-      - Staff Contact List.md
       - For Students.md
       - For Teachers.md
+      - Staff Contact List.md
       - Direct School Admission/.keep
       - Direct School Admission/Public Speaking and Debate.md
       - Direct School Admission/Leadership and Character.md
