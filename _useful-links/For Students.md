@@ -5,6 +5,23 @@ description: ""
 variant: markdown
 ---
 ![](/images/useful%20links.jpg)
+<table>
+<thead>
+  <tr>
+<th>Learning Portals</th>
+ 
+ </tr><tr>
+	 <td> <a href="https://vle.learning.moe.edu.sg/">Student Learning Space</a></td>
+ 
+  </tr>
+  <tr>
+ </tr><tr>
+	 <td> <a href="https://classroom.google.com/">Google Classroom</a></td>
+  </tr>
+ 
+
+</thead></table>
+
 
 #### **SLS Support for Home-based Learning**  
 **School Operating Hours**  
