@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - For Students/.keep
       - For Parents/Information on Sale of Textbooks and Uniforms 2024.md
       - For Parents/.keep
       - Useful Links for Teachers.md
