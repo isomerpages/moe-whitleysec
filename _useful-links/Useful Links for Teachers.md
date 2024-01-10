@@ -7,78 +7,58 @@ variant: markdown
 ![](/images/useful%20links.jpg)
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8zl1{background-color:#FFFAF3;color:#E68520;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-giy4{background-color:#FFF;color:#E68520;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-xgl2{background-color:#FFFAF3;color:#E68520;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-xvsk{background-color:#FFFAF3;text-align:left;vertical-align:middle}
-.tg .tg-dnru{background-color:#5B2C2C;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-m04g{background-color:#5B2C2C;color:#FFF;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:middle}
-.tg .tg-bhk3{background-color:#FFF;color:#E68520;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-zufg{background-color:#FFF;color:#E68520;text-align:left;text-decoration:underline;vertical-align:middle}
-.tg .tg-snrq{background-color:#FFFAF3;color:#E68520;text-align:left;text-decoration:underline;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
+
+<table>
 <thead>
   <tr>
-    <th class="tg-dnru"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">Applications</span></th>
-    <th class="tg-m04g"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">VPN Access outside school</span></th>
+<th>Applications Links</th>
+    <th>Activate VPN</th>
   </tr>
 </thead>
 <tbody>
  <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span><a href="https://portal.mims.moe.gov.sg/"><span style="text-decoration:underline;color:#E68520">MIMS Portal</span></a></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">No</span></td>
+	 <td> <a href="https://portal.mims.moe.gov.sg/">MIMS Portal</a></td>
+   <td>No</td>
+  </tr>
+ <tr>
+	 <td> <a href="https://vle.learning.moe.edu.sg/">Student Learning Space</a></td>
+   <td>No</td>
   </tr>
   <tr>
-    <td class="tg-bhk3"><a href="https://vle.learning.moe.edu.sg/"><span style="text-decoration:underline;color:#E68520">Student Learning Space</span></a></td>
-    <td class="tg-zufg"><span style="color:#000;background-color:#FFF">No</span></td>
-  </tr>
-
-  <tr>
-    <td class="tg-giy4"><a href="https://icon.moe.edu.sg/"><span style="text-decoration:underline;color:#E68520">ICON</span></a></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">No</span></td>
-  </tr>
-  <tr>
-    <td class="tg-xgl2"><a href="https://schoolcockpit.moe.gov.sg/"><span style="text-decoration:underline;color:#E68520">School Cockpit</span></a></td>
-    <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">Yes</span></td>
+ </tr><tr>
+	 <td> <a href="https://icon.moe.edu.sg/">ICON</a></td>
+   <td>No</td>
   </tr>
   <tr>
 </tr><tr>
-    <td class="tg-xgl2"><a href="https://intranet.moe.gov.sg/Pages/Home.aspx"><span style="text-decoration:underline;color:#E68520">MOE Intranet</span></a></td>
-    <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">Yes</span></td>
+	 <td> <a href="https://schoolcockpit.moe.gov.sg/">School Cockpit</a></td>
+   <td>Yes</td>
   </tr>
-  <tr>
-    <td class="tg-giy4"><a href="https://rbs.avero-tech.com/"><span style="text-decoration:underline;color:#E68520">Resource Booking System</span></a></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">No</span></td>
-  </tr>
-  <tr>
-    <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3"> </span><a href="https://scmobile.moe.edu.sg/"><span style="text-decoration:underline;color:#E68520">SC Mobile</span></a></td>
-    <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">No</span></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span><a href="https://sg-portal.mobileguardian.com/"><span style="text-decoration:underline;color:#E68520">Mobile Guardian</span></a></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">No</span></td>
-  </tr>
-  <tr>
-    <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3"> </span><a href="https://idm.opal2.moe.edu.sg/"><span style="text-decoration:underline;color:#E68520">OPAL</span></a></td>
-    <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">No</span></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span><a href="https://www.hrp.gov.sg/"><span style="text-decoration:underline;color:#E68520">HRP</span></a></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">No</span></td>
-  </tr>
-  <tr>
-    <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3"> </span><a href="https://pg.moe.edu.sg/"><span style="text-decoration:underline;color:#E68520">Parents Gateway</span></a></td>
-    <td class="tg-xvsk"><span style="color:#000;background-color:#FFFAF3">No</span></td>
-  </tr>
- 
+ <tr>
+	 <td> <a href="https://intranet.moe.gov.sg/Pages/Home.aspx">MOE Intranet</a></td>
+   <td>Yes</td>
+  </tr><tr>
+ </tr><tr>
+	 <td> <a href="https://rbs.avero-tech.com/">Resource Booking System</a></td>
+   <td>No</td>
+	</tr>
+<tr>
+	 <td> <a href="https://scmobile.moe.edu.sg/">SC Mobile</a></td>
+   <td>No</td>
+	</tr>
+	<tr>
+	 <td> <a href="https://idm.opal2.moe.edu.sg/">OPAL</a></td>
+   <td>No</td>
+	</tr>
+	<tr>
+	 <td> <a href="https://www.hrp.gov.sg/">HRP</a></td>
+   <td>No</td>
+	</tr>
+	<tr>
+	 <td> <a href="https://pg.moe.edu.sg/">Parents Gateway</a></td>
+   <td>No</td>
+	</tr>
+
 </tbody>
 </table>
 
