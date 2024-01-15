@@ -2,7 +2,6 @@
 title: School Year Books
 permalink: /useful-links/school-year-books/permalink/
 description: ""
-third_nav_title: School Year Books
 variant: markdown
 ---
 ![](/images/Whitley_Sec_2023__3_page_0001.jpg)
