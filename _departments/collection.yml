@@ -1,0 +1,13 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English & Literature.md
+      - Mathematics.md
+      - Mother Tongue.md
+      - Science.md
+      - Humanities.md
+      - Aesthetics.md
+      - Physical Education.md
+      - Student Development Committee.md
+      - Executive and Administrative Staff.md

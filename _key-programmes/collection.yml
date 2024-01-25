@@ -1,0 +1,16 @@
+collections:
+  key-programmes:
+    output: true
+    order:
+      - Communicative Arts.md
+      - Full Subject Based Banding.md
+      - Active Citizenship/Active Citizenship for Social Change.md
+      - Active Citizenship/National and Citizenship Education.md
+      - Active Citizenship/.keep
+      - GEAR UP.md
+      - National Digital Literacy Programme.md
+      - STEM Education/STEM Education.md
+      - STEM Education/Micro:Bit.md
+      - STEM Education/Environment Week.md
+      - STEM Education/Amgen.md
+      - STEM Education/.keep

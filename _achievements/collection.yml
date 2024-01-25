@@ -1,0 +1,18 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - Student Achievements/Whitley Shine.md
+      - Student Achievements/Commonwealth Essay Competition.md
+      - Student Achievements/Temasek Polytechnic 'Future of Food' Baking
+        Challenge.md
+      - Student Achievements/O Level Results.md
+      - Student Achievements/National Schools Chinese Stiff Pen Calligraphy
+        Competition.md
+      - Student Achievements/N Level Results.md
+      - Student Achievements/Draw My Stamp Story Art Competition.md
+      - Student Achievements/CCA Achievements.md
+      - Student Achievements/42nd International C B Paul Science Quiz.md
+      - Student Achievements/13th National Short Film Competition.md
+      - Student Achievements/.keep
+      - Staff Achievements.md

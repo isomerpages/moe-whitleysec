@@ -1,0 +1,12 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - School Mission, Vision and Values.md
+      - School Crest.md
+      - School Song.md
+      - Stories of Our Ex Whitleyans.md
+      - Whitley 50 E Book.md
+      - School Management Committee.md
+      - Contact Us.md
+      - Staff Contact List.md
