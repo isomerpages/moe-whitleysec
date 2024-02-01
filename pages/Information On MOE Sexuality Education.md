@@ -107,4 +107,30 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </p>
 </li>
 </ul>
+<p>eTeens Programme:
+<br>eTeens is a programme developed by Health Promotion Board, in collaboration
+with the Ministry of Education, to provide Secondary 3 students with accurate
+information on STIs, HIV and protection from a health perspective. eTeens
+is conducted in two segments – a mass talk segment and a classroom-based
+programme. The desired outcome of the eTeens programme is that students
+are empowered to make wise, informed and sensible decisions.
+<br>
+</p>
+<p>Students are taught skills such as decision-making, assertiveness and
+negotiation to say “no” to sex and negative peer pressure. They also learn
+that the impact of STIs/HIV extends beyond themselves and involves their
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.</p>
+<h4><strong>At WHITLEY Secondary School, the eTeens programme will be implemented as follows in 2024:</strong></h4>
+<p>Topics/Lessons Programme Learning Objectives Time Period</p>
+<p>Mass Talk by HPB appointed vendor • Raise awareness and provide knowledge
+on:</p>
+<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
+to prevent infection mainly through ABC (abstinence, being faithful, correct,
+and consistent condom use).</p>
+<p>b) Managing relationships and risky situations in a healthy way. Term
+3</p>
+<p>Classroom-based Lesson • Learn to negotiate their way out of a risky situation
+by applying skills of assertiveness and responsible decision-making</p>
+<p>Term 3</p>
 <p></p>
