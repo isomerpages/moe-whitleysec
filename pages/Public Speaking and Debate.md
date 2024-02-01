@@ -2,7 +2,6 @@
 title: Public Speaking and Debate
 permalink: /useful-links/direct-school-admission/public-speaking-and-debate/
 description: ""
-third_nav_title: Direct School Admission
 ---
 ### 2023 Direct School Admission (DSA)
 

@@ -2,7 +2,7 @@
 title: Leadership and Character
 permalink: /useful-links/direct-school-admission/leadership-and-character-at-whitley-secondary-school/
 description: ""
-third_nav_title: Direct School Admission
+variant: tiptap
 ---
 ### Leadership and Character
 
