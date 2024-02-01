@@ -87,23 +87,23 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <h4><strong>At WHITLEY Secondary School, the following Sexuality Education lessons will be taught in <u>2024</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/files/Secondary_1_SEX_EDU_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a></strong>
+<p><a href="https://drive.google.com/file/d/1IBN72e7_iBeXYcX5W9jgmipnDkFXNKs8/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Secondary_2_SEX_EDU_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a></strong>
+<p><a href="https://drive.google.com/file/d/1-aLeiTGzTZf0JKV5gIXxvBWRN74Xhlsg/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Secondary_3_SEX_EDU_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a></strong>
+<p><a href="https://drive.google.com/file/d/1r6beoP0JqN7nH4buw80QLFol0FoqqxBj/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Secondary_4_SEX_EDU_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a></strong>
+<p><a href="https://drive.google.com/file/d/1XYry_1uLVzYDIpQ_FZxQsx5YHcD32Qb6/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Secondary_5_SEX_EDU_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a></strong>
+<p><a href="https://drive.google.com/file/d/1IH9eSQxzfYAYptTuLX-Ox7JTn_vgQAT1/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a>
 </p>
 </li>
 </ul>
