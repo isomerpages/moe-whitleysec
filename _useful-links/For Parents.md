@@ -16,7 +16,7 @@ description: ""
   </tr>
   <tr>
  </tr><tr>
-	 <td> <a href="https://classroom.google.com/">Google Classroom</a></td>
+	 <td> <a href="https://www.whitleysec.moe.edu.sg/moe-sexuality-education/">MOE Sexuality Education</a></td>
   </tr>
  
 
