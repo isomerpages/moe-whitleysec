@@ -166,4 +166,19 @@ of assertiveness and responsible decision-making</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<h4><strong>INFORMATION FOR PARENTS</strong></h4>
+<p>Parents may opt their children out of the Sexuality Education lessons,
+eTeens and/or supplementary sexuality education programmes by MOE-approved
+external providers.</p>
+<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable <strong><a href="/files/SEd_parent_OPT_OUT_form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
+The completed form is to be submitted by 16/02/2024.</p>
+<p>Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable <strong><a href="/files/SEd_Eteens_Parent_OPt_OUT_form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
+The completed form is to be submitted by 16/02/2024.</p>
+<p>Parents can contact the school at <a href="mailto:whitley_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">whitley_ss@moe.edu.sg</a> for discussion
+or to seek clarification about the school’s Sexuality Education programme.</p>
 <p></p>
