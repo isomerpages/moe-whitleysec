@@ -8,5 +8,10 @@ description: ""
 <blockquote>
 <p>Applications &amp; Informations</p>
 </blockquote>
-<p>Parent Gateway</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents Gateway</p>
+</li>
+</ul>
 <p>Parent Support Group</p>
+<p></p>
