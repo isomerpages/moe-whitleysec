@@ -1,7 +1,7 @@
 ---
 title: Information On MOE Sexuality Education
 permalink: /moe-sexuality-education/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h3><strong>MOE Sexuality Education in Schools</strong></h3>
@@ -119,17 +119,51 @@ negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-
 <h4><strong>At WHITLEY Secondary School, the eTeens programme will be implemented as follows in 2024:</strong></h4>
-<p>Topics/Lessons Programme Learning Objectives Time Period</p>
-<p>Mass Talk by HPB appointed vendor • Raise awareness and provide knowledge
-on:</p>
-<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Topics/Lessons</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme Learning Objectives</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time Period</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mass Talk by HPB appointed vendor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raise awareness and provide knowledge on:
+<br>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
 to prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).</p>
-<p>b) Managing relationships and risky situations in a healthy way. Term
-3</p>
-<p>Classroom-based Lesson • Learn to negotiate their way out of a risky situation
-by applying skills of assertiveness and responsible decision-making</p>
+and consistent condom use).
+<br>b) Managing relationships and risky situations in a healthy way.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Term 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Classroom-based Lesson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
