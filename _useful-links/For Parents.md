@@ -28,6 +28,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/65e519c4a70f52791c8ece2d" rel="noopener noreferrer nofollow" target="_blank">DMA Options for Parents</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.whitleysec.moe.edu.sg/useful-links/textbooks-and-uniforms/" rel="noopener noreferrer nofollow" target="_blank">Information on Sale of Textbooks and Uniforms 2024</a>
 </p>
 </td>
@@ -47,7 +56,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Information on Direct School Admission
-<br>-<a href="https://www.whitleysec.moe.edu.sg/useful-links/direct-school-admission/leadership-and-character-at-whitley-secondary-school/" rel="noopener noreferrer nofollow" target="_blank">Leadership and Character</a>
+<br>-<a href="https://www.whitleysec.moe.edu.sg/useful-links/direct-school-admission/leadership-and-character-at-whitley-secondary-school/" rel="noopener noreferrer nofollow" target="_blank">Leadership and Character</a> 
 <br>-<a href="https://www.whitleysec.moe.edu.sg/useful-links/direct-school-admission/public-speaking-and-debate/" rel="noopener noreferrer nofollow" target="_blank">Public Speaking and Debate</a>
 </p>
 </td>
