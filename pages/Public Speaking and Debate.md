@@ -2,9 +2,8 @@
 title: Public Speaking and Debate
 permalink: /useful-links/direct-school-admission/public-speaking-and-debate/
 description: ""
+variant: markdown
 ---
-### 2023 Direct School Admission (DSA)
-
 #### Public Speaking and Debate @ Whitley Secondary School
 
 <img src="/images/PublicSpeaking%201.jpeg" style="width:80%">
