@@ -2,19 +2,19 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: tiptap
 ---
-### Announcements
-
-#### Early Release on 4th July
-
-Dear parents of Sec 1 to 4N students, the O-level Mother Tongue Listening Comprehension Examination will be conducted on 4 July 2023. School dismissal for all students will be at 1p.m. 
-
-#### S2 Parents' Briefing
-
-Dear parents, information shared during the S2 PTCC can be found in this [Google Drive](https://drive.google.com/drive/folders/12QeCpRvUhuVg5o4rRomQdsBXpa0kvgCl). Please view and/or download the necessary information. Thank you.
-
-* * *
-
-#### S1 PTCC matters
-
-Dear parents, information shared during the S1 PTCC can be found in this [**google drive**](https://drive.google.com/drive/folders/1s_0czA6iGf7te7VN4ETnBU_tl8kKOLGK?usp=sharing). Please view and/or download the necessary information. Thank you.
+<h3><strong>Public Speaking and Debate @ Whitley Secondary School</strong></h3>
+<p>Join us to unlock your potential in becoming effective communicators.
+You will be given various platforms – in and out of school – to scale greater
+heights of success.
+<br><a href="https://www.whitleysec.moe.edu.sg/useful-links/direct-school-admission/public-speaking-and-debate/" rel="noopener noreferrer nofollow" target="_blank">Click here for more information.</a>
+</p>
+<h3><strong>Leadership and Character @ Whitley Secondary School</strong></h3>
+<p>Through a wide range of projects and developmental opportunities, you
+will be able to discover your talents and develop your leadership skills,
+abilities and character, through discipline, dedication, teamwork and perseverance.
+If you have the desire to lead and serve, join us and be part of our family.
+<br><a href="https://www.whitleysec.moe.edu.sg/useful-links/direct-school-admission/leadership-and-character-at-whitley-secondary-school/" rel="noopener noreferrer nofollow" target="_blank">Click here for more information.</a> 
+</p>
+<p></p>
