@@ -66,4 +66,50 @@ audience</p>
 <p>Your achievements at the national / international level would be an advantage</p>
 </li>
 </ul>
+<p>*Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.</p>
+<p>Please note that students who are successfully admitted to the school
+via DSA are expected to honour their commitment to the school and participate
+in the activities related to the talent they are selected for from year
+1- 4.*</p>
+<blockquote>
+<h4><sub>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</sub></h4>
+</blockquote>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from 7 May 2024, 11am
+to 3 June 2024, 3pm.
+<br>Please refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+</p>
+<p>Should your child be shortlisted for an interview, you will be contacted
+between <strong>24 June and 9 September 2024.</strong>
+</p>
+<h3><strong>Useful MOE weblinks:</strong></h3>
+<p>• DSA-Sec Main Webpage
+<br><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+</p>
+<p>• Instructions on Application (Mainstream students)
+<br><a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
+</p>
+<p>• Instructions on Application (Non Mainstream Students)
+<br><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+</p>
+<p>• Direct to DSA-Sec Portal (Mainstream Students) * go live on 4 May, 11am
+<br><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
+</p>
+<p>• Direct to DSA-Sec Portal (Non Mainstream Students) * go live on 4 May,
+11am
+<br><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
+</p>
+<p>• DSA-Sec iFAQs
+<br><a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
+</p>
+<p>• DSA-Sec School Finder
+<br><a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
+</p>
+<h3><strong>Contact Details</strong></h3>
+<p>Ms Winnie Kok (SH Student Leadership)
+<br>Email: kok_pei_shan_winnie@schools.gov.sg
+<br>School Code: 3015</p>
 <p></p>
