@@ -4,8 +4,17 @@ permalink: /draft-leadership-and-character/
 variant: tiptap
 description: ""
 ---
-<h3>Leadership and Character</h3>
-<h4>Leadership and Character @ Whitley Secondary School</h4>
+<h3><strong>2024 Direct School Admission (DSA)</strong></h3>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.
+<br>
+<br>Please note that students who are successfully admitted to the school
+via DSA are expected to honour their commitment to the school and participate
+in the activities related to the talent they are selected for from year
+1- 4.</p>
+<h3><strong>Leadership and Character @ Whitley Secondary School</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/lc1.png">
 </div>
@@ -84,7 +93,7 @@ between <strong>26 June and 11 September</strong>.</p>
 <p>• DSA-Sec School Finder
 <br><a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
 </p>
-<p><strong>Contact Details</strong>
+<p><strong>Contact Details</strong> 
 <br>Ms Winnie Kok (SH Student Leadership)
-<br>Email: <a href="mailto:kok_pei_shan_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kok_pei_shan_winnie@schools.gov.sg</a>
+<br>Email: <a href="mailto:kok_pei_shan_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kok_pei_shan_winnie@schools.gov.sg</a> 
 <br>School Code: 3015</p>
