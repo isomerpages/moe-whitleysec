@@ -76,7 +76,7 @@ between <strong>24 June and 9 September 2024.</strong>
 <br><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 <p>• Direct to DSA-Sec Portal (Mainstream Students) * go live on 4 May, 11am
-<br> <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
+<br><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
 </p>
 <p>• Direct to DSA-Sec Portal (Non Mainstream Students) * go live on 4 May,
 11am
@@ -88,8 +88,8 @@ between <strong>24 June and 9 September 2024.</strong>
 <p>• DSA-Sec School Finder
 <br><a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
 </p>
-<h3><strong>Contact Details</strong> </h3>
+<h3><strong>Contact Details</strong></h3>
 <p>Ms Winnie Kok (SH Student Leadership)
-<br>Email: kok_pei_shan_winnie@schools.gov.sg
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">kok_pei_shan_winnie@schools.gov.sg</a>
 <br>School Code: 3015</p>
 <p></p>
