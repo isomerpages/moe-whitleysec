@@ -109,7 +109,7 @@ between <strong>24 June and 9 September 2024.</strong>
 <br><a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
 </p>
 <h3><strong>Contact Details</strong></h3>
-<p>Ms Winnie Kok (SH Student Leadership)
-<br>Email: kok_pei_shan_winnie@schools.gov.sg
+<p>Ms Lim Puay Hoon Veronica (Head of Department English)
+<br>Email: <a href="mailto:lim_puay_hoon_veronica@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_puay_hoon_veronica@schools.gov.sg</a> 
 <br>School Code: 3015</p>
 <p></p>
