@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/open_house_banner_2024_comp_1.png
+      background: /images/Website_Open_House_Banner_2024___600pxx312px.png
       url: /contact-us/
       key_highlights:
         - title: Announcements
