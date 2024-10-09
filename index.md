@@ -16,5 +16,5 @@ sections:
         - title: News & Events
           description: ""
           url: /news-and-events/
-      variant: center
+      variant: image
 ---
