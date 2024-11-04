@@ -22,3 +22,4 @@ Miss Christine Chin:&nbsp;[chin\_siew\_kin\_christine@schools.gov.sg](mailto:chi
 
 <img src="/images/art1.png" style="width:80%">
 <img src="/images/art2.png" style="width:80%">
+![](/images/WSS%20Achievements%202024/30A.jpg)
