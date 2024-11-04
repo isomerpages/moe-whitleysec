@@ -25,7 +25,7 @@ variant: tiptap
 <p><strong>Venue</strong>: ITR1</p>
 </li>
 </ul>
-<h4>Recent Achievements</h4>
+<h3>Recent Achievements</h3>
 <p><strong>"Our Schools, Our Stories" Photo &amp; Video Contest 2024</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -34,6 +34,10 @@ variant: tiptap
 </li>
 <li>
 <p><strong>Students</strong>: Lau En Tong (4R) and Sridaarisini Maran (4I)</p>
+</li>
+<li>
+<p><strong>Link</strong>: <a href="https://www.moe.gov.sg/our-schools-our-stories/winning-stories-2024/world-of-possibilities/youth" rel="noopener" target="_new">View winning stories</a>
+</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
