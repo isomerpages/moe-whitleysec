@@ -13,7 +13,11 @@ variant: tiptap
 <p>Miss Lee Shin Jiu: <a href="mailto:lee_shin_jiu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_shin_jiu@schools.gov.sg</a>
 <br>Mrs. Engel Lim: <a href="mailto:teo_huei_huei_engel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_huei_huei_engel@schools.gov.sg</a>
 </p>
-<h4><strong>Training Schedule</strong><br>Days: Tuesdays and Thursdays<br>Time: 3:00 PM - 5:00 PM<br>Venue: AVA Room</h4>
+<p>Training Schedule
+<br>
+<br>Days: Tuesdays and Thursdays
+<br>Time: 3:00 PM - 5:00 PM
+<br>Venue: AVA Room</p>
 <h4>Recent Achievements</h4>
 <p>2017 Certificate of Achievement (SYF)
 <br>2019 Certificate of Achievement (SYF)
