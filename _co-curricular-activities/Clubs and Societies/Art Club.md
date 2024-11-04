@@ -8,10 +8,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
-<h4><strong>Teachers in Charge</strong></h4>
+<h3><strong>Art Club</strong></h3>
+<h4>Teachers in Charge</h4>
 <p>Miss Christine Chin:&nbsp;<a href="mailto:chin_siew_kin_christine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_siew_kin_christine@schools.gov.sg</a>
 </p>
-<h4><strong>Training Details</strong></h4>
+<h4>Training Details</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Day</strong>: Thursdays</p>
@@ -23,7 +24,7 @@ variant: tiptap
 <p><strong>Venue</strong>: Art Room 2</p>
 </li>
 </ul>
-<h4><strong>Recent Achievements</strong></h4>
+<h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore International Original Comics Competition - Bronze (Tan Wan
