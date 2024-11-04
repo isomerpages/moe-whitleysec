@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
+![](/images/CCA.jpg)
+
 #### **Teachers in Charge**
 
 Miss Christine Chin:&nbsp;[chin\_siew\_kin\_christine@schools.gov.sg](mailto:chin_siew_kin_christine@schools.gov.sg)
