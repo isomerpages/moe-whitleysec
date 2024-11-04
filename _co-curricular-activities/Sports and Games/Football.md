@@ -9,16 +9,12 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
 <h3><strong>Football</strong></h3>
-<blockquote>
 <h4>Teachers in Charge</h4>
-</blockquote>
 <p>Mr. Ryan Ng: <a href="mailto:ng_hua_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hua_yang@schools.gov.sg</a>
 <br>Mr. Jaswant Singh: <a href="mailto:jaswant_singh_g_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jaswant_singh_g_singh@schools.gov.sg</a>
 <br>Ms. Tuty Asmary: <a href="mailto:tuty_asmary_subarjono@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tuty_asmary_subarjono@schools.gov.sg</a>
 </p>
-<blockquote>
 <h4>Training Schedule</h4>
-</blockquote>
 <p>Days: Tuesdays and Thursdays
 <br>Time: 3:00 PM - 6:00 PM
 <br>Venue: School Field</p>
