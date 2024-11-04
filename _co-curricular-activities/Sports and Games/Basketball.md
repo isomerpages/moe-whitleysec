@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
-<h3>Basketball</h3>
+<h3><strong>Basketball</strong></h3>
 <h4>Teachers in Charge</h4>
 <p>Mr. Han Xianyao: <a href="mailto:han_xianyao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_xianyao@schools.gov.sg</a>
 <br>Ms. Ng Soo Hoon: <a href="mailto:ng_soo_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_soo_hoon@schools.gov.sg</a>
