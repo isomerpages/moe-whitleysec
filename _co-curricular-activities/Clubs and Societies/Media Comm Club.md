@@ -27,7 +27,7 @@ variant: tiptap
 <p><strong>Additional</strong>: Daily morning duty</p>
 </li>
 </ul>
-<h4>Recent Achievements</h4>
+<h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Entered SG 75 Competition</p>
