@@ -9,11 +9,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
 <h4><strong>English Debating Club</strong></h4>
-<h4><strong>Teachers in Charge</strong></h4>
+<h4>Teachers in Charge</h4>
 <p>Ms Daphne Li:&nbsp;<a href="mailto:li_weixiang_daphne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_weixiang_daphne@schools.gov.sg</a>
 <br>Mr Jerome Lim:&nbsp;<a href="mailto:jerome_lim_jit_how@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jerome_lim_jit_how@schools.gov.sg</a>
 </p>
-<h4><strong>Training Schedule</strong></h4>
+<h4>Training Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Days</strong>: Tuesdays &amp; Thursdays</p>
@@ -25,7 +25,7 @@ variant: tiptap
 <p><strong>Venue</strong>: Computer Lab 3</p>
 </li>
 </ul>
-<h4><strong>Recent Achievements</strong></h4>
+<h4>Achievements</h4>
 <p><strong>1. Singapore Secondary Schools Debating Championships ( 2022)</strong> -
 Division 3 1st place</p>
 <p><strong>2. Singapore Secondary Schools Debating Championships (2022)</strong> -
