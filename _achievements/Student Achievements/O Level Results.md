@@ -3,163 +3,266 @@ title: O Level Results
 permalink: /achievements/Student-Achievements/olevel/permalink/
 description: ""
 third_nav_title: Student Achievements
+variant: tiptap
 ---
-![](/images/achievements.jpg)
-
-### O Level Results
-
-#### Sec 4 Express  
-% of Students with at least 5 'O' Level Passes
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-azcb{background-color:#5B2C2C;border-color:#000000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-4vrb{background-color:#FFF;border-color:#000000;text-align:center;vertical-align:middle}
-.tg .tg-ovz1{background-color:#FFFAF3;border-color:#000000;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-azcb"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">Year</span></th>
-    <th class="tg-azcb"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">School</span></th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/achievements.jpg">
+</div>
+<h3><strong>O Level Results</strong></h3>
+<h4>Sec 4 Express</h4>
+<p>% of Students with at least 3 'O' Level Passes</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-4vrb"><span style="color:#000;background-color:#FFF">2018</span></td>
-    <td class="tg-4vrb"><span style="color:#000;background-color:#FFF">85.1</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ovz1"><span style="color:#000;background-color:#FFFAF3">2019</span></td>
-    <td class="tg-ovz1"><span style="color:#000;background-color:#FFFAF3">88.5</span></td>
-  </tr>
-  <tr>
-    <td class="tg-4vrb"><span style="color:#000;background-color:#FFF">2020</span></td>
-    <td class="tg-4vrb"><span style="color:#000;background-color:#FFF">79.8</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ovz1"><span style="color:#000;background-color:#FFFAF3">2021</span></td>
-    <td class="tg-ovz1"><span style="color:#000;background-color:#FFFAF3">88.2</span></td>
-  </tr>
-  <tr>
-    <td class="tg-4vrb"><span style="color:#000;background-color:#FFF">2022</span></td>
-    <td class="tg-4vrb"><span style="color:#000;background-color:#FFF">86.1</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>School</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>96.1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>96.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>92.5</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-###### **28.9% achieved 3 or more distinctions!**
-
-#### 4E: Eligibility
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0yl1{background-color:#5B2C2C;border-color:#000000;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-fitk{background-color:#FFF;border-color:#000000;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0f4t{background-color:#5B2C2C;border-color:#000000;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-azcb{background-color:#5B2C2C;border-color:#000000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-evq4{background-color:#FFFAF3;border-color:#000000;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-w4w7{background-color:#FFF;border-color:#000000;text-align:center;vertical-align:top}
-.tg .tg-6599{background-color:#FFFAF3;border-color:#000000;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0yl1"></th>
-    <th class="tg-0yl1"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">Year</span></th>
-    <th class="tg-azcb"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">My School</span></th>
-  </tr>
-</thead>
+<h4>4E: Eligibility</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-0f4t"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">Eligible for JC</span></td>
-    <td class="tg-fitk"><span style="color:#000;background-color:#FFF">2019</span><br><span style="color:#000;background-color:#FFF">2020</span><br><span style="color:#000;background-color:#FFF">2021</span><br><br><span style="font-weight:bold;color:#5B2C2C">2022</span></td>
-    <td class="tg-w4w7"><span style="color:#000;background-color:#FFF">35.6%</span><br><span style="color:#000;background-color:#FFF">38.5%</span><br><span style="color:#000;background-color:#FFF">43.4%</span><br><br><span style="font-weight:bold;color:#5B2C2C">45.2</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0f4t"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">Eligible for Poly</span></td>
-    <td class="tg-evq4"><span style="color:#000;background-color:#FFFAF3">2019</span><br><span style="color:#000;background-color:#FFFAF3">2020</span><br><span style="color:#000;background-color:#FFFAF3">2021</span><br><span style="font-weight:bold;color:#5B2C2C">2022</span></td>
-    <td class="tg-6599"><span style="color:#000;background-color:#FFFAF3">94.3%</span><br><span style="color:#000;background-color:#FFFAF3">84.4%</span><br><span style="color:#000;background-color:#FFFAF3">90.8%</span><br><span style="font-weight:bold;color:#5B2C2C">89.0%</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0f4t"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">Eligible for MI</span></td>
-    <td class="tg-fitk"><span style="color:#000;background-color:#FFF">2019</span><br><span style="color:#000;background-color:#FFF">2020</span><br><span style="color:#000;background-color:#FFF">2021</span><br><br><span style="font-weight:bold;color:#5B2C2C">2022</span></td>
-    <td class="tg-w4w7"><span style="color:#000;background-color:#FFF">69.0%</span><br><span style="color:#000;background-color:#FFF">62.4%</span><br><span style="color:#000;background-color:#FFF">64.4%</span><br><br><span style="font-weight:bold;color:#5B2C2C">72.2%</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>My School</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Eligible for JC</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2019
+<br>2020
+<br>2021
+<br>2022</p>
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>35.6%
+<br>38.5%
+<br>43.4%
+<br>45.2%</p>
+<p><strong>41.1%</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Eligible for Poly</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2019
+<br>2020
+<br>2021
+<br>2022</p>
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>94.3%
+<br>84.4%
+<br>90.8%
+<br>89.0%</p>
+<p><strong>85.0%</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Eligible for MI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2019
+<br>2020
+<br>2021
+<br>2022</p>
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>69.0%
+<br>62.4%
+<br>64.4%
+<br>72.2%</p>
+<p><strong>60.7%</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### 4 Express Mean L1B5/L1B4
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0yl1{background-color:#5B2C2C;border-color:#000000;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-nyvb{background-color:#FFFAF3;border-color:#000000;color:#5B2C2C;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-6bix{background-color:#FFF;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0i1o{background-color:#FFF;border-color:#000000;color:#1A202C;text-align:center;vertical-align:top}
-.tg .tg-kih2{background-color:#FFFAF3;border-color:#000000;color:#1A202C;text-align:center;vertical-align:top}
-.tg .tg-btgb{background-color:#FFF;border-color:#000000;color:#5B2C2C;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-c1l1{background-color:#FFF;color:#1A202C;text-align:center;vertical-align:top}
-.tg .tg-c057{background-color:#FFFAF3;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-rucl{background-color:#FFFAF3;color:#1A202C;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0yl1"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">Year</span></th>
-    <th class="tg-0yl1"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">L1B5</span></th>
-    <th class="tg-0yl1"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">L1B4</span></th>
-  </tr>
-</thead>
+<h3>4 Express Mean L1B5/L1B4</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-6bix"><span style="color:#000;background-color:#FFF">2016</span></td>
-    <td class="tg-c1l1"><span style="color:#000;background-color:#FFF">25.0</span></td>
-    <td class="tg-c1l1"><span style="color:#000;background-color:#FFF">19.3</span></td>
-  </tr>
-  <tr>
-    <td class="tg-c057"><span style="color:#000;background-color:#FFFAF3">2017</span></td>
-    <td class="tg-rucl"><span style="color:#000;background-color:#FFFAF3">22.2</span></td>
-    <td class="tg-rucl"><span style="color:#000;background-color:#FFFAF3">17.1</span></td>
-  </tr>
-  <tr>
-    <td class="tg-6bix"><span style="color:#000;background-color:#FFF">2018</span></td>
-    <td class="tg-c1l1"><span style="color:#000;background-color:#FFF">22.8</span></td>
-    <td class="tg-c1l1"><span style="color:#000;background-color:#FFF">17.4</span></td>
-  </tr>
-  <tr>
-    <td class="tg-kih2"><span style="color:#000;background-color:#FFFAF3">2019</span></td>
-    <td class="tg-kih2"><span style="color:#000;background-color:#FFFAF3">22.6</span></td>
-    <td class="tg-kih2"><span style="color:#000;background-color:#FFFAF3">17.4</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0i1o"><span style="color:#000;background-color:#FFF">2020</span></td>
-    <td class="tg-0i1o"><span style="color:#000;background-color:#FFF">23.6</span></td>
-    <td class="tg-0i1o"><span style="color:#000;background-color:#FFF">18.3</span></td>
-  </tr>
-  <tr>
-    <td class="tg-nyvb"><span style="font-weight:bold;color:#5B2C2C">2021</span></td>
-    <td class="tg-nyvb"><span style="font-weight:bold;color:#5B2C2C">21.9</span></td>
-    <td class="tg-nyvb"><span style="font-weight:bold;color:#5B2C2C">16.8</span></td>
-  </tr>
-  <tr>
-    <td class="tg-btgb"><span style="font-weight:bold;color:#5B2C2C">2022</span></td>
-    <td class="tg-btgb"><span style="font-weight:bold;color:#5B2C2C">22.4</span></td>
-    <td class="tg-btgb"><span style="font-weight:bold;color:#5B2C2C">17.5</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>L1B5</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>L1B4</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25.0</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19.3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22.2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17.1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22.8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17.4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22.6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17.4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23.6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18.3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21.9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16.8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22.4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023*</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>22.6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>17.4</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<img src="/images/olevel.png" style="width:80%">
+<p><strong>*2023 GCE ‘O’ Level Results School Performance</strong>
+<br>2 x STUDENTS WITH 9 A1s
+<br>2 x STUDENTS WITH 7 A1s</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/olevel.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
