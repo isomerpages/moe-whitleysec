@@ -3,25 +3,28 @@ title: Concert Band
 permalink: /co-curricular-activities/Performing-Arts/band/permalink/
 description: ""
 third_nav_title: Performing Arts
+variant: tiptap
 ---
-![](/images/CCA.jpg)
-
-### Concert Band
-
-#### Teachers in Charge
-
-Mrs Soong Wan Leng: [teo\_wan\_leng@moe.edu.sg](mailto:teo_wan_leng@moe.edu.sg)  
-Mrs Mani: [k\_amutha@moe.edu.sg](mailto:k_amutha@moe.edu.sg)  
-Mr Sandhu: [gulzar\_gurdev\_singh\_sandhu@moe.edu.sg](mailto:gulzar_gurdev_singh_sandhu@moe.edu.sg)
-
-#### Training Details
-
-Tuesdays and Thursdays: 1500h - 1800h  
-Venue: Music Room and selected classrooms  
-
-#### Recent Achievements
-
-_More news to come._
-
-<img src="/images/band1.png" style="width:80%">
-<img src="/images/band2.png" style="width:80%">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
+</div>
+<h3><strong>Concert Band</strong></h3>
+<h4><strong>Teachers in Charge</strong></h4>
+<p>Mrs. Soong Wan Leng: <a href="mailto:teo_wan_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wan_leng@schools.gov.sg</a>
+<br>Ms. Crystal Goh: <a href="mailto:goh_chiat_yi_crystal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chiat_yi_crystal@schools.gov.sg</a>
+<br>Mrs. Amutha Mani: <a href="mailto:k_amutha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">k_amutha@schools.gov.sg</a>
+</p>
+<h4><strong>Training Schedule</strong></h4>
+<p>Days: Tuesdays and Thursdays
+<br>Time: 3:00 PM - 6:00 PM
+<br>Venue: Music Room and selected classrooms</p>
+<h4><strong>Recent Achievements</strong></h4>
+<p><em>More news to come.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/band1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/band2.png">
+</div>
+<p></p>
