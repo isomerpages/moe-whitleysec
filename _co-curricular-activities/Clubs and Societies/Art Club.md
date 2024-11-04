@@ -16,7 +16,6 @@ Miss Christine Chin:&nbsp;[chin\_siew\_kin\_christine@schools.gov.sg](mailto:chi
 *   **Venue**: Art Room 2
 
 #### **Recent Achievements**
-
 * Singapore International Original Comics Competition - Bronze (Tan Wan Yu Zoe 4R)
 
 <img src="/images/art1.png" style="width:80%">
