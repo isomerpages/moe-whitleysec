@@ -25,7 +25,7 @@ variant: tiptap
 <p><strong>Venue</strong>: ITR1</p>
 </li>
 </ul>
-<h3>Recent Achievements</h3>
+<h3>Achievements</h3>
 <p><strong>"Our Schools, Our Stories" Photo &amp; Video Contest 2024</strong>
 </p>
 <ul data-tight="true" class="tight">
