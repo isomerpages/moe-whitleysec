@@ -9,19 +9,13 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
 <h3><strong>Golf</strong></h3>
-<blockquote>
 <h4>Teachers in Charge</h4>
-</blockquote>
 <p>Mrs Cher-Lee Lay Peng:&nbsp;<a href="mailto:lee_lay_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lay_peng@moe.edu.sg</a>
 </p>
-<blockquote>
 <h4>Training Details</h4>
-</blockquote>
 <p>Tuesdays: 1515h - 1800h
 <br>Venue: Orchid Country Club</p>
-<blockquote>
 <h4>Achievements</h4>
-</blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>2022 NSG C Division Team Boys - 2nd Runner-up</strong>
