@@ -22,7 +22,6 @@ variant: tiptap
 <blockquote>
 <h4>Achievements</h4>
 </blockquote>
-<h3>Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>2022 NSG C Division Team Boys - 2nd Runner-up</strong>
