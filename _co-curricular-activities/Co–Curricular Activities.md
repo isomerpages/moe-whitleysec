@@ -4,9 +4,15 @@ permalink: /co-curricular-activities/cca/
 description: ""
 variant: tiptap
 ---
-<h3>Co–Curricular Activities(CCA)</h3>
-<h4>Uniformed Groups</h4>
-<table>
+<h3><strong>Uniformed Groups</strong></h3>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -28,16 +34,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:95%" height="auto" width="100%" src="/images/cca1.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:95%" height="auto" width="100%" src="/images/cca2.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width:95%" height="auto" width="100%" src="/images/cca3.png">
 </div>
 </td>
@@ -51,11 +47,24 @@ variant: tiptap
 <img style="width:95%" height="auto" width="100%" src="/images/cca5.png">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
-<h4>Sports &amp; Games</h4>
-<table>
+<h3><strong>Sports &amp; Games</strong></h3>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -101,8 +110,15 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Performing Arts</h4>
-<table>
+<h3><strong>Performing Arts</strong></h3>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -148,8 +164,15 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Clubs &amp; Societies</h4>
-<table>
+<h3><strong>Clubs &amp; Societies</strong></h3>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
