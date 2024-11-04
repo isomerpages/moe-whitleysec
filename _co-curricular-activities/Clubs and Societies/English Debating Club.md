@@ -3,23 +3,25 @@ title: English Debating Club
 permalink: /co-curricular-activities/Clubs-and-Societies/debate/permalink/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/CCA.jpg)
 
   
-### English Debating Club
+###** English Debating Club**
 
-#### Teachers in Charge
+#### **Teachers in Charge**
 
-Ms Daphne Li: [li\_weixiang\_daphne@schools.gov.sg](mailto:li_weixiang_daphne@schools.gov.sg)  
-Mr Jerome Lim: [jerome\_lim\_jit\_how@schools.gov.sg](mailto:jerome_lim_jit_how@schools.gov.sg)
+Ms Daphne Li:&nbsp;[li\_weixiang\_daphne@schools.gov.sg](mailto:li_weixiang_daphne@schools.gov.sg)  
+Mr Jerome Lim:&nbsp;[jerome\_lim\_jit\_how@schools.gov.sg](mailto:jerome_lim_jit_how@schools.gov.sg)
 
-#### Training Details
+#### **Training Schedule**
 
-Tuesdays & Thursdays 1515h - 1715h  
-Venue: Computer Lab 2  
+*   **Days**: Tuesdays &amp; Thursdays
+*   **Time**: 3:15 PM - 5:15 PM
+*   **Venue**: Computer Lab 2
 
-#### Recent Achievements
+#### **Recent Achievements**
 
 **1\. Singapore Secondary Schools Debating Championships (April 2022)**  
 Division 3 1st place  
