@@ -24,42 +24,19 @@ regions, with the winners and runners-up from New Zealand, Australia, the
 United Kingdom, India and Singapore. We are pleased to share that our school
 has achieved 42 Bronze, 34 Silver, and 6 Gold Awards.</p>
 <p></p>
-<h4>Duy Khang - 3I</h4>
+<h4></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Commonwealth Essay Competition/Erina_Zafira.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cec2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
 </div>
-<h4>Elynn Sia - 1E</h4>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cec3.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cec4.png">
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
 </div>
-<h4>Isabella - 2D</h4>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cec5.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cec6.png">
-</div>
-<h4>Jonathan - 3R</h4>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cec7.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cec8.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cec9.png">
-</div>
-<h4>Meng Jia - 3R</h4>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cec10.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cec11.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cec12.png">
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
