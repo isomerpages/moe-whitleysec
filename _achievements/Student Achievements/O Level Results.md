@@ -260,9 +260,9 @@ variant: tiptap
 <p><strong>*2023 GCE ‘O’ Level Results School Performance</strong>
 <br>2 x STUDENTS WITH 9 A1s
 <br>2 x STUDENTS WITH 7 A1s</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/olevel.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/O level/OLevel_2024.png">
+</div>
 <p></p>
 <p></p>
