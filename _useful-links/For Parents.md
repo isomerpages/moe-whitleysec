@@ -7,7 +7,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/useful%20links.jpg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -56,7 +60,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Information on Direct School Admission
-<br>-<a href="https://www.whitleysec.moe.edu.sg/useful-links/direct-school-admission/leadership-and-character-at-whitley-secondary-school/" rel="noopener noreferrer nofollow" target="_blank">Leadership and Character</a> 
+<br>-<a href="https://www.whitleysec.moe.edu.sg/leadership-and-character/" rel="noopener noreferrer nofollow" target="_blank">Leadership and Character</a> 
 <br>-<a href="https://www.whitleysec.moe.edu.sg/useful-links/direct-school-admission/public-speaking-and-debate/" rel="noopener noreferrer nofollow" target="_blank">Public Speaking and Debate</a>
 </p>
 </td>
