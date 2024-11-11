@@ -3,135 +3,319 @@ title: CCA Achievements
 permalink: /achievements/Student-Achievements/cca/permalink/
 description: ""
 third_nav_title: Student Achievements
+variant: tiptap
 ---
-![](/images/achievements.jpg)
-
-### CCA Achievements
-
-#### Club & Societies Achievements
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n304{background-color:#5B2C2C;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-1xbg{background-color:#FFFAF3;text-align:left;vertical-align:top}
-.tg .tg-tmat{background-color:#FFFAF3;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-n304"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">Art Club</span></td>
-    <td class="tg-1xbg"></td>
-    <td class="tg-tmat" colspan="3">2nd Singapore International Original Comics Competition (2020)<br><span style="color:#000;background-color:#FFFAF3">Bronze Medallist: Goh Kang Kiat, 3R</span><br><br>Digital Arts Competition (2021)<br><span style="color:#000;background-color:#FFFAF3">Bronze Medal: Zhang Yi 4R</span></td>
-  </tr>
-</thead>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1xbg{background-color:#FFFAF3;text-align:left;vertical-align:top}
-.tg .tg-dnru{background-color:#5B2C2C;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-tmat{background-color:#FFFAF3;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-dnru"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">English Debating Club</span></td>
-    <td class="tg-1xbg"></td>
-    <td class="tg-tmat" colspan="3">National Schools Online Debating Championships (Division 3) (2020)<br><span style="color:#000;background-color:#FFFAF3">Team Semi-finalist: Wong Sung May 2E1; Keiran Low 2E2; Thakar Tirth 2E3; Yap Jun Yi 2E4; Niu Xinglin 1-5</span><br><br>Debating Association Debate Competition 2021<br><span style="color:#000;background-color:#FFFAF3">YAP JUN YI 3E; WONG SUNG MAY 3I; THAKAR TIRTH; BHAVESHKUMAR 3I; YOON SEOYEONG 3I</span><br><br>Participated in Raffles U 14 Debating Championship 2021</td>
-  </tr>
-</thead>
-</table>
-
-#### Uniform Groups
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n304{background-color:#5B2C2C;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-eqj8{background-color:#5B2C2C;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-fvar{background-color:#FFFAF3;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n304" colspan="5"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">Key Co-Curricular Activities (CCA) Achievement</span></th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/achievements.jpg">
+</div>
+<h4><strong>Club &amp; Societies Achievements<br></strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-eqj8">Boys' Brigade</td>
-    <td class="tg-9hzb" colspan="4">Best Unit Competition (JM Fraser Award)<br><span style="font-weight:400;color:#000">2020 - Gold</span><br><span style="font-weight:400;color:#000">2019 - Gold</span><br><span style="font-weight:400;color:#000">2018 - Gold</span><br><span style="font-weight:400;color:#000">2017 - Gold</span><br><span style="font-weight:400;color:#000">2016 - Gold</span></td>
-  </tr>
-  <tr>
-    <td class="tg-n304"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">Girls' Brigade</span></td>
-    <td class="tg-fvar" colspan="4">Best Unit Competition<br><span style="color:#000;background-color:#FFFAF3">2020 - Gold</span><br><span style="color:#000;background-color:#FFFAF3">2019 - Gold</span><br><span style="color:#000;background-color:#FFFAF3">2018 - Gold</span><br><span style="color:#000;background-color:#FFFAF3">2017 - Gold</span><br><span style="color:#000;background-color:#FFFAF3">2013 - Silver</span></td>
-  </tr>
-  <tr>
-    <td class="tg-n304"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">Girl Guides</span></td>
-    <td class="tg-9hzb" colspan="4">Puan Noor Aishah Award<br><span style="color:#000;background-color:#FFF">2020 - Silver</span><br><span style="color:#000;background-color:#FFF">2019 - Silver</span><br><span style="color:#000;background-color:#FFF">2018 - Bronze</span><br><span style="color:#000;background-color:#FFF">2017 - Gold</span><br><span style="color:#000;background-color:#FFF">2016 - Gold</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-n304"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">NCC (Land Boys)</span></td>
-    <td class="tg-fvar" colspan="4">Best Unit Competition<br><span style="color:#000;background-color:#FFFAF3">2020 - Distinction</span><br><span style="color:#000;background-color:#FFFAF3">2019 - Distinction</span><br><span style="color:#000;background-color:#FFFAF3">2018 - Silver</span><br><span style="color:#000;background-color:#FFFAF3">2017 - Silver</span><br><span style="color:#000;background-color:#FFFAF3">2016 - Silver</span></td>
-  </tr>
-  <tr>
-    <td class="tg-n304"><span style="font-weight:bold;color:#FFF;background-color:#5B2C2C">NPCC (Land)</span></td>
-    <td class="tg-9hzb" colspan="4">Best Unit Competition<br><span style="color:#000;background-color:#FFF">2020 - Gold</span><br><span style="color:#000;background-color:#FFF">2019 - Gold</span><br><span style="color:#000;background-color:#FFF">2018 - Gold</span><br><span style="color:#000;background-color:#FFF">2017 - Gold</span><br><span style="color:#000;background-color:#FFF">2016 - Gold</span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Art Club</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore International Original Comics Competition 2024
+<br>Bronze (Tan Wan Yu Zoe 4R)
+<br>
+</p>
+<p>2nd Singapore International Original Comics Competition (2020)
+<br>Bronze Medallist: Goh Kang Kiat, 3R
+<br>
+<br>Digital Arts Competition (2021)
+<br>Bronze Medal: Zhang Yi 4R</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>English Debate</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>Divison II Singapore Secondary Schools Debating
+<br>Championships 2024 - Quarter-finalists
+<br>
+</p>
+<p>Raffles Institution U-14 Debating Championships 2024 (Silver Division)
+<br>1st Runner-up
+<br>
+<br>Debating Association Debate Competition 2021
+<br>Yap Jun Yi 3E
+<br>Wong Sung May 3I&nbsp;
+<br>Thakar Tirt Bhaveshkumar 3I&nbsp;
+<br>Yoon Seoyeong 3I</p>
+<p></p>
+<p>Participated in Raffles U 14 Debating Championship 2021</p>
+<p></p>
+<p>National Schools Online Debating Championships (Division 3) (2020)
+<br>Team Semi-finalist:
+<br>Wong Sung May 2E1
+<br>Keiran Low 2E2
+<br>Thakar Tirth 2E3
+<br>Yap Jun Yi 2E4
+<br>Niu Xinglin 1-5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Media Communications Club</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Youth Tech Championships 2024 -Participation
+<br>
+<br>National Youth Tech Championships 2023 -Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Photography Club</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>"Our Schools, Our Stories&amp;quot; Photo" Video Contest 2024
+<br>Honorable Mention for World of Possibilities category
+<br>
+<br>Lau En Tong 4R
+<br>Sridaarisini Maran 4I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Choir</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore International Choral Festival 2024 - Bronze
+<br>
+<br>SYF 2023 - Commendation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>English Drama</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>International Science Drama Competition 2024 - 1st Runner Up
+<br>
+<br>SYF 2023 - Accomplishment
+<br>
+<br>DRUGFREESG Video Competition 2022- Winner (Category 1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>International Dance</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 12 Finalists 2024 in Super24</p>
+<p>SYF 2023 - Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Golf</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG B Division Team Boys 2024 - 2nd Runner-up
+<br>Mani Lui 4P
+<br>Isaiah Lim 4D
+<br>
+<br>NSG B Division Team Girls 2023 - 3rd Runner-up
+<br>Han Yi Lin 4I
+<br>Lai Kuan Ying 3I</p>
+<p>NSG B Division Team Boys 2023 - 3rd Runner-up
+<br>Mani Lui 3P
+<br>Isaiah Lim 3D</p>
+<p></p>
+<p>NSG C Division Team Boys 2022 - 2nd Runner-up
+<br>Mani Lui 2E
+<br>Isaiah Lim 2D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Girl Guides</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>National Cadet Corps (Land)</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-
-#### Performing Arts
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n304{background-color:#5B2C2C;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-1xbg{background-color:#FFFAF3;text-align:left;vertical-align:top}
-.tg .tg-fvar{background-color:#FFFAF3;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-9s8r{background-color:#5b2c2c;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-aoer{background-color:#fffaf3;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-qlzd{background-color:#5b2c2c;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n304"><span style="color:#FFF">Choir</span></th>
-    <th class="tg-1xbg"></th>
-    <th class="tg-fvar" colspan="3">Certificate of Participation (SYF 2021)<br>Certificate of Accomplishment (SYF 2019)<br>Certificate of Accomplishment (SYF 2017)</th>
-  </tr>
-</thead>
+<h4>Uniform Groups</h4>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-9s8r"><span style="font-weight:bold;color:#EFEFEF">International Dance</span></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-aoer" colspan="3"><span style="font-style:normal">Certificate of Participation (SYF 2021)</span><br><span style="font-style:normal">Certificate of Accomplishment (SYF 2019)</span><br><span style="font-style:normal">Certificate of Accomplishment (SYF 2017)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-qlzd"><span style="font-weight:bold;color:#FFF">English Drama</span></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-aoer" colspan="3"><span style="font-style:normal">Certificate of Participation (SYF 2021)</span><br><span style="font-style:normal">Certificate of Accomplishment (SYF 2019)</span><br><span style="font-style:normal">Certificate of Accomplishment (SYF 2017)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-qlzd"><span style="font-weight:bold;color:#FFF">Concert Band</span></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-aoer" colspan="3"><span style="font-style:normal">Non Participation (SYF 2021)</span><br><span style="font-style:normal">Certificate of Accomplishment (SYF 2019)</span><br><span style="font-style:normal">Certificate of Accomplishment (SYF 2017)</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="5">
+<p><strong>Key Co-Curricular Activities (CCA) Achievement</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys' Brigade</p>
+</td>
+<td rowspan="1" colspan="4">
+<p>Best Unit Competition (JM Fraser Award)
+<br>2020 - Gold
+<br>2019 - Gold
+<br>2018 - Gold
+<br>2017 - Gold
+<br>2016 - Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Girls' Brigade</strong>
+</p>
+</td>
+<td rowspan="1" colspan="4">
+<p>Best Unit Competition
+<br>2020 - Gold
+<br>2019 - Gold
+<br>2018 - Gold
+<br>2017 - Gold
+<br>2013 - Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Girl Guides</strong>
+</p>
+</td>
+<td rowspan="1" colspan="4">
+<p>Puan Noor Aishah Award
+<br>2020 - Silver
+<br>2019 - Silver
+<br>2018 - Bronze
+<br>2017 - Gold
+<br>2016 - Gold
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NCC (Land Boys)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="4">
+<p>Best Unit Competition
+<br>2020 - Distinction
+<br>2019 - Distinction
+<br>2018 - Silver
+<br>2017 - Silver
+<br>2016 - Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NPCC (Land)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="4">
+<p>Best Unit Competition
+<br>2020 - Gold
+<br>2019 - Gold
+<br>2018 - Gold
+<br>2017 - Gold
+<br>2016 - Gold</p>
+</td>
+</tr>
 </tbody>
 </table>
+<h4>Performing Arts</h4>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Choir</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="3">
+<p>Certificate of Participation (SYF 2021)
+<br>Certificate of Accomplishment (SYF 2019)
+<br>Certificate of Accomplishment (SYF 2017)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>International Dance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Certificate of Participation (SYF 2021)
+<br>Certificate of Accomplishment (SYF 2019)
+<br>Certificate of Accomplishment (SYF 2017)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English Drama</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Certificate of Participation (SYF 2021)
+<br>Certificate of Accomplishment (SYF 2019)
+<br>Certificate of Accomplishment (SYF 2017)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Concert Band</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Non Participation (SYF 2021)
+<br>Certificate of Accomplishment (SYF 2019)
+<br>Certificate of Accomplishment (SYF 2017)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
