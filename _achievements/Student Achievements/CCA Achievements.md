@@ -139,7 +139,13 @@ variant: tiptap
 <h4><strong>Girl Guides</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Puan Noor Aishah Award 2023-Gold
+<br>Puan Noor Aishah Award 2022-Gold
+<br>Puan Noor Aishah Award 2020-Gold
+<br>Puan Noor Aishah Award 2019-Silver
+<br>Puan Noor Aishah Award 2018-Bronze
+<br>Puan Noor Aishah Award 2017-Gold
+<br>Puan Noor Aishah Award 2016-Gold</p>
 </td>
 </tr>
 <tr>
@@ -147,175 +153,40 @@ variant: tiptap
 <h4><strong>National Cadet Corps (Land)</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Uniform Groups</h4>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="5">
-<p><strong>Key Co-Curricular Activities (CCA) Achievement</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Boys' Brigade</p>
-</td>
-<td rowspan="1" colspan="4">
-<p>Best Unit Competition (JM Fraser Award)
-<br>2020 - Gold
-<br>2019 - Gold
-<br>2018 - Gold
-<br>2017 - Gold
-<br>2016 - Gold</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Girls' Brigade</strong>
-</p>
-</td>
-<td rowspan="1" colspan="4">
-<p>Best Unit Competition
-<br>2020 - Gold
-<br>2019 - Gold
-<br>2018 - Gold
-<br>2017 - Gold
-<br>2013 - Silver</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Girl Guides</strong>
-</p>
-</td>
-<td rowspan="1" colspan="4">
-<p>Puan Noor Aishah Award
-<br>2020 - Silver
-<br>2019 - Silver
-<br>2018 - Bronze
-<br>2017 - Gold
-<br>2016 - Gold
+<p>2024 Outstanding Cadet Award Cledera Luis Matteo 4P
 <br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>NCC (Land Boys)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="4">
-<p>Best Unit Competition
-<br>2020 - Distinction
-<br>2019 - Distinction
-<br>2018 - Silver
-<br>2017 - Silver
-<br>2016 - Silver</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>NPCC (Land)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="4">
-<p>Best Unit Competition
-<br>2020 - Gold
-<br>2019 - Gold
-<br>2018 - Gold
-<br>2017 - Gold
-<br>2016 - Gold</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Performing Arts</h4>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Choir</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="3">
-<p>Certificate of Participation (SYF 2021)
-<br>Certificate of Accomplishment (SYF 2019)
-<br>Certificate of Accomplishment (SYF 2017)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>International Dance</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="3">
-<p>Certificate of Participation (SYF 2021)
-<br>Certificate of Accomplishment (SYF 2019)
-<br>Certificate of Accomplishment (SYF 2017)
+<br>2023 National Cadet Corps Unit Recognition - Distinction
 <br>
-</p>
+<br>2022 National Cadet Corps Unit
+<br>Recognition - Distinction
+<br>
+<br>Best Unit Competition 2020 - Distinction
+<br>Best Unit Competition 2019 - Distinction
+<br>Best Unit Competition 2018 - Silver
+<br>Best Unit Competition 2017 - Silver
+<br>Best Unit Competition 2016 - Silver</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>English Drama</strong>
-</p>
+<h4><strong>National Police Cadet Corps</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="3">
-<p>Certificate of Participation (SYF 2021)
-<br>Certificate of Accomplishment (SYF 2019)
-<br>Certificate of Accomplishment (SYF 2017)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Concert Band</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="3">
-<p>Non Participation (SYF 2021)
-<br>Certificate of Accomplishment (SYF 2019)
-<br>Certificate of Accomplishment (SYF 2017)</p>
+<p>2024 SPF-NPCC Badge Awardee - Cayla Soh 4E
+<br>
+<br>2023 Unit Overall Proficiency Award - Gold
+<br>
+<br>2022 Unit Overall Proficiency Award - Gold
+<br>
+<br>Best Unit Competition 2020 - Gold
+<br>Best Unit Competition 2019 - Gold
+<br>Best Unit Competition 2018 - Gold
+<br>Best Unit Competition 2017 - Gold
+<br>Best Unit Competition 2016 - Gold</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4></h4>
+<h4></h4>
 <p></p>
