@@ -1,12 +1,12 @@
 ---
 title: Leadership and Character
-permalink: /useful-links/direct-school-admission/leadership-and-character-at-whitley-secondary-school/
-description: ""
+permalink: /leadership-and-character/
 variant: tiptap
+description: ""
 ---
 <h3><strong>Leadership and Character @ Whitley Secondary School</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/lc1.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 676.25px;" height="auto" width="100%" src="https://www.whitleysec.moe.edu.sg/images/lc1.png">
 </div>
 <p>Whitley Secondary School (WSS) is committed to nurturing a caring and
 learning community of leaders, who embody the school values of perseverance,
@@ -60,36 +60,35 @@ in the activities related to the talent they are selected for from year
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2024, 11am
 to 3 June 2024, 3pm.
-<br>Please refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+<br>Please refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/dsa-sec</u></a>
 </p>
 <p>Should your child be shortlisted for an interview, you will be contacted
 between <strong>24 June and 9 September 2024.</strong>
 </p>
 <h3><strong>Useful MOE weblinks:</strong></h3>
 <p>• DSA-Sec Main Webpage
-<br><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<br><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/dsa-sec</u></a>
 </p>
 <p>• Instructions on Application (Mainstream students)
-<br><a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
+<br><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/dsa-sec-application</u></a>
 </p>
 <p>• Instructions on Application (Non Mainstream Students)
-<br><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+<br><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/nmsdsa-sec-application</u></a>
 </p>
 <p>• Direct to DSA-Sec Portal (Mainstream Students) * go live on 4 May, 11am
-<br><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
+<br><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/apply-dsa-sec</u></a>
 </p>
 <p>• Direct to DSA-Sec Portal (Non Mainstream Students) * go live on 4 May,
 11am
-<br><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
+<br><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/apply-dsa-sec-nms</u></a>
 </p>
 <p>• DSA-Sec iFAQs
-<br><a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
+<br><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/dsa-secfaqs</u></a>
 </p>
 <p>• DSA-Sec School Finder
-<br><a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
+<br><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/dsa-secschfinder</u></a>
 </p>
 <h3><strong>Contact Details</strong></h3>
 <p>Ms Winnie Kok (SH Student Leadership)
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">kok_pei_shan_winnie@schools.gov.sg</a>
+<br>Email: <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>kok_pei_shan_winnie@schools.gov.sg</u></a>
 <br>School Code: 3015</p>
-<p></p>
