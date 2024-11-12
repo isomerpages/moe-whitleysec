@@ -1,0 +1,4 @@
+collections:
+  year-book:
+    output: true
+    order: []
