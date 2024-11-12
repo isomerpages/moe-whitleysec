@@ -19,7 +19,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.whitleysec.moe.edu.sg/useful-links/school-year-books/permalink/" rel="noopener noreferrer nofollow" target="_blank">School Year Books</a>
+</p>
 </td>
 </tr>
 <tr>
