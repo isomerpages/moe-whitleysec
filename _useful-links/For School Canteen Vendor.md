@@ -31,7 +31,7 @@ description: ""
 <p>Halal Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 Nov 2024</p>
+<p>14 Feb 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
