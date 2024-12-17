@@ -12,7 +12,7 @@ information regarding school opening on 2 Jan 2025 (Thu). The information
 includes first day of school, Sec 1 orientation programme, as well as the
 purchase of school uniform and textbooks.</p>
 <p></p>
-<p><strong>Link: <a href="https://www.whitleysec.moe.edu.sg/2024-secondary-one-e-registration/" rel="noopener noreferrer nofollow" target="_blank">2025 SECONDARY ONE E-REGISTRATION</a></strong>
+<p><strong>Link: <a href="https://www.whitleysec.moe.edu.sg/2025-secondary-one-e-registration/" rel="noopener noreferrer nofollow" target="_blank">2025 SECONDARY ONE E-REGISTRATION</a></strong>
 </p>
 <p><strong>Sec 1 Appeal for Transfer In</strong>
 </p>
