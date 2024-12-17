@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Sec 1 E-Registration (18 Dec 2024)</strong></h3>
+<h3><strong>Sec 1 e-Registration (18 Dec 2024)</strong></h3>
 <p>Dear parents and incoming students, welcome to Whitley Secondary School!
 Please click on the link to our Sec 1 e-Registration page to complete the
 registration and other admin matters. On the page, you will also find important
