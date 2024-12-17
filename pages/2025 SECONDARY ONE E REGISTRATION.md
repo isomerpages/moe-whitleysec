@@ -8,7 +8,7 @@ description: ""
 school education with us at Whitley Secondary.</p>
 <h4><strong>1. Online Registration</strong></h4>
 <p>Please complete the online registration by 20 December 2024, 1pm.
-<br><a href="https://go.gov.sg/sec1registrationform2025" rel="noopener noreferrer nofollow" target="_blank">https:..go.gov.sg/sec1registrationform2025</a>
+<br><a href="https://go.gov.sg/sec1registrationform2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1registrationform2025</a>
 <br>
 </p>
 <p>Upon your successful registration, we will send you an email by 20 December
