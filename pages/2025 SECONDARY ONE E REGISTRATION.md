@@ -59,7 +59,8 @@ conditions/severe physical impairments, you may call the school at 6456
 <h4><strong>Important Information (Click Link For More Information)</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="/files/2025 S1 Important Information/FIRST_DAY_of_School.pdf" rel="noopener nofollow" target="_blank">First Day of School</a>
+</p>
 </li>
 <li>
 <p><a href="/files/2025 S1 Important Information/Sec_1_Orientation_Programme.pdf" rel="noopener nofollow" target="_blank">Sec 1 Orientation Programme</a>
