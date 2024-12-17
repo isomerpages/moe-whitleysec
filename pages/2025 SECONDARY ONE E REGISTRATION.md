@@ -67,21 +67,12 @@ conditions/severe physical impairments, you may call the school at 6456
 </p>
 </li>
 <li>
-<p>Purchase of School Uniforms, Textbooks &amp; PE Attire</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/2025 S1 Important Information/Booklist_for_Sec_1G1.pdf" rel="noopener nofollow" target="_blank">Booklist for Sec 1 G1</a>
+<p>Purchase of School Uniforms, Textbooks &amp; PE Attire
+<br>- <a href="/files/2025 S1 Important Information/Sale_of_School_Textbooks_and_Uniform.pdf" rel="noopener nofollow" target="_blank">Sale of School Textbooks and Uniform</a>
+<br>- <a href="/files/2025 S1 Important Information/Booklist_for_Sec_1G1.pdf" rel="noopener nofollow" target="_blank">Booklist for Sec 1 G1</a>
+<br>- <a href="/files/2025 S1 Important Information/Booklist_for_Sec_1G2.pdf" rel="noopener nofollow" target="_blank">Booklist for Sec 1 G2</a>
+<br>- <a href="/files/2025 S1 Important Information/Booklist_for_Sec_1G3.pdf" rel="noopener nofollow" target="_blank">Booklist for Sec 1 G3</a>
 </p>
-</li>
-<li>
-<p><a href="/files/2025 S1 Important Information/Booklist_for_Sec_1G2.pdf" rel="noopener nofollow" target="_blank">Booklist for Sec 1 G2</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025 S1 Important Information/Booklist_for_Sec_1G3.pdf" rel="noopener nofollow" target="_blank">Booklist for Sec 1 G3</a>
-</p>
-</li>
-</ul>
 </li>
 <li>
 <p><a href="/files/2025 S1 Important Information/CCA_Information.pdf" rel="noopener nofollow" target="_blank">Co-Curricular Activities Information (CCA)</a>
