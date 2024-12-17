@@ -43,7 +43,16 @@ submit via online (<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer
 The PSG recruitment form can be found in the link: <a href="https://go.gov.sg/sec1psg2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1psg2025</a>
 <br>
 </p>
-<h4><strong>5. Medical Appeal Exercise (MAE)</strong></h4>
+<h4><strong>5. Online Consent for Counselling and Support</strong></h4>
+<p>Our school counsellors focus on supporting our students' socio-emotional
+needs as they journey through their secondary school life. Students can
+reach out to our counsellors for support in any areas related to their
+emotional well-being or mental health. Kindly look through the options
+and provide your consent accordingly for the Academic Year 2025 in the
+link below:</p>
+<p><a href="https://go.gov.sg/sec1counsellingconsent2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1counsellingconsent2025</a>  <u>&nbsp;</u>
+</p>
+<h4><strong>6. Medical Appeal Exercise (MAE)</strong></h4>
 <p>If you are considering to appeal to another school based on serious medical
 conditions/severe physical impairments, you may call the school at 6456
 1336 to request for the application form by <strong>18 December 2024, 5pm</strong>.</p>
