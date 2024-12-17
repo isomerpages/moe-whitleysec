@@ -29,11 +29,11 @@ via the Services tab)
 <p>Kindly read the attached MOE Financial Assistance Scheme for details if
 you are considering to apply for MOE Financial Assistance.
 <br><strong>Click Links For More Details</strong>
-<br><a href="/files/MOE_Financial_Assistance_Scheme.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Scheme</a>
-<br><a href="/files/MOE_FINANCIAL_ASSISTANCE_SCHEME__FAS__2024_ENGLISH.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Pamphlet - English</a>
-<br><a href="/files/MOE_FINANCIAL_ASSISTANCE_SCHEME__FAS__2024_CHINESE.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Pamphlet - Chinese</a>
-<br><a href="/files/MOE_FINANCIAL_ASSISTANCE_SCHEME__FAS__2024_MALAY.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Pamphlet - Malay</a>
-<br><a href="/files/MOE_FINANCIAL_ASSISTANCE_SCHEME__FAS__2024_TAMIL.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Pamphlet - Tamil</a>
+<br><a href="/files/2025   Application for MOE FAS/MOE_Financial_Assistance_Scheme_2025.pdf" rel="noopener nofollow" target="_blank">MOE Financial Assistance Scheme</a>
+<br><a href="/files/2025   Application for MOE FAS/MOE_FAS_pamphlet__EL__2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Pamphlet - English</a>
+<br><a href="/files/2025   Application for MOE FAS/MOE_FAS_pamphet__CL__2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Pamphlet - Chinese</a>
+<br><a href="/files/2025   Application for MOE FAS/MOE_FAS_pamphlet__ML__2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Pamphlet - Malay</a>
+<br><a href="/files/2025   Application for MOE FAS/MOE_FAS_pamphlet__TL__2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Pamphlet - Tamil</a>
 </p>
 <p><strong>You may refer to the following links for the application form</strong>
 <br><a href="/files/MOE_2024_FAS_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE 2025 FAS Application Form</a> or
