@@ -10,19 +10,15 @@ Please click on the link to our Sec 1 e-Registration page to complete the
 registration and other admin matters. On the page, you will also find important
 information regarding school opening on 2 Jan 2025 (Thu). The information
 includes first day of school, Sec 1 orientation programme, as well as the
-purchase of school uniform and textbooks.</p>
-<p></p>
-<p><strong>Link: <a href="https://www.whitleysec.moe.edu.sg/2025-secondary-one-e-registration/" rel="noopener noreferrer nofollow" target="_blank">2025 SECONDARY ONE E-REGISTRATION</a></strong>
+purchase of school uniform and textbooks.
+<br>Link: <strong><a href="https://www.whitleysec.moe.edu.sg/2025-secondary-one-e-registration/" rel="noopener nofollow" target="_blank">Sec 1 2025 e-Registration</a></strong>
 </p>
 <p><strong>Sec 1 Appeal for Transfer In</strong>
-</p>
-<p>Primary 6 students who have just received their secondary school posting
+<br>Primary 6 students who have just received their secondary school posting
 may access this online link to appeal for transfer to Whitley Secondary
-School.</p>
-<p>Link: <a href="https://go.gov.sg/s1-wss-in" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/s1-wss-in</u></a>
-</p>
-<p></p>
-<p>The deadline for the submission of appeals is <strong>27 December 2024, 12pm</strong>.
+School.
+<br>Link: <a href="https://go.gov.sg/s1-wss-in" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/s1-wss-in</u></a>
+<br>The deadline for the submission of appeals is <strong>27 December 2024, 12pm</strong>.
 Transfer requests will be subject to available vacancies and the school’s
 admission criteria. The application is deemed to be unsuccessful if you
 do not hear from the school by 2 January 2025. Thank you.</p>
