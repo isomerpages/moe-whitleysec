@@ -41,7 +41,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.whitleysec.moe.edu.sg/useful-links/textbooks-and-uniforms/" rel="noopener noreferrer nofollow" target="_blank">Information on Sale of Textbooks and Uniforms 2025</a>
+<p><a href="https://www.whitleysec.moe.edu.sg/useful-links/textbooks-and-uniforms/" rel="noopener noreferrer nofollow" target="_blank">Information on Sale of Textbooks and Uniforms 2024</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
