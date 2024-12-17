@@ -27,12 +27,15 @@ Transfer requests will be subject to available vacancies and the school’s
 admission criteria. The application is deemed to be unsuccessful if you
 do not hear from the school by 2 January 2025. Thank you.</p>
 <p></p>
+<hr>
 <h3><strong>Public Speaking and Debate @ Whitley Secondary School</strong></h3>
 <p>Join us to unlock your potential in becoming effective communicators.
 You will be given various platforms – in and out of school – to scale greater
 heights of success.
 <br><a href="https://www.whitleysec.moe.edu.sg/useful-links/direct-school-admission/public-speaking-and-debate/" rel="noopener noreferrer nofollow" target="_blank">Click here for more information.</a>
 </p>
+<hr>
+<p></p>
 <h3><strong>Leadership and Character @ Whitley Secondary School</strong></h3>
 <p>Through a wide range of projects and developmental opportunities, you
 will be able to discover your talents and develop your leadership skills,
