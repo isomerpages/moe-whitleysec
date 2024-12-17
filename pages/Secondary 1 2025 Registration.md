@@ -1,5 +1,5 @@
 ---
-title: 2025 SECONDARY ONE E REGISTRATION
+title: Secondary 1 2025 Registration
 permalink: /2025-secondary-one-e-registration/
 variant: tiptap
 description: ""
