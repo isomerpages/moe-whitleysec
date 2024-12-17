@@ -15,7 +15,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Applications &amp; Informations</p>
+<h4><strong>Applications &amp; Information</strong></h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -41,7 +41,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.whitleysec.moe.edu.sg/useful-links/textbooks-and-uniforms/" rel="noopener noreferrer nofollow" target="_blank">Information on Sale of Textbooks and Uniforms 2024</a>
+<p><a href="https://www.whitleysec.moe.edu.sg/useful-links/textbooks-and-uniforms/" rel="noopener noreferrer nofollow" target="_blank">Information on Sale of Textbooks and Uniforms 2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,7 +59,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Information on Direct School Admission
+<p><strong>Information on Direct School Admission </strong>
 <br>-<a href="https://www.whitleysec.moe.edu.sg/leadership-and-character/" rel="noopener noreferrer nofollow" target="_blank">Leadership and Character</a> 
 <br>-<a href="https://www.whitleysec.moe.edu.sg/useful-links/direct-school-admission/public-speaking-and-debate/" rel="noopener noreferrer nofollow" target="_blank">Public Speaking and Debate</a>
 </p>
