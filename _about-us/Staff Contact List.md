@@ -39,9 +39,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>whitley_ss@moe.edu.sg
-<br>
-</p>
+<p>whitley_ss@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -770,9 +768,7 @@ variant: tiptap
 <p>Ms Chua Sok Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Year Head
-<br>
-</p>
+<p>Sec 3 Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chua_sok_ling@schools.gov.sg</p>
@@ -796,14 +792,10 @@ variant: tiptap
 <p>Mdm Zhu Lili</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Caring
-<br>
-</p>
+<p>3 Caring</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zhu_Li_Li@schools.gov.sg
-<br>
-</p>
+<p>Zhu_Li_Li@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
