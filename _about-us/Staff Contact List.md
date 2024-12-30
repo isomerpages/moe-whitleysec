@@ -398,6 +398,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Faizal Bin Mohamad</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -409,7 +410,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lin Bihui Celisa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Caring</p>
@@ -420,7 +421,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Lee Shin Jiu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Learning</p>
@@ -431,7 +432,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Kaitha</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Learning</p>
@@ -442,7 +443,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Matthew Ng Kwang Shen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Perseverance</p>
@@ -453,7 +454,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Shana</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Perseverance</p>
@@ -464,7 +465,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Jimmy Wang Hung Keat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Respect
@@ -479,7 +480,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Kuah Li Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Soo Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Integrity
@@ -494,7 +506,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Zachary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Kai Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Discipline
@@ -507,10 +530,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nabilah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Discipline</p>
+<p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -518,7 +541,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Wong Kok Heng (Victor)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Empathy</p>
