@@ -77,13 +77,13 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ambikai Veeramurugan</p>
+<p>Mr Ganison S/O Rajamohan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD - Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ambikai_veeramurugan@schools.gov.sg</p>
+<p>ganison_rajamohan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -138,8 +138,8 @@ variant: markdown
 <p>HOD - Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ambikai_veeramurugan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ambikai_veeramurugan@schools.gov.sg</a>
-</p>
+<p>ambikai_veeramurugan@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -254,6 +254,17 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_lishi_theresa@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Priscilla Tang Si Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tang_si_ying_priscilla@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
