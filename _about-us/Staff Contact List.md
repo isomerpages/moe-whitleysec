@@ -506,13 +506,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Zachary</p>
+<p>Mr Zachary Andrew Branson</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zachary_andrew_branson@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zachary_andrew_branson@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -531,13 +532,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nabilah</p>
+<p>Mdm Nabilah Syahirah Abdul Fatah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nabilah_syahirah_abdul_fatah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nabilah_syahirah_abdul_fatah@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -661,13 +663,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Jin Hui</p>
+<p>Miss Lee Jin Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_jin_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jin_hui@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -771,7 +774,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_xin_yi_clarissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_xin_yi_clarissa@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -818,7 +820,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Lee Yi Wen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Perseverance
@@ -826,12 +828,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_yi_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yi_wen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ong Chan Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Respect
@@ -839,25 +842,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Respect
-<br>
+<p><a href="mailto:ong_chan_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_chan_hong@schools.gov.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Hanim Bte Shaik Noh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Integrity
@@ -865,12 +856,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hanim_shaik_noh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hanim_shaik_noh@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Heng Hui Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Discipline
@@ -878,12 +870,25 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hui_hui_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hui_hui_heng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Daniel Hussain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Discipline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamed_amin_mohamed_hussa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_amin_mohamed_hussa@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Priscilla Tang Si Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Empathy
@@ -891,12 +896,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tang_si_ying_priscilla@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_si_ying_priscilla@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss En Yeng Teng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Empathy
@@ -904,7 +910,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:yeng_teng_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeng_teng_en@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
