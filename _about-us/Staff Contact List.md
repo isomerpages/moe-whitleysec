@@ -132,13 +132,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Mun Leong</p>
+<p>Mrs Ambikai Veeramurugan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD - Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_mun_leong@schools.gov.sg</p>
+<p><a href="mailto:ambikai_veeramurugan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ambikai_veeramurugan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -257,17 +258,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kok Pei Shan Winnie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH - Student Leadership</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kok_pei_shan_winnie@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Chua Sok Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -346,17 +336,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chong_may_lin_christine@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Renuka Kal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>renuka_dave@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
