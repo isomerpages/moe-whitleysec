@@ -2,7 +2,7 @@
 title: Staff Contact List
 permalink: /about-us/staffcontact/permalink/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/about%20us.jpg">
@@ -387,86 +387,84 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Tan Gek Yim</p>
+<p>Ms Lye Jia Lin Charlene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_gek_yim@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Valentino Lee Hok Chiong</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Caring</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>valentino_lee_hok_chiong@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sarina Binte Omar Bakri</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Caring</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sarina_omar_bakri@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Jian Xun</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Learning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan_Jian_Xun@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Huei Huei Engel</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Learning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_huei_huei_engel@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Tan Hui Xian</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_hui_xian_b@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Boon Ya</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_boon_ya@schools.gov.sg
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms S Letchumi</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Respect
@@ -474,14 +472,14 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>s_letchumi@schools.gov.sg
+<p>
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Amanda Yew Hui Shan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Integrity
@@ -489,14 +487,14 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yew_hui_shan_amanda@schools.gov.sg
+<p>
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Cher-Lee Lay Peng</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Discipline
@@ -504,29 +502,29 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_lay_peng@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Gnanasekaran Vani</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gnanasekaran_vani@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Lin Wenyuan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lin_wenyuan@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 </tbody>
