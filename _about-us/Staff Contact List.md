@@ -393,7 +393,7 @@ variant: tiptap
 <p>Sec 1 Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lye_jia_lin_charlene@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -405,7 +405,7 @@ variant: tiptap
 <p>1 Caring</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Faizal_mohamad@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -416,7 +416,7 @@ variant: tiptap
 <p>1 Caring</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lin_bihui_celisa@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -427,7 +427,7 @@ variant: tiptap
 <p>1 Learning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lee_shin_jiu@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -449,7 +449,7 @@ variant: tiptap
 <p>1 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_kwang_shen_matthew@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -473,8 +473,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><a href="mailto:jimmy_wang_hung_keat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jimmy_wang_hung_keat@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -486,7 +485,8 @@ variant: tiptap
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kuah_li_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kuah_li_wen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -499,7 +499,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p><a href="mailto:ng_soo_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_soo_hoon@schools.gov.sg</a>
 <br>
 </p>
 </td>
@@ -525,7 +525,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_kai_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kai_yong@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -547,7 +548,8 @@ variant: tiptap
 <p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Wong_Kok_Heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Kok_Heng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -577,7 +579,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lye Jia Lin Charlene
+<p>Ms Tan Gek Yim
 <br>
 </p>
 </td>
@@ -587,12 +589,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lye_jia_lin_charlene@schools.gov.sg</p>
+<p>tan_gek_yim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Han Xianyao</p>
+<p>Mr Valentino Lee Hok Chiong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Caring
@@ -600,23 +602,26 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>han_xianyao@schools.gov.sg</p>
+<p>valentino_lee_hok_chiong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hanim Bte Shaik Noh</p>
+<p>Mdm Sarina Binte Omar Bakri</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Caring</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hanim_shaik_noh@schools.gov.sg</p>
+<p><a href="mailto:sarina_omar_bakri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_omar_bakri@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chin Siew Kin Christine</p>
+<p>Mr Tan Jian Xun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Learning
@@ -624,23 +629,25 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chin_siew_kin_christine@schools.gov.sg</p>
+<p><a href="mailto:Tan_Jian_Xun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Jian_Xun@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Faizal Bin Mohamad</p>
+<p>Ms Teo Huei Huei Engel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Learning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Faizal_mohamad@schools.gov.sg</p>
+<p><a href="mailto:teo_huei_huei_engel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_huei_huei_engel@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Kai Yong</p>
+<p>Ms Tan Boon Ya</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Perseverance
@@ -648,12 +655,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_kai_yong@schools.gov.sg</p>
+<p><a href="mailto:tan_boon_ya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_ya@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lin Bihui Celisa</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Perseverance</p>
@@ -664,7 +672,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jimmy Wang Hung Keat</p>
+<p>Ms S Letchumi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Respect
@@ -672,23 +680,25 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jimmy_wang_hung_keat@schools.gov.sg</p>
+<p><a href="mailto:s_letchumi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">s_letchumi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Teo Wan Leng</p>
+<p>Mr Ng Hua Yang Ryan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_wang_leng@schools.gov.sg</p>
+<p><a href="mailto:ng_hua_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hua_yang@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Lee Shin Jiu</p>
+<p>Miss Amanda Yew Hui Shan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Integrity
@@ -696,36 +706,25 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_shin_jiu@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Lishi Theresa&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Discipline
-<br>
+<p><a href="mailto:yew_hui_shan_amanda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yew_hui_shan_amanda@schools.gov.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>tan_lishi_theresa@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Kok Heng (Victor)</p>
+<p>Ms Gnanasekaran Vani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong_Kok_Heng@schools.gov.sg</p>
+<p><a href="mailto:gnanasekaran_vani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gnanasekaran_vani@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Renuka Kal</p>
+<p>Ms Chin Siew Kin Christine</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Empathy
@@ -733,20 +732,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>renuka_dave@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Mei Ling &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Empathy
-<br>
+<p><a href="mailto:chin_siew_kin_christine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_siew_kin_christine@schools.gov.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_mei_ling_a@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
