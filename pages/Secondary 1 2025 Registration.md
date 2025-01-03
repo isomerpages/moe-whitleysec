@@ -79,7 +79,8 @@ conditions/severe physical impairments, you may call the school at 6456
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/2025 S1 Important Information/5__Travelling_To_and_From_School_Updated.pdf" rel="noopener nofollow" target="_blank">Travelling To &amp; From School</a>
+</p>
 </li>
 <li>
 <p><a href="/files/2025 S1 Important Information/Preparation_Checklist.pdf" rel="noopener nofollow" target="_blank">Preparation&nbsp;Checklist</a>
