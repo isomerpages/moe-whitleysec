@@ -155,6 +155,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ng Mun Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD - Information and Communications Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_mun_leong@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Kelvin Yew Yeu Weng</p>
 </td>
 <td rowspan="1" colspan="1">
