@@ -2,10 +2,10 @@ collections:
   achievements:
     output: true
     order:
-      - Student Achievements/Young Sustainability Champion.md
       - Student Achievements/.keep
       - Student Achievements/O Level Results.md
       - Student Achievements/N Level Results.md
-      - Student Achievements/Commonwealth Essay Competition.md
       - Student Achievements/CCA Achievements.md
+      - Student Achievements/Young Sustainability Champion.md
+      - Student Achievements/Commonwealth Essay Competition.md
       - Staff Achievements.md
