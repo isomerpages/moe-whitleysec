@@ -25,6 +25,48 @@ your hard work has laid a strong foundation for success.</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/O level/WhatsApp_Image_2025_01_22_at_15_44_31.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/O level/WhatsApp_Image_2025_01_22_at_15_44_31__1_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/O level/WhatsApp_Image_2025_01_22_at_15_44_32__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/O level/WhatsApp_Image_2025_01_22_at_15_44_32__1_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/O level/WhatsApp_Image_2025_01_22_at_15_44_33.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/O level/WhatsApp_Image_2025_01_22_at_15_44_32.jpg">
+</div>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
