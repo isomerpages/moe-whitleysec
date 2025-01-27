@@ -41,7 +41,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sale of Uniforms</p>
+<p><a href="https://www.whitleysec.moe.edu.sg/sale-of-uniforms/" rel="noopener nofollow" target="_blank">Sale Of Uniforms</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
