@@ -9,11 +9,6 @@ variant: markdown
 </div>
 <h3><br><strong>Staff Accolades 2024 (National/MOE)</strong></h3>
 <table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
