@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/achievements.jpg">
 </div>
-<h3><strong>Staff Achievements</strong><br>Staff Accolades 2023 (National/MOE)</h3>
+<h3><br><strong>Staff Accolades 2024 (National/MOE)</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -31,21 +31,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>National Day Awards 2023 The Commendation Medal (Pingat Kepujian)</strong>
+<p><strong>National Day Awards 2024</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>The Commendation Medal (Pingat Kepujian)</strong>
 </p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Commendation Medal was instituted in 1996.
-<br>
-<br>The Medal may be awarded to public officers who have distinguished themselves
+<p>The Commendation Medal was instituted in 1996.</p>
+<p>&nbsp;</p>
+<p>The Medal may be awarded to public officers who have distinguished themselves
 through commendable performance and conduct, or significant efficiency,
 competence and devotion to duty.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Recipients:
-<br>1. Ms Shrila Balachandran</p>
+<p>Recipients:</p>
+<p>&nbsp;</p>
+<p>Mr Ng Mun Leong
+<br>(HOD ICT)
+<br>
+</p>
+<p>Mr Loh Mun Kay (Operation Manager)</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -53,31 +62,13 @@ competence and devotion to duty.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>National Day Awards 2023 The Long Service Medal (Pingat Bakti Setia)</strong>
+<p><strong>President’s Award for Teachers (PAT) 2024</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Long Service Medal was instituted in 1962.
-<br>
-<br>The Medal may be awarded to any public officer who is of irreproachable
-character and whom the President is satisfied has completed at least 25
-years service in the public service.</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Recipients:
-<br>1. Mr Tan Yit Kee
-<br>2. Mr Subramaniam s/o Kaliappan
-<br>3. Mdm Shrila d/o Balachandran
-<br>4. Mdm Dave Renuka</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>President’s Award for Teachers (PAT) 2023 [Nominee]</strong>
+<p><strong>[Nominee]</strong>
+</p>
+<p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,16 +78,18 @@ young. These educators are role models for the fraternity and inspire students
 through their words and deeds.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nominee: 1. Pearly Sim</p>
+<p>Nominee:</p>
+<p>&nbsp;</p>
+<p>Winnie Kok Pei Shan (SH Student Leadership)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Outstanding Youth in Education Award (OYEA) 2023</strong>
+<p><strong>Outstanding Youth in Education Award (OYEA) 2024</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>[Nominees]</strong>
+<p><strong>[Finalist]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,15 +98,15 @@ the achievements of young educators who have shown admirable passion for
 teaching, and commitment to inspiring and nurturing their students.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Recipients:</p>
-<p>1. Pearly Sim</p>
-<p>2. Heng Hui Hui</p>
+<p>Finalist:</p>
+<p>&nbsp;</p>
+<p>Jerome Lim (SH English Literature)</p>
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NIE The Caring Teacher Awards 2023 &nbsp;</strong>
+<p><strong>NIE The Caring Teacher Awards 2024</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -123,17 +116,21 @@ teaching, and commitment to inspiring and nurturing their students.</p>
 <td rowspan="1" colspan="1">
 <p>NIE The Caring Teacher Awards recognise teachers who show care and concern
 for students, developing their potential to the fullest.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Recipients: NIE The Caring Teacher Awards is bi-annual. Recipients will
-receive the awards in 2024.</p>
+<p>Recipients:</p>
+<p>&nbsp;</p>
+<p>Lee Shin Jiu&nbsp;&nbsp;&nbsp;</p>
+<p>Priscilla Tang</p>
+<p>Heng Hui Hui&nbsp;</p>
+<p>Valentino Lee</p>
+<p>Tan Hui Xian &nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MOE Long Service Awards 2023</strong>
+<p><strong>MOE Long Service Awards 2024</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -143,7 +140,8 @@ receive the awards in 2024.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Recipients:</p>
-<p><strong>&nbsp;<u>For 5 Years of Service:</u></strong>
+<p>&nbsp;</p>
+<p><strong><u>For 5 Years of Service:</u></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -152,21 +150,23 @@ receive the awards in 2024.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Heng Hui Hui</p>
+<p>Ms Gnanasekaran Vani</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Zaini Bin Zainap</p>
+<p>Ms Lin Wenyuan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Koo Nan Yong Special Appreciation Award</p>
+<p>Ms Tan Huixian</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p><u>&nbsp;</u>
+</p>
 <p><strong><u>For 10 Years of Service:</u></strong>
 </p>
 <table style="minWidth: 25px">
@@ -176,7 +176,7 @@ receive the awards in 2024.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Alfred Rojes</p>
+<p>Mr Faizal Bin Mohamad</p>
 </td>
 </tr>
 <tr>
@@ -186,16 +186,23 @@ receive the awards in 2024.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Li Weixiang Daphne</p>
+<p>Mr Valentino Lee</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Maslina Binte Mohamed</p>
+<p>Ms Winnie Kok</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Pearly Sim</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p><u>&nbsp;</u>
+</p>
 <p><strong><u>For 15 Years of Service:</u></strong>
 </p>
 <table style="minWidth: 25px">
@@ -205,21 +212,22 @@ receive the awards in 2024.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Low Chee Chuen</p>
+<p>Mrs Ambikai Veeramurugan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Hua Yang</p>
+<p>Ms Kuah Liwen</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Zui Wee Liang, Andy</p>
+<p>Mr Loh Mun Kay</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <p><strong><u>For 20 Years of Service:</u></strong>
 </p>
 <table style="minWidth: 25px">
@@ -229,26 +237,12 @@ receive the awards in 2024.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Amutha Mani</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jimmy Wang Hung Keat</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kelvin Yew Yeu Weng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Yong Kwee Fah</p>
+<p>Ms Tan Gek Yim</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <p><strong><u>For 25 Years of Service:</u></strong>
 </p>
 <table style="minWidth: 25px">
@@ -258,30 +252,13 @@ receive the awards in 2024.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chin Siew Kin Christine</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Dave Renuka</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Subramaniam s/o Kaliappan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Yit Kee</p>
+<p>Mdm Shrila D/O Balachandran</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><u>For 40 Years of Service:</u></strong>
-</p>
-<p>Ms Hamaliah Kaerie</p>
-<p><strong><u>Covid-19 Resilience Medal</u></strong>
+<p>&nbsp;</p>
+<p><strong><u>For 30 Years of Service:</u></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -290,32 +267,29 @@ receive the awards in 2024.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Anba Saroja</p>
+<p>Mdm Lee Lay Peng</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Mun Kay</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Issac Low Qiao Meng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Christine Chong</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><u>For 35 Years of Service:</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p>Mr Tay Kim Seng</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MOE Service Excellence Award (MSEA) 2023</strong>
+<p><strong>MOE Service Excellence Award (MSEA) 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -327,39 +301,76 @@ and&nbsp;inspire their colleagues to do likewise.</p>
 <td rowspan="1" colspan="1">
 <p><u>Gold Recipients</u>
 </p>
-<p>1.Cheryl Choo</p>
-<p>2.Crystal Goh Chiat Yi</p>
-<p>3.Daphne Li Weixiang</p>
-<p>4.Diana Binte Baharudin</p>
-<p>5.Gnanasekaran Vani</p>
-<p>6.Hamad Zainudin Bin Othman</p>
-<p>7.Jaswant Singh G Singh</p>
-<p>8.Jerome Lim Jit How</p>
-<p>9.K Vijaya Kumar Edward Nathan</p>
-<p>10.Kok Pei Shan Winnie</p>
-<p>11.Leong Guo Wei Elwin</p>
-<p>12.Lin Weiquan</p>
-<p>13.Sarina Binte Omar Bakri</p>
-<p>14.Shrila Balachandran</p>
-<p>15Tan Lishi Theresa</p>
-<p>16.Tifany Tay Jing Wen</p>
-<p>17.Yew Hui Shan Amanda</p>
-<p>18.Yew Yeu Weng Kelvin</p>
+<p>K Amutha</p>
+<p>Krishan Sanjay Mahesh</p>
+<p>Lim Eu Boon</p>
+<p>Lin Wenyuan</p>
+<p>Ng Kai Yong</p>
+<p>Ng Mun Leong</p>
+<p>Priscilla Tang Si Ying</p>
+<p></p>
 <p><u>Silver Recipients</u>
 </p>
-<p>1.Faizal Bin Mohamad</p>
-<p>2.K Amutha</p>
-<p>3.Krishan Sanjay Mahesh</p>
-<p>4.Lin Wenyuan</p>
-<p>5.Ng Kai Yong</p>
-<p>6.Ng Mun Leong</p>
-<p>7.Priscilla Tang Si Ying</p>
-<p>8.Veronica Lim Puay Hoon</p>
+<p>Asrizal Bin Elias</p>
+<p>Ivy Lai Swee Lee</p>
+<p>Daniel Low Chuen Zher</p>
+<p>Matthew Ng Kwang Shen</p>
+<p>Dave Renuka</p>
+<p>S Letchimi</p>
+<p>Earnest Tay En Sheng</p>
+<p>Engel Teo Huei Huei</p>
+<p>Tuty Asmary Bte Subarjono</p>
+<p>Valentino Lee Hok Chiong</p>
+<p>Andy Zui Wee Liang</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Inspiring Teacher of English Award (ITEA) 2024</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Finalist:</u>
+</p>
+<p>Jerome Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MOE Girl Guides Palm Leaf Award 2024</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Recipient:</u>
+</p>
+<p>Heng Hui Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>Staff Accolades 2023 (School)</h3>
+<h3>Staff Accolades 2024 (School)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -383,7 +394,7 @@ and&nbsp;inspire their colleagues to do likewise.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>WSS Long Service Award (LSA) 2023</strong>
+<p><strong>WSS Long Service Award (LSA) 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -392,25 +403,28 @@ our school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Recipients:</p>
-<p>·Chong May Lin Christine (30 years)</p>
-<p>· Quek Ting (25 years)</p>
-<p>·&nbsp;Hamaliah Binte Kaerie (20 years)</p>
-<p>·Jaswant Singh s/o G Singh (20 years)</p>
-<p>·Sarina Bte Omar Bakri (20 years)</p>
-<p>·&nbsp;Ng Kai Yong (20 years)</p>
-<p>· Dave Renuka (15 years)</p>
-<p>·&nbsp;Tan Sock Hui (15 years)</p>
-<p>·&nbsp;Ng Ah Hee (15 years)</p>
-<p>·&nbsp;Tan Lishi Theresa (10 years)</p>
-<p>·&nbsp;Clarissa Ong (10 years)</p>
-<p>·&nbsp;Tan Gek Yim (10 years)</p>
-<p>·&nbsp;Kok Pei Shan Winnie (10 years)</p>
-<p>·&nbsp;Mrs Anba (5 years)</p>
+<p>Koh Wei Ping (20 years)</p>
+<p>Low Chee Chuen (15 years)</p>
+<p>Jimmy Wang (15 years)</p>
+<p>Charlene Lye (15 years)</p>
+<p>Ong Chan Hong (10 years)</p>
+<p>Sarojini Periasamy (10 years)</p>
+<p>Crystal Goh (10 years)</p>
+<p>Amanda Yew (10 years)</p>
+<p>Engel Teo (10 years)</p>
+<p>Daphne Li (5 years)</p>
+<p>Cholmain Tse Wing Yi (5 years)</p>
+<p>Lee Shin Jiu (5 years)</p>
+<p>Lin Wen Yuan (5 years)</p>
+<p>Tan Hui Xian (5 years)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alfred Rojes (5 years)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chua Sok Ling (5 years)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teo Wan Leng (5 years)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Most Caring Teacher 2023</strong>
+<p><strong>Most Caring Teacher 2024</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -424,18 +438,15 @@ for students, developing their potential to the fullest.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Recipients:</p>
-<p>1.Lee Shin Jiu&nbsp;&nbsp;&nbsp;</p>
-<p>2.Priscilla Tang</p>
-<p>3.Heng Hui Hui</p>
-<p>4.Valentino Lee</p>
-<p>5.Tan Hui Xian</p>
-<p><u>&nbsp;</u>
-</p>
+<p>&nbsp;</p>
+<p>S Letchumi</p>
+<p>Tifany Tay</p>
+<p>Shermane Yeo</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Most Engaging Teacher 2023</strong>
+<p><strong>Most Engaging Teacher 2024</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -452,14 +463,15 @@ the fullest.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Recipients:</p>
-<p>1.Faizal Bin Mohamad</p>
-<p>2.Lim Wei Quan</p>
-<p>3.Jerome Lim</p>
+<p>&nbsp;</p>
+<p>Winnie Kok</p>
+<p>Lin Wenyuan</p>
+<p>Kuah Liwen</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Most Friendly and Helpful Non-Teaching Staff 2023</strong>
+<p><strong>Most Friendly and Helpful Non-Teaching Staff 2024</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -476,15 +488,16 @@ to help students or staff.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Recipients:</p>
-<p>1.Ng Ah Hee</p>
-<p>2.Monica Chua&nbsp;</p>
-<p>3.Elwin Leong</p>
+<p></p>
+<p>Hasimah Bte Ahmad</p>
+<p>Zaini Bin Zainol</p>
+<p>Angela Chia</p>
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Most Innovative (ICT) Teacher Award 2023</strong>
+<p><strong>Most Innovative (ICT) Teacher Award 2024</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -498,13 +511,14 @@ These teachers also help fellow teachers to develop interest in using ICT
 </td>
 <td rowspan="1" colspan="1">
 <p>Recipients:</p>
-<p>1.Heng Hui Hui</p>
+<p>&nbsp;</p>
+<p>Krishan Sanjay S/O Mahesh</p>
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Most Inspiring Teacher Award 2023</strong>
+<p><strong>Most Inspiring Teacher Award 2024</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -517,12 +531,14 @@ for learning.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Recipients:</p>
-<p>1.OngChan Hong</p>
+<p>&nbsp;</p>
+<p>Christine Chong</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Best Team Player Teacher Award 2023</strong>
+<p><strong>Best Team Player Teacher Award 2024</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -535,13 +551,14 @@ colleagues to contribute actively in teams and school goals.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Recipients:</p>
-<p>1. Pearly Sim</p>
+<p>&nbsp;</p>
+<p>Alfred Rojes</p>
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>OCA Individual Award (2023)</strong>
+<p><strong>MOE OCA Individual Award (2024)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -550,14 +567,18 @@ recognises significant contributions made by individual staff and teams
 in schools.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>· Ambikai Veeramurugan</p>
-<p>·&nbsp;Tan Hui Xian</p>
-<p>·&nbsp;Tan Gek Yim</p>
+<p>Elwin Leong</p>
+<p>Lim Eu Boon</p>
+<p><u>Pearly Sim</u>
+</p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>OCA Team Award (2023)</strong>
+<p><strong>MOE OCA Team Award (2024)</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -570,8 +591,9 @@ recognises significant contributions made by individual staff and teams
 in schools.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;Internal Exam Com</p>
-<p>· Open House Team</p>
+<p>Student Leadership Committee</p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 </tr>
 </tbody>
