@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/achievements.jpg">
 </div>
-<h3><strong>Staff Achievements</strong><br>Staff Accolades 2024 (National/MOE)</h3>
+<h3><br><strong>Staff Accolades 2024 (National/MOE)</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
