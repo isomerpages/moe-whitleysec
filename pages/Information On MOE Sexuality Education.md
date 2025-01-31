@@ -83,7 +83,7 @@ the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <hr>
-<h4><strong>At WHITLEY Secondary School, the following Sexuality Education lessons will be taught in <u>2024</u></strong></h4>
+<h4><strong>At WHITLEY Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/SED FILE/2025_SEXUALITY_EDUCATION_LESSONS_IN_CCE___SEC1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
