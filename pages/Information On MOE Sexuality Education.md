@@ -86,23 +86,23 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <h4><strong>At WHITLEY Secondary School, the following Sexuality Education lessons will be taught in <u>2024</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1IBN72e7_iBeXYcX5W9jgmipnDkFXNKs8/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+<p><a href="/files/SED FILE/2025_SEXUALITY_EDUCATION_LESSONS_IN_CCE___SEC1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1-aLeiTGzTZf0JKV5gIXxvBWRN74Xhlsg/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
+<p><a href="/files/SED FILE/2025_SEXUALITY_EDUCATION_LESSONS_IN_CCE___SEC2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1r6beoP0JqN7nH4buw80QLFol0FoqqxBj/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/SED FILE/2025_SEXUALITY_EDUCATION_LESSONS_IN_CCE___SEC3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1XYry_1uLVzYDIpQ_FZxQsx5YHcD32Qb6/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
+<p><a href="/files/SED FILE/2025_SEXUALITY_EDUCATION_LESSONS_IN_CCE___SEC4.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1IH9eSQxzfYAYptTuLX-Ox7JTn_vgQAT1/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a>
+<p><a href="/files/SED FILE/2025_SEXUALITY_EDUCATION_LESSONS_IN_CCE___SEC5.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a>
 </p>
 </li>
 </ul>
