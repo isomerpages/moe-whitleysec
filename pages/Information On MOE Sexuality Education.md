@@ -51,10 +51,9 @@ ones.</p>
 <p></p>
 </li>
 </ul>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> (
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>) for more information on
-MOE Sexuality Education.</p>
-<h4><strong>OVERVIEW OF WHITLEY SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong></h4>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.</p>
+<h4><strong>OVERVIEW OF WHITLEY SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -119,8 +118,13 @@ negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-<h4><strong>At WHITLEY Secondary School, the eTeens programme will be implemented as follows in 2024:</strong></h4>
-<table>
+<h4><strong>At WHITLEY Secondary School, the eTeens programme will be implemented as follows in 2025:</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -138,14 +142,16 @@ Abstinence and upholding family values are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Raise awareness and provide knowledge on:
-<br>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
-to prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).
-<br>b) Managing relationships and risky situations in a healthy way.</p>
+<p>Raise awareness and provide knowledge on:</p>
+<p></p>
+<p>Infectious diseases (STIs and HIV): what it is, how it spreads, how to
+prevent infection mainly through ABC (abstinence, being faithful, correct,
+and consistent condom use).</p>
+<p>
+<br>Managing relationships and risky situations in a healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3</p>
@@ -166,19 +172,4 @@ of assertiveness and responsible decision-making</p>
 </tr>
 </tbody>
 </table>
-<hr>
-<h4><strong>INFORMATION FOR PARENTS</strong></h4>
-<p>Parents may opt their children out of the Sexuality Education lessons,
-eTeens and/or supplementary sexuality education programmes by MOE-approved
-external providers.</p>
-<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <strong><a href="/files/SEd_parent_OPT_OUT_form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
-The completed form is to be submitted by 16/02/2024.</p>
-<p>Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <strong><a href="/files/SEd_Eteens_Parent_OPt_OUT_form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
-The completed form is to be submitted by 16/02/2024.</p>
-<p>Parents can contact the school at <a href="mailto:whitley_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">whitley_ss@moe.edu.sg</a> for discussion
-or to seek clarification about the school’s Sexuality Education programme.</p>
 <p></p>
