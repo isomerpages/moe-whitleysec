@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Direct School Admission (DSA)
 ---
-<h4><strong>Student Leadership @ Whitley Secondary School</strong></h4>
+<h4><strong>2025 DSA - Student Leadership Whitley Secondary School</strong></h4>
 <p>At Whitley Secondary school, we firmly believe in the importance of student
 leadership as reflected in our school mission: “To nurture Whitleyans to
 be Exemplary Leaders with the Heart to Care and the Will to Learn”. The
