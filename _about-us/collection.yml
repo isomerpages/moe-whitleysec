@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Direct School Admission (DSA)/.keep
       - School Mission, Vision and Values.md
       - School Crest.md
       - School Song.md
