@@ -3,7 +3,6 @@ title: Public Speaking and Debate
 permalink: /public-speaking-and-debate/
 description: ""
 variant: tiptap
-third_nav_title: Direct School Admission (DSA)
 ---
 <h4><strong>2025 Direct School Admission (DSA)</strong></h4>
 <p>Parents and students are encouraged to choose schools wisely based on

@@ -3,7 +3,6 @@ title: Student Leadership
 permalink: /student-leadership/
 variant: tiptap
 description: ""
-third_nav_title: Direct School Admission (DSA)
 ---
 <h4><strong>2025 DSA - Student Leadership Whitley Secondary School</strong></h4>
 <p>At Whitley Secondary school, we firmly believe in the importance of student
