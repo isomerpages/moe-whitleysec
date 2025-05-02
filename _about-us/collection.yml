@@ -2,9 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Direct School Admission (DSA)/Student Leadership.md
-      - Direct School Admission (DSA)/Leadership and Character.md
-      - Direct School Admission (DSA)/.keep
       - School Mission, Vision and Values.md
       - School Crest.md
       - School Song.md
@@ -12,3 +9,6 @@ collections:
       - School Management Committee.md
       - Contact Us.md
       - Staff Contact List.md
+      - Direct School Admission (DSA)/.keep
+      - Direct School Admission (DSA)/Student Leadership.md
+      - Direct School Admission (DSA)/Leadership and Character.md
