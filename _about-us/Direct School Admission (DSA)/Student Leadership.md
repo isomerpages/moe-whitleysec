@@ -52,3 +52,16 @@ their social-emotional competencies as they grow in self-awareness and
 learn how to manage relationships. They will also grow in their emerging
 21<sup>st</sup> century competencies such as critical, adaptive and inventive
 thinking.</p>
+<h4><strong>Selection Criteria and Process</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Leadership_2.png">
+</div>
+<p>Successful applicants will be given the option to take up one of the formal
+leadership opportunities as a Class Leader, Peer Support Leader, Sports
+Leader, CCA Leader or a Prefect.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Leadership_3.png">
+</div>
+<p></p>
+<p></p>
