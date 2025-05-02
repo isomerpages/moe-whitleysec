@@ -16,6 +16,6 @@ heights of success.
 will be able to discover your talents and develop your leadership skills,
 abilities and character, through discipline, dedication, teamwork and perseverance.
 If you have the desire to lead and serve, join us and be part of our family.
-<br><a href="https://www.whitleysec.moe.edu.sg/useful-links/direct-school-admission/leadership-and-character-at-whitley-secondary-school/" rel="noopener noreferrer nofollow" target="_blank">Click here for more information.</a>
+<br><a href="https://www.whitleysec.moe.edu.sg/student-leadership/" rel="noopener noreferrer nofollow" target="_blank">Click here for more information.</a>
 </p>
 <p></p>
