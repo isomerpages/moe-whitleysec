@@ -8,7 +8,7 @@ variant: tiptap
 <p>Join us to unlock your potential in becoming effective communicators.
 You will be given various platforms – in and out of school – to scale greater
 heights of success.
-<br><a href="https://www.whitleysec.moe.edu.sg/useful-links/direct-school-admission/public-speaking-and-debate/" rel="noopener noreferrer nofollow" target="_blank">Click here for more information.</a>
+<br><a href="https://www.whitleysec.moe.edu.sg/public-speaking-and-debate/" rel="noopener noreferrer nofollow" target="_blank">Click here for more information.</a>
 </p>
 <hr>
 <h3><strong>Leadership and Character @ Whitley Secondary School</strong></h3>
