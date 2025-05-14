@@ -1242,7 +1242,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yue Heng Pang Jack</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pupil Development
@@ -1312,18 +1312,6 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Nur Khairina Binte Azan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pupil Development
-<br>Student Health Advisor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -1348,6 +1336,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Yuan Foong Meng Lynnette</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager (AM)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Angeline Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager (AM)</p>
