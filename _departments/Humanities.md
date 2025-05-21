@@ -75,4 +75,7 @@ Challenge held at Bendemeer Secondary School.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/humans3.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Whitley_Green_Ambassadors_at_the_IgnITE__Skills_Challenge_.jpg">
+</div>
 <p></p>
