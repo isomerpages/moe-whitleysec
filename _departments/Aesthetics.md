@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1>Aesthetics</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo 2024/aesthetics_department_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo 2025/aesthetics_department_2.jpg">
 </div>
 <h2>Design and Technology Unit</h2>
 <p>Whitley Secondary School Aesthetics Department wants to help every Whitleyan
