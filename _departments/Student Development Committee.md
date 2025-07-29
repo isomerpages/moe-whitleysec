@@ -6,8 +6,9 @@ variant: tiptap
 ---
 <h1>Student Development Committee</h1>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo 2024/student_development_team_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo 2025/student_development_team_2.jpg">
 </div>
 <p>Character &amp; Citizenship Education Department Whitley Secondary School
 adopts a holistic approach to Character &amp; Citizenship Education (CCE).
