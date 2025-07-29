@@ -6,8 +6,9 @@ variant: tiptap
 ---
 <h1>English &amp; Literature</h1>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo 2024/english_language_department_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo 2025/english_language_and_literature_department_2.jpg">
 </div>
 <p>The English Language and Literature Department is committed to equipping
 every Whitleyan with effective and affective communication skills. As a
