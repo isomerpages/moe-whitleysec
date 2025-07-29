@@ -6,8 +6,9 @@ variant: tiptap
 ---
 <h1>Humanities</h1>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo 2024/humanities_department_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo 2025/humanities_department_2.jpg">
 </div>
 <p>Whitley Secondary School Humanities Department teachers are committed
 to helping our students succeed in and broaden the horizons of their learning.
