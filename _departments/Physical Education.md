@@ -6,8 +6,9 @@ variant: tiptap
 ---
 <h1>Physical Education</h1>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo 2024/physical_education_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo 2025/physical_education_department_2.jpg">
 </div>
 <p>Whitley Secondary School’s Physical Education Department aims to develop
 students’ learning capacity to be fit and healthy students who are resilient
