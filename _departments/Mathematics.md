@@ -6,8 +6,9 @@ variant: tiptap
 ---
 <h1>Mathematics</h1>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo 2024/mathematics_department_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo 2025/mathematics_department_2.jpg">
 </div>
 <p>The Mathematics Department believes in enabling students to acquire mathematical
 concepts and skills for continuous learning in Mathematics. To supplement
