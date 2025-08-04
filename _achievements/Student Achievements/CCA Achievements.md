@@ -101,7 +101,9 @@ variant: tiptap
 <br>
 <br>SYF 2023 - Accomplishment
 <br>
-<br>DRUGFREESG Video Competition 2022- Winner (Category 1)</p>
+<br>DRUGFREESG Video Competition 2022- Winner (Category 1)
+<br>
+<br>International Science Drama Competition 2025-1st Runner-up</p>
 </td>
 </tr>
 <tr>
@@ -183,6 +185,14 @@ variant: tiptap
 <br>Best Unit Competition 2018 - Gold
 <br>Best Unit Competition 2017 - Gold
 <br>Best Unit Competition 2016 - Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
