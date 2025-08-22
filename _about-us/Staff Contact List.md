@@ -1509,6 +1509,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Sarojini Periasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Laboratory Attendant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Ayunah Bte Amran
 <br>
 </p>
@@ -1557,18 +1565,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>School Attendant
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sarojini Periasamy
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Laboratory Attendant
 <br>
 </p>
 </td>
