@@ -778,8 +778,7 @@ variant: tiptap
 <p>Sec 3 Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_xin_yi_clarissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_xin_yi_clarissa@schools.gov.sg</a>
-</p>
+<p>ong_xin_yi_clarissa@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -792,8 +791,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_sok_kum@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sok_kum@schools.gov.sg</a>
-</p>
+<p>lee_sok_kum@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -806,8 +804,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lishi_theresa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lishi_theresa@schools.gov.sg</a>
-</p>
+<p>tan_lishi_theresa@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
