@@ -1287,6 +1287,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Melissa Long</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pupil Development
+<br>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Pauline Chow Min Choo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1311,7 +1323,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Loh Wei Hao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pupil Development
+<br>Student Welfare Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Maslina Binte Mohamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pupil Development
+<br>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurhidayah Binte Zai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pupil Development
@@ -1326,7 +1362,7 @@ variant: tiptap
 <p>Miss Lisa Lim Yin Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pupil Development
+<p>Senior Pupil Development
 <br>ECG Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1543,6 +1579,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Lutfi Bin Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kaaleswaaran Krishanan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
