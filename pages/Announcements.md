@@ -9,7 +9,7 @@ variant: tiptap
 <p><u>Thursday, 4 September 2025</u>
 </p>
 <p>Early Closure at 11:00 AM for Teachers' Day celebrations</p>
-<p><u>Monday, 9 September 2025</u>
+<p><u>Tuesday, 9 September 2025</u>
 </p>
 <p>Closed all day for Staff Event</p>
 <p></p>
