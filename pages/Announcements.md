@@ -4,14 +4,7 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
-<h3><strong>School Closing for 4 and 9 September 2025</strong></h3>
-<p>Please note our school’s adjusted operating hours on the following days:</p>
-<p><u>Thursday, 4 September 2025</u>
-</p>
-<p>Early Closure at 11:00 AM for Teachers' Day celebrations</p>
-<p><u>Tuesday, 9 September 2025</u>
-</p>
-<p>Closed all day for Staff Event</p>
+<h3></h3>
 <p></p>
 <h3><strong>Public Speaking and Debate @ Whitley Secondary School</strong></h3>
 <p>Join us to unlock your potential in becoming effective communicators.
