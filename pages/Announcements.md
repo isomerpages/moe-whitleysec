@@ -4,14 +4,10 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
-<h3><strong>School Closing for 4 and 9 September 2025</strong></h3>
-<p>Please note our school’s adjusted operating hours on the following days:</p>
-<p><u>Thursday, 4 September 2025</u>
-</p>
-<p>Early Closure at 11:00 AM for Teachers' Day celebrations</p>
-<p><u>Tuesday, 9 September 2025</u>
-</p>
-<p>Closed all day for Staff Event</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/OPENHOUSE_2025_25Sep.jpg">
+</div>
 <p></p>
 <h3><strong>Public Speaking and Debate @ Whitley Secondary School</strong></h3>
 <p>Join us to unlock your potential in becoming effective communicators.
@@ -19,8 +15,9 @@ You will be given various platforms – in and out of school – to scale greate
 heights of success.
 <br><a href="https://www.whitleysec.moe.edu.sg/public-speaking-and-debate/" rel="noopener noreferrer nofollow" target="_blank">Click here for more information.</a>
 </p>
-<hr>
-<h3><strong>Leadership and Character @ Whitley Secondary School</strong></h3>
+<p>
+<br><strong>Leadership and Character @ Whitley Secondary School</strong>
+</p>
 <p>Through a wide range of projects and developmental opportunities, you
 will be able to discover your talents and develop your leadership skills,
 abilities and character, through discipline, dedication, teamwork and perseverance.
