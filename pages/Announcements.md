@@ -4,17 +4,18 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
-<p></p>
+<h3><strong>WSS OPEN HOUSE 2025</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/OPENHOUSE_2025_25Sep.jpg">
 </div>
-<p></p>
+<hr>
 <h3><strong>Public Speaking and Debate @ Whitley Secondary School</strong></h3>
 <p>Join us to unlock your potential in becoming effective communicators.
 You will be given various platforms – in and out of school – to scale greater
 heights of success.
 <br><a href="https://www.whitleysec.moe.edu.sg/public-speaking-and-debate/" rel="noopener noreferrer nofollow" target="_blank">Click here for more information.</a>
 </p>
+<hr>
 <p>
 <br><strong>Leadership and Character @ Whitley Secondary School</strong>
 </p>
