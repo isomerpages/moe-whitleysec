@@ -4,20 +4,73 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
-<p></p>
+<h3><strong>School/General Office Closing Time - 3 Nov to 30 Dec</strong><br><br></h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>School Closure Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>General Office Closure Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3rd Nov - 30th Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Holiday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28th Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eat with Your Family Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.00pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3><strong>WSS OPEN HOUSE 2025</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/OPENHOUSE_2025_25Sep.jpg">
 </div>
-<p></p>
+<hr>
 <h3><strong>Public Speaking and Debate @ Whitley Secondary School</strong></h3>
 <p>Join us to unlock your potential in becoming effective communicators.
 You will be given various platforms – in and out of school – to scale greater
 heights of success.
 <br><a href="https://www.whitleysec.moe.edu.sg/public-speaking-and-debate/" rel="noopener noreferrer nofollow" target="_blank">Click here for more information.</a>
 </p>
-<p>
-<br><strong>Leadership and Character @ Whitley Secondary School</strong>
-</p>
+<hr>
+<h3><strong>Leadership and Character @ Whitley Secondary School</strong></h3>
 <p>Through a wide range of projects and developmental opportunities, you
 will be able to discover your talents and develop your leadership skills,
 abilities and character, through discipline, dedication, teamwork and perseverance.
