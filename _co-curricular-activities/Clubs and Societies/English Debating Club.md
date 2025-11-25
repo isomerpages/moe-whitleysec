@@ -25,22 +25,26 @@ variant: tiptap
 <p><strong>Time</strong>: 3:00 PM - 5:00 PM</p>
 </li>
 <li>
-<p><strong>Venue</strong>: Computer Lab 3</p>
+<p><strong>Venue</strong>: Computer Lab 1 and 2</p>
 </li>
 </ul>
 <h4>Achievements</h4>
-<p><strong>1. Singapore Secondary Schools Debating Championships ( 2022)</strong> -
+<p><strong>Singapore Secondary Schools Debating Championships ( 2022)</strong> -
 Division 3 1st place</p>
-<p><strong>2. Singapore Secondary Schools Debating Championships (2022)</strong> -
+<p><strong>Singapore Secondary Schools Debating Championships (2022)</strong> -
 Division 3 Top 20 Speaker</p>
-<p><strong>3. Singapore Secondary Schools Debating Championships (2022)</strong> -
+<p><strong>Singapore Secondary Schools Debating Championships (2022)</strong> -
 Division 3 Finals</p>
-<p><strong>4. Mid-Year Debate Invitationals (2022)</strong> - Silver Division
+<p><strong>Mid-Year Debate Invitationals (2022)</strong> - Silver Division
 2nd Best Speaker</p>
-<p><strong>5. Divison II Singapore Secondary Schools (2024)</strong> - Debating
+<p><strong>Divison II Singapore Secondary Schools (2024)</strong> - Debating
 Championships - Quarter-finalists</p>
-<p><strong>6. Raffles Institution U-14 Debating (2024)</strong> - Championships
+<p><strong>Raffles Institution U-14 Debating (2024)</strong> - Championships
 (Silver Division) - 1st Runner-up</p>
+<p><strong>Raffles Institution U-14 Debating (2025) - Championships (Silver Division)</strong> -
+Semi-finalists</p>
+<p><strong>Mid Year Debate Invitationals (2025) - Siah Zhixin Arianne of 2-Caring</strong> -
+Silver 10th Best Speaker</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/debate1.png">
 </div>
