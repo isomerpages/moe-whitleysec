@@ -80,7 +80,33 @@ Philippines, and Thailand (August).</p>
 </li>
 </ul>
 </li>
+<li>
+<p><strong>2025 International Science Drama Competition</strong>
+</p>
+<p><strong>'Managing the Energy Trilemma'</strong>
+</p>
+<p>Singapore Finals: Champion</p>
+<p>Most Outstanding Performer: Shen Haoxiang (1 Empathy)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Grand Finals: 1st Runner Up</p>
+</li>
 </ul>
+</li>
+<li>
+<p><strong>Singapore Youth Festival 2025</strong>
+</p>
+<p><strong>Managing the Energy Trilemma</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Accomplishment"</p>
+<p></p>
+</li>
+</ul>
+</li>
+</ul>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/drama1.png">
 </div>
