@@ -15,14 +15,15 @@ variant: tiptap
 </p>
 <h4>Training Schedule</h4>
 <p><strong>Days</strong>: Tuesdays and Thursdays
-<br><strong>Time</strong>: 3:00 PM - 5:00 PM
+<br><strong>Time</strong>: 2.45PM - 4.45PM
 <br><strong>Venue</strong>: AVA Room</p>
 <h4>Achievements</h4>
 <p>2017 Certificate of Achievement (SYF)
 <br>2019 Certificate of Achievement (SYF)
 <br>2021 Certificate of Participation
 <br>2023 SYF - Commendation
-<br>2024 Singapore International Choral Festival - Bronze</p>
+<br>2024 Singapore International Choral Festival - Bronze
+<br>2025 SYF - Accomplishment</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/choir1.png">
 </div>
