@@ -10,17 +10,17 @@ variant: tiptap
 </div>
 <h3><strong>Basketball</strong></h3>
 <h4>Teachers in Charge</h4>
-<p>Mr. Han Xianyao: <a href="mailto:han_xianyao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_xianyao@schools.gov.sg</a>
-<br>Ms. Ng Soo Hoon: <a href="mailto:ng_soo_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_soo_hoon@schools.gov.sg</a>
-<br>Ms. Amanda Yew: <a href="mailto:yew_hui_shan_amanda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yew_hui_shan_amanda@schools.gov.sg</a>
+<p>Ms. Ng Soo Hoon: <a href="mailto:ng_soo_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_soo_hoon@schools.gov.sg</a>
 <br>Mdm. Zhu Lili: <a href="mailto:zhu_li_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_li_li@schools.gov.sg</a>
-<br>Ms. Lee Yi Wen: <a href="mailto:lee_yi_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yi_wen@schools.gov.sg</a>
+<br>Mr. Daniel:<a href="mailto:mohamed_amin_mohamed_hussa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_amin_mohamed_hussa@schools.gov.sg</a>
+<br>
+<br>
 </p>
 <h4>Training Schedule</h4>
 <p><strong>Boys Basketball Training Schedule</strong>
-<br>Mondays &amp; Wednesdays: 1500h - 1800h</p>
+<br>Mondays &amp; Wednesdays: 2.30pm - 5.30pm</p>
 <p><strong>Girls Basketball Training Schedule</strong>
-<br>Tuesdays &amp; Thursdays: 1500h - 1700h</p>
+<br>Tuesdays &amp; Thursdays: 2.30pm - 5.30pm</p>
 <h4>Recent Achievements</h4>
 <p>National School Games South Zone B Division Round 1</p>
 <div class="isomer-image-wrapper">
