@@ -37,6 +37,12 @@ variant: tiptap
 </li>
 <li>
 <p>National Youth Tech Championships 2024 - Participation</p>
+</li>
+<li>
+<p>The Media Challenge 2024- Participation</p>
+</li>
+<li>
+<p>National Youth Tech Championships 2025 - Participation</p>
 <p></p>
 </li>
 </ul>
