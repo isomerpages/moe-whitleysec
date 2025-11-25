@@ -10,10 +10,10 @@ variant: tiptap
 </div>
 <h3><strong>Golf</strong></h3>
 <h4>Teachers in Charge</h4>
-<p>Mrs Cher-Lee Lay Peng:&nbsp;<a href="mailto:lee_lay_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lay_peng@moe.edu.sg</a>
+<p>Ms Kuah Li Wen: <a href="mailto:kuah_li_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kuah_li_wen@schools.gov.sg</a>
 </p>
 <h4>Training Details</h4>
-<p>Tuesdays: 1515h - 1800h
+<p>Tuesdays: 2.45pm - 3.15pm
 <br>Venue: Orchid Country Club</p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
@@ -64,6 +64,27 @@ variant: tiptap
 </li>
 <li>
 <p>Isaiah Lim (4D)</p>
+</li>
+</ul>
+<p></p>
+</li>
+<li>
+<p><strong>2025 NSG B Division Individual Boys</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jathan Chong (4R)
+<br>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>2025 NSG C Division Individual Boys</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Redi Lui (2E)</p>
 </li>
 </ul>
 </li>
