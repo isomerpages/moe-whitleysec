@@ -10,17 +10,16 @@ variant: tiptap
 </div>
 <h3><strong>Concert Band</strong></h3>
 <h4>Teachers in Charge</h4>
-<p>Mrs. Soong Wan Leng: <a href="mailto:teo_wan_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wan_leng@schools.gov.sg</a>
-<br>Ms. Crystal Goh: <a href="mailto:goh_chiat_yi_crystal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chiat_yi_crystal@schools.gov.sg</a>
-<br>Mrs. Amutha Mani: <a href="mailto:k_amutha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">k_amutha@schools.gov.sg</a>
+<p>Ms Amanda Yew: <a href="mailto:yew_hui_shan_amanda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yew_hui_shan_amanda@schools.gov.sg</a>
+<br>Mdm Shermane Yeo: <a href="mailto:shermane_yeo_geok_lang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shermane_yeo_geok_lang@schools.gov.sg</a>
+<br>Ms Tuty Asmary: <a href="mailto:tuty_asmary_subarjono@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tuty_asmary_subarjono@schools.gov.sg</a>
 </p>
 <h4>Training Schedule</h4>
 <p>Days: Tuesdays and Thursdays
-<br>Time: 3:00 PM - 6:00 PM
+<br>Time: 2.45 PM - 5.45 PM
 <br>Venue: Music Room and selected classrooms</p>
 <h4>Achievements</h4>
-<p><em>More news to come.</em>
-</p>
+<p>SYF Arts Presentation 2025 Commendation Award</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/band1.png">
 </div>
