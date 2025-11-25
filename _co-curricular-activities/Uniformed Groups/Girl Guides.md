@@ -13,7 +13,8 @@ variant: tiptap
 <p>Miss Heng Hui Hui: <a href="mailto:hui_hui_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hui_hui_heng@schools.gov.sg</a>
 <br>Miss Clarissa Low: <a href="mailto:low_hui_min_clarissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_hui_min_clarissa@schools.gov.sg</a>
 <br>Ms. G. Vani: <a href="mailto:gnanasekaran_vani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gnanasekaran_vani@schools.gov.sg</a>
-</p>
+<br>Ms Lee Jin Hui [<a href="mailto:Lee_Jin_Hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Jin_Hui@schools.gov.sg</a>]</p>
+<p></p>
 <h3>Training Schedule</h3>
 <p><strong>Days:</strong> Thursdays
 <br><strong>Time:</strong> 3:00 PM - 6:00 PM</p>
@@ -31,8 +32,10 @@ variant: tiptap
 <p><strong>2024 Palm Leaf (Bronze) Recipient - Miss Heng Hui Hui</strong>
 </p>
 </li>
+<li>
+<p><strong>Puan Noor Aishah Award 2024 - Gold</strong>
+</p>
+<p></p>
+</li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/gg1.png">
-</div>
 <p></p>
