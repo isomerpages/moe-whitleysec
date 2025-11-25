@@ -30,17 +30,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Award</strong>: Honorable Mention in the <em>World of Possibilities</em> category</p>
-</li>
-<li>
-<p><strong>Students</strong>: Lau En Tong (4R) and Sridaarisini Maran (4I)</p>
-</li>
-<li>
+<p><strong>Award</strong>: Honorable Mention in the <em>World of Possibilities</em> category
+<br><strong>Students</strong>: Lau En Tong (4R) and Sridaarisini Maran (4I)</p>
 <p><strong>Link</strong>: <a href="https://www.moe.gov.sg/our-schools-our-stories/winning-stories-2024/world-of-possibilities/youth" rel="noopener" target="_new">View winning stories</a>
 </p>
+<p></p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/photo.png">
-</div>
 <p></p>
