@@ -10,9 +10,11 @@ variant: tiptap
 </div>
 <h3><strong>National Cadets Corp (Land)</strong></h3>
 <h4>Teachers in Charge</h4>
-<p>Mr. Andy Zui: <a href="mailto:andy_zui_wee_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">andy_zui_wee_liang@schools.gov.sg</a>
-<br>Miss Tan Hui Xian: <a href="mailto:tan_hui_xian_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_xian_b@schools.gov.sg</a>
-<br>Mr. Krishan Sanjay: <a href="mailto:krishan_sanjay_mahesh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">krishan_sanjay_mahesh@schools.gov.sg</a>
+<p>Mr Andy Zui: <a href="mailto:andy_zui_wee_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">andy_zui_wee_liang@schools.gov.sg</a>
+</p>
+<p>Mr Krishan Sanjay Mahesh: <a href="mailto:krishan_sanjay_mahesh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">krishan_sanjay_mahesh@schools.gov.sg</a>
+</p>
+<p>Mr Zachary Andrew Branson: <a href="mailto:zachary_andrew_branson@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zachary_andrew_branson@schools.gov.sg</a>
 </p>
 <h3>Training Schedule</h3>
 <p><strong>Days:</strong> Thursdays
@@ -32,12 +34,9 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/ncc1.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/ncc2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/National Cadet Corps/Screenshot_2025_11_25_104141.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
