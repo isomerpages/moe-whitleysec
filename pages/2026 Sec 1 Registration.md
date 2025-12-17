@@ -14,6 +14,7 @@ purchase of school uniform and textbooks.</p>
 <p><strong>Link: <u>2026 SECONDARY ONE E-REGISTRATION</u></strong>
 </p>
 <hr>
+<hr>
 <p></p>
 <hr>
 <h2><strong>Sec 1 Appeal for Transfer In</strong></h2>
