@@ -14,8 +14,6 @@ purchase of school uniform and textbooks.</p>
 <p><strong>Link: <u>2026 SECONDARY ONE E-REGISTRATION</u></strong>
 </p>
 <hr>
-<hr>
-<hr>
 <h2><strong>Sec 1 Appeal for Transfer In</strong></h2>
 <p>Primary 6 students who have just received their secondary school posting
 may access this online link to appeal for transfer to Whitley Secondary
