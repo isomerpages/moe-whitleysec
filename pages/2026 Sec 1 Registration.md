@@ -15,7 +15,6 @@ purchase of school uniform and textbooks.</p>
 </p>
 <hr>
 <hr>
-<p></p>
 <hr>
 <h2><strong>Sec 1 Appeal for Transfer In</strong></h2>
 <p>Primary 6 students who have just received their secondary school posting
