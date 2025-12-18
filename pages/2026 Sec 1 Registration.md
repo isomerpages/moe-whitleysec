@@ -11,8 +11,7 @@ registration and other admin matters. On the page, you will also find important
 information regarding school opening on 2 Jan 2026 (Fri). The information
 includes first day of school, Sec 1 orientation programme, as well as the
 purchase of school uniform and textbooks.</p>
-<p><strong>Link: <u>2026 SECONDARY ONE E-REGISTRATION</u></strong>
-</p>
+<p><strong>Link: </strong>2026 SECONDARY ONE E-REGISTRATION</p>
 <hr>
 <h2><strong>Sec 1 Appeal for Transfer In</strong></h2>
 <p>Primary 6 students who have just received their secondary school posting
