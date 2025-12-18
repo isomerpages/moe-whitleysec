@@ -1,0 +1,121 @@
+---
+title: 2026 Sec 1 eREGISTRATION
+permalink: /2026-sec-1-eregistration/
+variant: tiptap
+description: ""
+---
+<h3><strong>2026 SECONDARY ONE E-REGISTRATION</strong></h3>
+<p>We would like to warmly welcome your child in commencing his/her secondary
+school education with us at Whitley Secondary.</p>
+<h3><strong>Registration and Other Admin Matters</strong></h3>
+<blockquote>
+<p><strong>1. Online Registration</strong>
+</p>
+</blockquote>
+<p>Please complete the online registration by <strong>21 December 2025, 2359hrs</strong>:
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026sec1registrationform</a>
+</p>
+<p>If your child is offered to do subjects at a more demanding level (MDL),
+Higher Mother Tongue Language (HMTL) and/or a Third Language, you will
+receive a notification via email and Parents Gateway by 23 December 2025,
+5pm.</p>
+<p>After receiving the notification, please submit your decision on the offered
+MDL, HMTL or Third Language subject(s) by 26 December 2025.</p>
+<blockquote>
+<p></p>
+<p><strong>2. Edusave Standing Order for School’s Enrichment Programme (for Singaporean students only)</strong>
+</p>
+</blockquote>
+<p>If you have not yet activated the Edusave Standing Order for your child’s
+participation in local and overseas enrichment programme, you may activate
+it through:</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp; Parent’s Gateway mobile app (please access
+“Edusave Standing Order” via the Services tab); OR</p>
+<p>b)&nbsp;&nbsp;&nbsp; via <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68511c58e85a5dd195cf326f</a>
+</p>
+<p>&nbsp;</p>
+<blockquote>
+<p><strong>3. MOE Financial Assistance Scheme and School Based FAS Application</strong>
+</p>
+</blockquote>
+<p>For students with approved MOE FAS:
+<br>Our General Office will contact you by 26 December to arrange for the
+collection of textbooks and school attire.
+<br><strong><u>Collection Schedule</u></strong>
+<br>- Monday, 29 December: 9.00am - 2.30pm
+<br>- Tuesday, 30 December: 9.00am - 12.00pm
+<br><strong><u>Important Notes</u></strong>
+<br>- Online sales are not available for FAS and School-Based FAS students
+<br>- Collection must be arranged through the General Office. For queries,
+please contact 6456 1336.</p>
+<p></p>
+<h4>For students requiring financial assistance</h4>
+<p><strong>School-Based FAS (MOE FAS not approved)</strong>
+<br>Needy Singaporean students who do not meet MOE FAS income eligibility
+criteria may apply for our School-Based FAS.
+<br>Please obtain the rejection letter from your child's primary school, showing
+the household GHI or PCI.
+<br>Approval will be assessed on a case-by-case basis and the school will
+contact you regarding the outcome.
+<br>
+</p>
+<p><strong>MOE FAS (New applications)</strong>
+<br>Needy Singaporean students may apply for MOE FAS to help meet basic schooling
+expenses. Please refer to the attached pamphlets in various languages for
+more information on the MOE Financial Assistance Scheme.
+<br><a href="/files/Sec 1 E Registration/2026/2026_MOE_FAS_Pamphlet_EL.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>MOE FAS Pamphlet EL.pdf</u></a>
+<br><a href="/files/Sec 1 E Registration/2026/2026_MOE_FAS_Pamphlet_CL.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>MOE FAS Pamphlet CL.pdf</u></a>
+<br><a href="/files/Sec 1 E Registration/2026/2026_MOE_FAS_Pamphlet_ML.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>MOE FAS Pamphlet ML.pdf</u></a>
+<br><a href="/files/Sec 1 E Registration/2026/2026_MOE_FAS_Pamphlet_TL.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>MOE FAS Pamphlet TL.pdf</u></a>
+</p>
+<p>You can apply for the financial assistance through the Parents Gateway
+app services (under Services tab &gt; Financial Assistance) via Singpass
+login.
+<br>- Application may also be submitted using this link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a><u>.</u>
+<br>- Please note that applications may take up to one month to process.
+<br>- If you purchase textbooks and uniforms before approval is granted, the
+school will not provide reimbursement.</p>
+<p></p>
+<blockquote>
+<p><strong>4. Parent Support Group</strong>
+</p>
+</blockquote>
+<p>We warmly invite you to be a member of our Parent Support Group (PSG).
+<br>The PSG recruitment form can be found in the link below: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1psg2026</a>
+</p>
+<p>&nbsp;</p>
+<blockquote>
+<p><strong>5. Medical Appeal Exercise (MAE)</strong>
+</p>
+</blockquote>
+<p>If you are considering to appeal to another school based on serious medical
+conditions/severe physical impairments, you may call the school at 6456
+1336 to request for the application form by <strong>19 December 2025, 5pm</strong>.</p>
+<h4><strong>Other Important Information</strong></h4>
+<p><strong>1. First Day of School (2 Jan 2026)</strong>
+<br><a href="/files/Sec 1 E Registration/2026/First_Day_of_School_Information.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School.pdf</a>
+</p>
+<p></p>
+<p><strong>2. Sec 1 Orientation Programme (2 – 9 Jan 2026)</strong>
+<br><a href="/files/Sec 1 E Registration/2026/Sec_1_Orientation_Programme_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Orientation Programme.pdf</a>
+<br>
+<br><strong>3. Purchase of School Uniforms, Textbooks &amp; PE Attire</strong>
+</p>
+<p><a href="/files/Sec 1 E Registration/2026/Info_on_Sale_of_Textbooks_and_Uniform_for_2026__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sale of School Textbooks and Uniform.pdf</a>
+<br><a href="/files/Sec 1 E Registration/2026/Whitley_Secondary_School_Booklist__S1_G1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist for Sec 1 G1.pdf</a>
+<br><a href="/files/Sec 1 E Registration/2026/Whitley_Secondary_School_Booklist__S1_G2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist for Sec 1 G2.pdf</a>
+<br><a href="/files/Sec 1 E Registration/2026/Whitley_Secondary_School_Booklist__S1_G3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist for Sec 1 G3.pdf</a><strong><a href="/files/Sec 1 E Registration/2026/Whitley_Secondary_School_Booklist__S1_G3_.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a></strong>
+</p>
+<p><strong>4. Co-Curricular Activities (CCA)</strong>
+<br><a href="/files/Sec 1 E Registration/2026/CCA_Information.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA information.pdf&nbsp;</a>
+</p>
+<p><strong>5. Travelling To &amp; From School</strong>
+<br><a href="/files/Sec 1 E Registration/2026/Travelling_To_From_School_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Travelling To &amp; From School.pdf</a>
+</p>
+<p><strong>6. Preparation Checklist</strong>
+<br><a href="/files/6_Preparation_Checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Preparation Checklist.pdf</a>
+</p>
+<p><strong>Contact Us</strong>
+<br>For general enquiries on finance, student well-being and academic matters,
+you can call us at 6456 1336 or drop us an email via whitley_ss@moe.edu.sg.</p>
+<p></p>
