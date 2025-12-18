@@ -13,7 +13,7 @@ school education with us at Whitley Secondary.</p>
 </p>
 </blockquote>
 <p>Please complete the online registration by <strong>21 December 2025, 2359hrs</strong>:
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2026sec1registrationform</a>
+<br><a href="https://go.gov.sg/2026sec1registrationform" rel="noopener nofollow" target="_blank">https://go.gov.sg/2026sec1registrationform</a>
 </p>
 <p>If your child is offered to do subjects at a more demanding level (MDL),
 Higher Mother Tongue Language (HMTL) and/or a Third Language, you will
@@ -31,7 +31,7 @@ participation in local and overseas enrichment programme, you may activate
 it through:</p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp; Parent’s Gateway mobile app (please access
 “Edusave Standing Order” via the Services tab); OR</p>
-<p>b)&nbsp;&nbsp;&nbsp; via <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68511c58e85a5dd195cf326f</a>
+<p>b)&nbsp;&nbsp;&nbsp; via <a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener nofollow" target="_blank">https://form.gov.sg/68511c58e85a5dd195cf326f</a>
 </p>
 <p>&nbsp;</p>
 <blockquote>
@@ -71,7 +71,7 @@ more information on the MOE Financial Assistance Scheme.
 <p>You can apply for the financial assistance through the Parents Gateway
 app services (under Services tab &gt; Financial Assistance) via Singpass
 login.
-<br>- Application may also be submitted using this link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a><u>.</u>
+<br>- Application may also be submitted using this link: <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a><u>.</u>
 <br>- Please note that applications may take up to one month to process.
 <br>- If you purchase textbooks and uniforms before approval is granted, the
 school will not provide reimbursement.</p>
@@ -81,7 +81,7 @@ school will not provide reimbursement.</p>
 </p>
 </blockquote>
 <p>We warmly invite you to be a member of our Parent Support Group (PSG).
-<br>The PSG recruitment form can be found in the link below: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1psg2026</a>
+<br>The PSG recruitment form can be found in the link below: <a href="https://go.gov.sg/sec1psg2026" rel="noopener nofollow" target="_blank">https://go.gov.sg/sec1psg2026</a>
 </p>
 <p>&nbsp;</p>
 <blockquote>
