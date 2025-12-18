@@ -18,7 +18,7 @@ purchase of school uniform and textbooks.</p>
 <p>Primary 6 students who have just received their secondary school posting
 may access this online link to appeal for transfer to Whitley Secondary
 School.</p>
-<p>Link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1-appeal-whitley-sec</a>
+<p>Link: <a href="https://go.gov.sg/sec1-appeal-whitley-sec" rel="noopener nofollow" target="_blank">https://go.gov.sg/sec1-appeal-whitley-sec</a>
 </p>
 <p>The deadline for the submission of appeals is <strong>26 December 2025, 12pm</strong>.
 Transfer requests will be subject to available vacancies and the school’s
