@@ -4,7 +4,18 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
-<h3><strong>School/General Office Closing Time - 3 Nov to 30 Dec</strong><br><br></h3>
+<h3><strong>2025 N-Level Student Briefing Information</strong></h3>
+<p>The 2025 N-Level Student Briefing slides are now available for parents’
+and students’ reference. The materials provide comprehensive information
+on post-secondary education pathways, admissions exercises, eligibility
+criteria, and key application timelines. Parents and students are strongly
+encouraged to review the slides carefully.</p>
+<p>Please click here for more information.
+<br>
+</p>
+<p></p>
+<hr>
+<h3><strong>School/General Office Closing Time - 3 Nov to 30 Dec</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -57,11 +68,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
-<h3><strong>WSS OPEN HOUSE 2025</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/OPENHOUSE_2025_25Sep.jpg">
-</div>
 <hr>
 <h3><strong>Public Speaking and Debate @ Whitley Secondary School</strong></h3>
 <p>Join us to unlock your potential in becoming effective communicators.
