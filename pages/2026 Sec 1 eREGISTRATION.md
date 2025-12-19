@@ -20,7 +20,7 @@ Higher Mother Tongue Language (HMTL) and/or a Third Language, you will
 receive a notification via email and Parents Gateway by 23 December 2025,
 5pm.</p>
 <p>After receiving the notification, please submit your decision on the offered
-MDL, HMTL or Third Language subject(s) by 26 December 2025.</p>
+MDL, HMTL or Third Language subject(s) by 24 December 2025.</p>
 <blockquote>
 <p></p>
 <p><strong>2. Edusave Standing Order for School’s Enrichment Programme (for Singaporean students only)</strong>
@@ -48,7 +48,7 @@ collection of textbooks and school attire.
 <br>- Online sales are not available for FAS and School-Based FAS students
 <br>- Collection must be arranged through the General Office. For queries,
 please contact 6456 1336.</p>
-<p></p>
+<hr>
 <h4>For students requiring financial assistance</h4>
 <p><strong>School-Based FAS (MOE FAS not approved)</strong>
 <br>Needy Singaporean students who do not meet MOE FAS income eligibility
@@ -100,8 +100,7 @@ conditions/severe physical impairments, you may call the school at 6456
 <br><a href="/files/Sec 1 E Registration/2026/Sec_1_Orientation_Programme_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Orientation Programme.pdf</a>
 <br>
 <br><strong>3. Purchase of School Uniforms, Textbooks &amp; PE Attire</strong>
-</p>
-<p><a href="/files/Sec 1 E Registration/2026/Info_on_Sale_of_Textbooks_and_Uniform_for_2026__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sale of School Textbooks and Uniform.pdf</a>
+<br><a href="/files/Sec 1 E Registration/2026/Info_on_Sale_of_Textbooks_and_Uniform_for_2026__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sale of School Textbooks and Uniform.pdf</a>
 <br><a href="/files/Sec 1 E Registration/2026/Whitley_Secondary_School_Booklist__S1_G1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist for Sec 1 G1.pdf</a>
 <br><a href="/files/Sec 1 E Registration/2026/Whitley_Secondary_School_Booklist__S1_G2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist for Sec 1 G2.pdf</a>
 <br><a href="/files/Sec 1 E Registration/2026/Whitley_Secondary_School_Booklist__S1_G3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist for Sec 1 G3.pdf</a><strong><a href="/files/Sec 1 E Registration/2026/Whitley_Secondary_School_Booklist__S1_G3_.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a></strong>
@@ -117,5 +116,170 @@ conditions/severe physical impairments, you may call the school at 6456
 </p>
 <p><strong>Contact Us</strong>
 <br>For general enquiries on finance, student well-being and academic matters,
-you can call us at 6456 1336 or drop us an email via whitley_ss@moe.edu.sg.</p>
+you can call us at 6456 1336 or drop us an email via <a href="mailto:whitley_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">whitley_ss@moe.edu.sg</a>.</p>
+<hr>
+<blockquote>
+<h4>FAQ for Possible Enquiries from P6 students/parents</h4>
+</blockquote>
+<p><strong>How many Sec 1 classes are there in Whitley Secondary School?</strong>
+<br>This year we have 7 Sec 1 classes with students of different abilities
+mixing together under Full Subject Based Banding (FSBB). We have 4 classes
+of Posting Group 3, 2 classes of Posting Group 2 and 1 class of Posting
+Group 1 students.</p>
+<p>MOE Posting Groups are categorized as follows:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>PSLE Score</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Posting Group</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Indicative level for most subjects at start of S1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 - 20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 and 22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 or 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G2 or G3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 and 24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 or 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G1 or G2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 – 30 (with AL7 or better in English Language and Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>What is the cut-off PSLE Score for Whitley Secondary School?</strong>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Posting Group 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6-22</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Posting Group 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23-25</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Posting Group 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25-30</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Note: For Whitley Secondary, based on 2024 Sec 1 Posting data, these are
+our cut-off points: 22 for PG3, 25 for PG2 and 30 for PG1. Do note that
+the cut off points can change slightly every year.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What are the schooling hours?</strong>
+<br>Tentatively, students are required to report by 7:40 am. Curriculum ends
+by 2 pm for Lower Secondary students (12.30 pm on Fridays) and 2/3/4.30
+pm on some days for Upper Secondary students.</p>
+<p></p>
+<p><strong>What CCAs do Whitley Secondary School offer? How many CCA days and which are the days?</strong>
+<br>CCA days are usually twice a week (Tue, Thu), depending on which CCA they
+choose. These are our CCAs:
+<br>1.Badminton (Girls and Boys)
+<br>2.Basketball (Girls and Boys)
+<br>3.Football (Boys)
+<br>4.Golf (Girls and Boys)
+<br>5.Girl Guides (Girls)
+<br>6.National Police Cadet Corps (NPCC) (Girls and Boys)
+<br>7.National Cadet Corps (NCC) (Land) (Boys)
+<br>8.Choir (Girls and Boys)
+<br>9.Modern Dance (Girls and Boys)
+<br>10.English Drama (Girls and Boys)
+<br>11.Concert Band (Girls and Boys)
+<br>12.Debating and Public Speaking (Girls and Boys)
+<br>13.Photography (Girls and Boys)
+<br>14.Infocomm Technology (Media Production) (Girls and Boys)</p>
+<p></p>
+<p><strong>What are the fees for PR/ IS in 2026?</strong>
+<br>The fees in 2025 are (schools fees + misc fees $20):
+<br>SC - $25
+<br>PR - $680 (ie total $700)
+<br>IS (Asean) - $1,090 (ie total $1,111.80)
+<br>IS (Non-Asean) - $2,190 (ie. total $2,211.80)</p>
+<p></p>
+<p><strong>What are our special programmes?</strong>
+<br><strong>- </strong>Applied Learning Programme (ALP) – Communicative Arts
+<br>- Learning for Life Programme (LLP) - Community &amp; Youth Leadership:
+Active Citizenship for Social Change</p>
 <p></p>
