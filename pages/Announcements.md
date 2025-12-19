@@ -10,7 +10,7 @@ and students’ reference. The materials provide comprehensive information
 on post-secondary education pathways, admissions exercises, eligibility
 criteria, and key application timelines. Parents and students are strongly
 encouraged to review the slides carefully.</p>
-<p><a href="/files/2025 N Level Student Briefing/2025_N_Level_Briefing_Slides_Student__For_Website_Upload_.pdf" rel="noopener noreferrer nofollow" target="_blank">Please click here for more information. </a>
+<p><a href="/files/2025 N Level Student Briefing/2025_N_Level_Briefing_Slides_Student__For_Website_Upload_.pdf" rel="noopener noreferrer nofollow" target="_blank">Please click here for more information.</a>
 </p>
 <hr>
 <h3><strong>School/General Office Closing Time - 3 Nov to 30 Dec</strong></h3>
