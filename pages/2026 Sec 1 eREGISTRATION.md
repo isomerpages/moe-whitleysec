@@ -112,7 +112,7 @@ conditions/severe physical impairments, you may call the school at 6456
 <br><a href="/files/Sec 1 E Registration/2026/Travelling_To_From_School_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Travelling To &amp; From School.pdf</a>
 </p>
 <p><strong>6. Preparation Checklist</strong>
-<br><a href="/files/Sec 1 E Registration/2026/Preparation_Checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Preparation Checklist.pdf</a>
+<br><a href="/files/Sec 1 E Registration/2026/Preparation_Checklist.pdf" rel="noopener nofollow" target="_blank">Preparation Checklist.pdf</a>
 </p>
 <p><strong>Contact Us</strong>
 <br>For general enquiries on finance, student well-being and academic matters,
