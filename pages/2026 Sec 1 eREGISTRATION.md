@@ -4,25 +4,9 @@ permalink: /2026-sec-1-eregistration/
 variant: tiptap
 description: ""
 ---
-<p>We would like to warmly welcome your child in commencing his/her secondary
-school education with us at Whitley Secondary.</p>
-<h3><strong>Registration and Other Admin Matters</strong></h3>
+<h3><strong>Admin Matters</strong></h3>
 <blockquote>
-<p><strong>1. Online Registration</strong>
-</p>
-</blockquote>
-<p>Please complete the online registration by <strong>21 December 2025, 2359hrs</strong>:
-<br><a href="https://go.gov.sg/2026sec1registrationform" rel="noopener nofollow" target="_blank">https://go.gov.sg/2026sec1registrationform</a>
-</p>
-<p>If your child is offered to do subjects at a more demanding level (MDL),
-Higher Mother Tongue Language (HMTL) and/or a Third Language, you will
-receive a notification via email and Parents Gateway by 23 December 2025,
-5pm.</p>
-<p>After receiving the notification, please submit your decision on the offered
-MDL, HMTL or Third Language subject(s) by 24 December 2025.</p>
-<blockquote>
-<p></p>
-<p><strong>2. Edusave Standing Order for School’s Enrichment Programme (for Singaporean students only)</strong>
+<p><strong>1. Edusave Standing Order for School’s Enrichment Programme (for Singaporean students only)</strong>
 </p>
 </blockquote>
 <p>If you have not yet activated the Edusave Standing Order for your child’s
@@ -34,7 +18,7 @@ it through:</p>
 </p>
 <p>&nbsp;</p>
 <blockquote>
-<p><strong>3. MOE Financial Assistance Scheme and School Based FAS Application</strong>
+<p><strong>2. MOE Financial Assistance Scheme and School Based FAS Application</strong>
 </p>
 </blockquote>
 <p>For students with approved MOE FAS:
