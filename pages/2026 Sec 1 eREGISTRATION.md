@@ -4,7 +4,6 @@ permalink: /2026-sec-1-eregistration/
 variant: tiptap
 description: ""
 ---
-<h3><strong>2026 SECONDARY ONE E-REGISTRATION</strong></h3>
 <p>We would like to warmly welcome your child in commencing his/her secondary
 school education with us at Whitley Secondary.</p>
 <h3><strong>Registration and Other Admin Matters</strong></h3>
