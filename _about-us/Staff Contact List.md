@@ -66,6 +66,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Chua Sok Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_sok_ling@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Gek Yim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_gek_yim@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Foo Moo Tean</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,24 +279,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Sok Ling</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_sok_ling@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Gek Yim</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_gek_yim@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -346,6 +368,28 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_kwang_shen_matthew@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Ambikai Veeramurugan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sia Ai-Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
