@@ -1322,6 +1322,288 @@ variant: markdown
 <col>
 </colgroup>
 <tbody>
+</tbody></table><table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Teachers &amp; School Counsellors</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Email Address</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Quek Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>quek_ting@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Siang Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_siang_cheng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yu Meei Jen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yu_meei_jen@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wan Sook Kheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wan_sook_kheng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lai Zhifang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lai_zhifang@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Amutha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>K_amutha@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Shanthakumari Kandasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shanthakumari_Kandasamy@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Er Swee Long Gerry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>er_swee_long_gerry@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Sung Paul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_sung_paul@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yew Soo Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yew_soo_hong@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Teck Hock</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_teck_hock_a@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sia Ai-Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>gan_hui_ching@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ang Siow Kuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ang_siow_kuan_b@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shari Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pupil Development
+<br>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Melissa Long</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pupil Development
+<br>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Pauline Chow Min Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pupil Development
+<br>Part Time Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Fong Yu Min, Jonathan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pupil Development
+<br>Student Welfare Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Wei Hao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pupil Development
+<br>Student Welfare Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Maslina Binte Mohamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pupil Development
+<br>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurhidayah Binte Zai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pupil Development
+<br>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Lisa Lim Yin Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Pupil Development
+<br>ECG Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kalai Arasi D/O Ramasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pupil Development
+<br>(Flexi Adj/GearUp)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <th rowspan="1" colspan="2">
 <h4><strong>School Support Staff</strong></h4>
