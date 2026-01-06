@@ -33,7 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Lynn</p>
+<p>Ms Koh Lin, Lynn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
@@ -44,7 +44,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Kim Seng</p>
+<p>Mr Tan Yit Kee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
@@ -55,7 +55,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yit Kee</p>
+<p>Mr Ganison S/O Rajamohan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
@@ -77,35 +77,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ganison S/O Rajamohan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD - Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ganison_rajamohan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ho Peng Hoe</p>
+<p>Mr Ho Peng Hoe (Ivan)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD - Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ho_peng_hoe@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Koh Wei Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD - Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>koh_wei_ping@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -124,22 +102,10 @@ variant: tiptap
 <p>Ms Low Hooi Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD - CCE</p>
+<p>HOD - Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>low_hooi_yee@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Ambikai Veeramurugan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD - Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ambikai_veeramurugan@schools.gov.sg</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -181,13 +147,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Shrila D/O Balachandran</p>
+<p>Miss Tifany Tay Jing Wen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH - Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shrila_balachandran@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -210,6 +176,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>jaswant_singh_g_singh@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Beiyi Michelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
