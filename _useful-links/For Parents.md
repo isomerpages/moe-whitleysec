@@ -65,12 +65,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>Information on Direct School Admission </strong></h4>
+<h4><strong>Information on Direct School Admission</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.whitleysec.moe.edu.sg/student-leadership/" rel="noopener noreferrer nofollow" target="_blank">Leadership and Character</a> 
+<p><a href="https://www.whitleysec.moe.edu.sg/student-leadership/" rel="noopener noreferrer nofollow" target="_blank">Leadership and Character</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
