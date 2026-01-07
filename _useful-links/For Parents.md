@@ -32,7 +32,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/65e519c4a70f52791c8ece2d" rel="noopener noreferrer nofollow" target="_blank">DMA Options for Parents</a>
+<p><a href="https://go.gov.sg/sec1psg2026" rel="noopener nofollow" target="_blank">PSG recruitment form</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,7 +59,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/sec1psg2026" rel="noopener nofollow" target="_blank">PSG recruitment form </a>
+<p><a href="https://www.whitleysec.moe.edu.sg/moe-sexuality-education/" rel="noopener noreferrer nofollow" target="_blank">MOE Sexuality Education</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,9 +69,10 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Information on Direct School Admission </strong>
-<br><a href="https://www.whitleysec.moe.edu.sg/student-leadership/" rel="noopener noreferrer nofollow" target="_blank">Leadership and Character</a> 
-<br><a href="https://www.whitleysec.moe.edu.sg/public-speaking-and-debate/" rel="noopener noreferrer nofollow" target="_blank">Public Speaking and Debate</a>
+<br>
 </p>
+<p>Leadership and Character</p>
+<p>Public Speaking and Debate</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -79,8 +80,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.whitleysec.moe.edu.sg/moe-sexuality-education/" rel="noopener noreferrer nofollow" target="_blank">MOE Sexuality Education</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
