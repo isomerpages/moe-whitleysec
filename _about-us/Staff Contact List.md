@@ -16,22 +16,22 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="3">
 <h4><strong>School Management Committee</strong></h4>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Appointment</p>
+<p><strong>Appointment</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email Address</p>
+<p><strong>Email Address</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -393,13 +393,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email Address</p>
+<p><strong>Email Address</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -556,13 +559,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email Address</p>
+<p><strong>Email Address</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -570,9 +576,7 @@ variant: tiptap
 <p>Ms Lye Jia Lin Charlene&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Year Head
-<br>
-</p>
+<p>Sec 2 Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lye_jia_lin_charlene@moe.edu.sg</p>
@@ -744,13 +748,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email Address</p>
+<p><strong>Email Address</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -908,13 +915,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email Address</p>
+<p><strong>Email Address</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1054,13 +1064,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject</p>
+<p><strong>Subject</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email Address</p>
+<p><strong>Email Address</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1227,10 +1240,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject</p>
+<p><strong>Subject</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1320,10 +1335,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Designation</p>
+<p><strong>Designation</strong>
+</p>
 </td>
 </tr>
 <tr>
