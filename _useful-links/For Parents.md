@@ -59,6 +59,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/sec1psg2026" rel="noopener nofollow" target="_blank">PSG recruitment form </a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Information on Direct School Admission </strong>
 <br><a href="https://www.whitleysec.moe.edu.sg/student-leadership/" rel="noopener noreferrer nofollow" target="_blank">Leadership and Character</a> 
 <br><a href="https://www.whitleysec.moe.edu.sg/public-speaking-and-debate/" rel="noopener noreferrer nofollow" target="_blank">Public Speaking and Debate</a>
