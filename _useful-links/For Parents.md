@@ -14,11 +14,8 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <h4><strong>Applications &amp; Information</strong></h4>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -67,12 +64,14 @@ description: ""
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<h4><strong>Information on Direct School Admission </strong></h4>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Information on Direct School Admission </strong>
-<br>
+<p><a href="https://www.whitleysec.moe.edu.sg/student-leadership/" rel="noopener noreferrer nofollow" target="_blank">Leadership and Character</a> 
 </p>
-<p>Leadership and Character</p>
-<p>Public Speaking and Debate</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -80,15 +79,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.whitleysec.moe.edu.sg/public-speaking-and-debate/" rel="noopener noreferrer nofollow" target="_blank">Public Speaking and Debate</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
