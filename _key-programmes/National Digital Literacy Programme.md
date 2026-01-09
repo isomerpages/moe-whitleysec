@@ -48,10 +48,36 @@ Account&nbsp;to pay for the PLD.</p>
 </tr>
 </tbody>
 </table>
-<hr>
 <h3><strong>Learning with Technology @ Whitley</strong></h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/info_1.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h4><strong>School-Prescribed Device</strong></h4>
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Info_2.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h4><strong>After-School DMA Parent Options</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -92,14 +118,15 @@ or leave the school.</p>
 <p></p>
 <p>a) Summary</p>
 <p></p>
-<p>b) Refer to this link for specific details on the DMA Options</p>
+<p>b) Specific details on the DMA Options</p>
 <p></p>
 </div>
 </details>
 </div>
-<p></p>
 <h4><strong>ICT Helpdesk</strong></h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_Parents__Engagement__2026_.jpg">
+</div>
 <h4><strong>Resources for Parents/Students</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -128,7 +155,7 @@ Raising a Digitally Smart Child</p>
 Parent Hub</p>
 </li>
 <li>
-<p>More resources are available via <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">the MOE Cyber </a><strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">Wellness Webpage</a></strong>
+<p>More resources are available via <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">the MOE Cyber Wellness Webpage</a>
 </p>
 </li>
 </ul>
