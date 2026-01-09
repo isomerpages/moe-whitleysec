@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/key%20programmes.jpg">
 </div>
-<h3><strong>1) The National Digital Literacy Programme </strong></h3>
+<h3><strong>1) The National Digital Literacy Programme</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -121,11 +121,11 @@ DMA will be uninstalled when students graduate from or leave the school.</p>
 <h4><strong>e) Resources for Parents/Students</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>📄<a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I)</a>
+<p><a href="https://drive.google.com/file/d/1n8mY9HwOFgCGZptFi-POQMe3WXx0KpCQ/view?usp=drive_link" rel="noopener nofollow" target="_blank">Parent Handbook (I)</a>
 </p>
 </li>
 <li>
-<p>📄<a href="/files/IP3___Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II)</a>
+<p><a href="https://drive.google.com/file/d/1BJawGUsW3smF_GeH3BVhFGK5mcHbHxs2/view?usp=drive_link" rel="noopener nofollow" target="_blank">Parent Handbook (II)</a>
 </p>
 </li>
 <li>
@@ -152,9 +152,8 @@ Raising a Digitally Smart Child</p>
 <h4><strong>f) ICT Briefing Slides for Sec 1 Parents (9 Jan)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>📄 <a href="/files/ICT_Sec_1_Parents__Engagement__2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides for ICT Sec 1 Parents' Engagement 2026</a>
+<p><a href="https://drive.google.com/file/d/1J-7tNXTYTHpzCKX3gNEphcyiFJPJuEfq/view?usp=drive_link" rel="noopener nofollow" target="_blank">Briefing Slides for ICT Sec 1 Parents' Engagement 2026</a>
 </p>
 </li>
 </ul>
-<p></p>
 <p></p>
