@@ -75,6 +75,9 @@ Account&nbsp;to pay for the PLD.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Info_2.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_Literacy_Skills__1_.png">
+</div>
 </th>
 </tr>
 </tbody>
@@ -104,7 +107,13 @@ DMA will be uninstalled when students graduate from or leave the school.</p>
 </table>
 <p><strong>2) Details of DMA Parent Options</strong>
 </p>
-<p>Please click the link here for more details.</p>
+<p>Please click on the link below for more details.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>📄<a href="/files/After_School_DMA_Options_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Slide Information on DMA</a>
+</p>
+</li>
+</ul>
 <h4><strong>d) ICT Helpdesk</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pic3.jpg">
@@ -112,11 +121,11 @@ DMA will be uninstalled when students graduate from or leave the school.</p>
 <h4><strong>e) Resources for Parents/Students</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I)</a>
+<p>📄<a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/IP3___Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II)</a>
+<p>📄<a href="/files/IP3___Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II)</a>
 </p>
 </li>
 <li>
@@ -140,6 +149,12 @@ Raising a Digitally Smart Child</p>
 </p>
 </li>
 </ul>
-<h4><strong>f) ICT Engagement Briefing Slides for Sec 1 Parents</strong></h4>
+<h4><strong>f) ICT Briefing Slides for Sec 1 Parents (9 Jan)</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>📄 <a href="/files/ICT_Sec_1_Parents__Engagement__2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides for ICT Sec 1 Parents' Engagement 2026</a>
+</p>
+</li>
+</ul>
 <p></p>
 <p></p>
