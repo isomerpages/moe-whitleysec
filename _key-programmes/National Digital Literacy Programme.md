@@ -126,7 +126,7 @@ or leave the school.</p>
 </div>
 <h4><strong>e) ICT Helpdesk</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_Parents__Engagement__2026_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pic3.jpg">
 </div>
 <h4><strong>f) Resources for Parents/Students</strong></h4>
 <ul data-tight="true" class="tight">
