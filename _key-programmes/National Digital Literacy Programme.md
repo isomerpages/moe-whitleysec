@@ -121,11 +121,11 @@ DMA will be uninstalled when students graduate from or leave the school.</p>
 <h4><strong>e) Resources for Parents/Students</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1n8mY9HwOFgCGZptFi-POQMe3WXx0KpCQ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I)</a>
+<p><a href="https://drive.google.com/file/d/1n8mY9HwOFgCGZptFi-POQMe3WXx0KpCQ/view?usp=drive_link" rel="noopener nofollow" target="_blank">Parent Handbook (I)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/IP3___Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II)</a>
+<p><a href="https://drive.google.com/file/d/1BJawGUsW3smF_GeH3BVhFGK5mcHbHxs2/view?usp=drive_link" rel="noopener nofollow" target="_blank">Parent Handbook (II)</a>
 </p>
 </li>
 <li>
@@ -152,9 +152,8 @@ Raising a Digitally Smart Child</p>
 <h4><strong>f) ICT Briefing Slides for Sec 1 Parents (9 Jan)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/ICT_Briefing_for_Sec_1_Parents_on_9_Jan_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides for ICT Sec 1 Parents' Engagement 2026</a>
+<p><a href="https://drive.google.com/file/d/1J-7tNXTYTHpzCKX3gNEphcyiFJPJuEfq/view?usp=drive_link" rel="noopener nofollow" target="_blank">Briefing Slides for ICT Sec 1 Parents' Engagement 2026</a>
 </p>
 </li>
 </ul>
-<p></p>
 <p></p>
