@@ -105,11 +105,11 @@ DMA will be uninstalled when students graduate from or leave the school.</p>
 <p><strong>2) Details of DMA Parent Options</strong>
 </p>
 <p>Please click the link here for more details.</p>
-<h4><strong>e) ICT Helpdesk</strong></h4>
+<h4><strong>d) ICT Helpdesk</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pic3.jpg">
 </div>
-<h4><strong>f) Resources for Parents/Students</strong></h4>
+<h4><strong>e) Resources for Parents/Students</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I)</a>
@@ -140,6 +140,6 @@ Raising a Digitally Smart Child</p>
 </p>
 </li>
 </ul>
-<h4><strong>g) ICT Engagement Briefing Slides for Sec 1 Parents</strong></h4>
+<h4><strong>f) ICT Engagement Briefing Slides for Sec 1 Parents</strong></h4>
 <p></p>
 <p></p>
