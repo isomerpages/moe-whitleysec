@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/key%20programmes.jpg">
 </div>
-<h3><strong>The National Digital Literacy Programme</strong></h3>
+<h3><strong>1) The National Digital Literacy Programme</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -32,7 +32,7 @@ Account&nbsp;to pay for the PLD.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>The PLD Initiative</strong></h4>
+<h4><strong>About The PLD Initiative</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -48,22 +48,23 @@ Account&nbsp;to pay for the PLD.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Learning with Technology @ Whitley</strong></h3>
+<h3><strong>2) Learning with Technology @ Whitley</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<h4><strong>a) EdTech in Whitley</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/info_1.png">
 </div>
-</th>
+</td>
 </tr>
 </tbody>
 </table>
-<h4><strong>School-Prescribed Device</strong></h4>
+<h4><strong>b) School-Prescribed Device</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -78,7 +79,7 @@ Account&nbsp;to pay for the PLD.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>After-School DMA Parent Options</strong></h4>
+<h4><strong>d) After-School DMA Parent Options</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>1) About MOE DMA</strong>
@@ -123,11 +124,11 @@ or leave the school.</p>
 </div>
 </details>
 </div>
-<h4><strong>ICT Helpdesk</strong></h4>
+<h4><strong>e) ICT Helpdesk</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_Parents__Engagement__2026_.jpg">
 </div>
-<h4><strong>Resources for Parents/Students</strong></h4>
+<h4><strong>f) Resources for Parents/Students</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I)</a>
@@ -151,12 +152,13 @@ Raising a Digitally Smart Child</p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/pfw-toolbox-for-parents" rel="noopener noreferrer nofollow" target="_blank">Parenting for Wellness Toolbox for Parents</a><em> </em>and
-&nbsp;<a href="https://go.gov.sg/pfw" rel="noopener noreferrer nofollow" target="_blank">Parenting for Wellness Website</a> on
-Parent Hub</p>
+<a href="https://go.gov.sg/pfw" rel="noopener noreferrer nofollow" target="_blank">Parenting for Wellness Website</a>on Parent Hub</p>
 </li>
 <li>
 <p>More resources are available via <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">the MOE Cyber Wellness Webpage</a>
 </p>
 </li>
 </ul>
+<h4><strong>g) ICT Engagement Briefing Slides for Sec 1 Parents</strong></h4>
+<p></p>
 <p></p>
