@@ -89,12 +89,15 @@ or leave the school.</p>
 <summary><strong>2) Information on After-School DMA Parent Options</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DMA.png">
-</div>
+<p></p>
+<p>a) Summary</p>
+<p></p>
+<p>b) Refer to this link for specific details on the DMA Options</p>
+<p></p>
 </div>
 </details>
 </div>
+<p></p>
 <h4><strong>ICT Helpdesk</strong></h4>
 <p></p>
 <h4><strong>Resources for Parents/Students</strong></h4>
