@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/key%20programmes.jpg">
 </div>
-<h3><strong>1) The National Digital Literacy Programme </strong></h3>
+<h3><strong>1) The National Digital Literacy Programme</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -152,7 +152,7 @@ Raising a Digitally Smart Child</p>
 <h4><strong>f) ICT Briefing Slides for Sec 1 Parents (9 Jan)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>📄 <a href="/files/ICT_Sec_1_Parents__Engagement__2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides for ICT Sec 1 Parents' Engagement 2026</a>
+<p>📄 <a href="/files/ICT_Briefing_for_Sec_1_Parents_on_9_Jan_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides for ICT Sec 1 Parents' Engagement 2026</a>
 </p>
 </li>
 </ul>
