@@ -121,7 +121,7 @@ DMA will be uninstalled when students graduate from or leave the school.</p>
 <h4><strong>e) Resources for Parents/Students</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I)</a>
+<p><a href="https://drive.google.com/file/d/1n8mY9HwOFgCGZptFi-POQMe3WXx0KpCQ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I)</a>
 </p>
 </li>
 <li>
