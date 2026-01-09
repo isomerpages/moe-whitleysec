@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/key%20programmes.jpg">
 </div>
-<h3><strong>1) The National Digital Literacy Programme</strong></h3>
+<h3><strong>1) The National Digital Literacy Programme </strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -75,67 +75,57 @@ Account&nbsp;to pay for the PLD.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Info_2.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_Literacy_Skills__1_.png">
+</div>
 </th>
 </tr>
 </tbody>
 </table>
-<h4><strong>d) After-School DMA Parent Options</strong></h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>1) About MOE DMA</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h4><strong>c) After-School DMA Parent Options</strong></h4>
+<p><strong>1) About MOE DMA</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The MOE DMA solution for Chromebooks, Lightspeed Systems®, will be installed
+on all students’ PLDs to support safe and responsible device use. The DMA
+is funded by MOE and applies to both school-purchased and approved student-owned
+devices used in place of the school-prescribed PLD. Students will be guided
+to install the DMA after device collection on the PLD Onboarding Day. The
+DMA will be uninstalled when students graduate from or leave the school.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DMA.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>2) Details of DMA Parent Options</strong>
+</p>
+<p>Please click on the link below for more details.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The MOE DMA solution for Chromebook, Lightspeed Systems®, is an app that
-will be installed on all students’ PLDs to support their safe and responsible
-use of devices.</p>
-</li>
-<li>
-<p>The DMA will be funded by MOE.</p>
-</li>
-<li>
-<p>The installation of the MOE DMA applies to both devices purchased through
-the school and any student-owned devices that parents/guardians opt for
-the student to use instead of the school-prescribed PLD.</p>
-</li>
-<li>
-<p>The MOE DMA will be installed after the collection of the device. Students
-will be guided on the installation.</p>
-</li>
-<li>
-<p>The MOE DMA will be uninstalled from the device when students graduate
-or leave the school.</p>
+<p>📄<a href="/files/After_School_DMA_Options_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Slide Information on DMA</a>
+</p>
 </li>
 </ul>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>2) Information on After-School DMA Parent Options</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>a) Summary</p>
-<p></p>
-<p>b) Specific details on the DMA Options</p>
-<p></p>
-</div>
-</details>
-</div>
-<h4><strong>e) ICT Helpdesk</strong></h4>
+<h4><strong>d) ICT Helpdesk</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pic3.jpg">
 </div>
-<h4><strong>f) Resources for Parents/Students</strong></h4>
+<h4><strong>e) Resources for Parents/Students</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I)</a>
+<p>📄<a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/IP3___Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II)</a>
+<p>📄<a href="/files/IP3___Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II)</a>
 </p>
 </li>
 <li>
@@ -159,6 +149,12 @@ Raising a Digitally Smart Child</p>
 </p>
 </li>
 </ul>
-<h4><strong>g) ICT Engagement Briefing Slides for Sec 1 Parents</strong></h4>
+<h4><strong>f) ICT Briefing Slides for Sec 1 Parents (9 Jan)</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>📄 <a href="/files/ICT_Sec_1_Parents__Engagement__2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides for ICT Sec 1 Parents' Engagement 2026</a>
+</p>
+</li>
+</ul>
 <p></p>
 <p></p>
