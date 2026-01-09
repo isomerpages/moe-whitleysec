@@ -2,24 +2,131 @@
 title: National Digital Literacy Programme
 permalink: /key-programmes/ndlp/permalink/
 description: ""
+variant: tiptap
 ---
-![](/images/key%20programmes.jpg)
-
-### National Digital Literacy Programme
-
-#### Personal Digital Learning Programme
-
-Digital technology is becoming increasingly pervasive in jobs, workplaces and society. Digital technology is going to be integral in our lives, and it is important for students to be equipped with the digital skills to be future-ready. To make digital learning inclusive by equipping students with the digital literacies to be future-ready, all secondary school students are required to purchase a school-prescribed personal learning device (PLD). Singapore Citizen students can use their Edusave Account to pay for the PLD. The device will be used to facilitate an environment that encourages personalised learning. The device will be used for teaching and learning in class. Device Management Application (DMA) software will be installed on your child’s device to provide a safe learning experience, and to prevent misuse of the device.
-
-  
-
-#### Intended Outcomes of a Personalised Learning Environment
-
-The use of the personal learning device for teaching and learning aims to:
-<img src="/images/NDLP1.png" style="width:80%">
-
-
-#### PDLP Rollout @ Whitley
-
-Incoming Sec 1 students will indicate their intent to purchase the PLDs in March 2022. The expected date for collecting the PLDs is in mid-March 2022. Parents can opt to let their children collect the devices themselves or opt to accompany their children to check and collect their devices together. Students will be guided step by steps in unboxing, checking, logging in and testing their devices. Students will then proceed to sign over the devices after checking that their device is in order. Below are some pictures captured during the PLD deployment days in 2021:
-<img src="/images/NDLP2.png" style="width:80%">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/key%20programmes.jpg">
+</div>
+<h3><strong>The National Digital Literacy Programme</strong></h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>The NDLP was launched in March 2020 to help students strengthen their
+digital literacy and acquire digital skills needed to navigate an increasingly
+digitalised world.</p>
+<p></p>
+</li>
+<li>
+<p>Under the NDLP, every secondary school student will own a school-prescribed
+Personal Learning Device (PLD). Students may use funds from their Edusave
+Account&nbsp;to pay for the PLD.</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>The PLD Initiative</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The use of the PLD for teaching and learning aims to:</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/NDLP1.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3><strong>Learning with Technology @ Whitley</strong></h3>
+<h4><strong>School-Prescribed Device</strong></h4>
+<p></p>
+<h4><strong>After-School DMA Parent Options</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>1) About MOE DMA</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>The MOE DMA solution for Chromebook, Lightspeed Systems®, is an app that
+will be installed on all students’ PLDs to support their safe and responsible
+use of devices.</p>
+</li>
+<li>
+<p>The DMA will be funded by MOE.</p>
+</li>
+<li>
+<p>The installation of the MOE DMA applies to both devices purchased through
+the school and any student-owned devices that parents/guardians opt for
+the student to use instead of the school-prescribed PLD.</p>
+</li>
+<li>
+<p>The MOE DMA will be installed after the collection of the device. Students
+will be guided on the installation.</p>
+</li>
+<li>
+<p>The MOE DMA will be uninstalled from the device when students graduate
+or leave the school.</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2) Information on After-School DMA Parent Options</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DMA.png">
+</div>
+</div>
+</details>
+</div>
+<h4><strong>ICT Helpdesk</strong></h4>
+<p></p>
+<h4><strong>Resources for Parents/Students</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/IP3___Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Kit</a> -
+Raising a Digitally Smart Child</p>
+</li>
+<li>
+<p>Bite-sized tips and advice via <a href="https://go.gov.sg/parentingwithmoesg" rel="noopener noreferrer nofollow" target="_blank">Parentingwith.MOEsg Instagram page</a>
+</p>
+</li>
+<li>
+<p>Resources from MOE and other agencies (<em>(available on resources repository in Parents Gateway)</em>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/pfw-toolbox-for-parents" rel="noopener noreferrer nofollow" target="_blank">Parenting for Wellness Toolbox for Parents</a><em> </em>and
+&nbsp;<a href="https://go.gov.sg/pfw" rel="noopener noreferrer nofollow" target="_blank">Parenting for Wellness Website</a> on
+Parent Hub</p>
+</li>
+<li>
+<p>More resources are available via <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">the MOE Cyber </a><strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">Wellness Webpage</a></strong>
+</p>
+</li>
+</ul>
+<p></p>
