@@ -17,4 +17,17 @@ sections:
           description: ""
           url: /news-and-events/
       variant: image
+  - textcards:
+      title: Annoucements
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Release of GCE 'O' Level Examinations
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
