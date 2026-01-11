@@ -315,7 +315,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<h4><strong>Lead Teachers / Senior Teachers</strong></h4>
+<h4><strong>Lead Teachers / Senior Teachers (LT/ST)</strong></h4>
 </td>
 </tr>
 <tr>
