@@ -920,7 +920,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>Secondary 4 Form Teachers</strong></h4>
+<h4><strong>Secondary 4 &amp; 5 Form Teachers</strong></h4>
 </th>
 </tr>
 <tr>
@@ -1056,6 +1056,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>sia_ai-lim@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Valentino Lee Hok Chiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Caring</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>valentino_lee_hok_chiong@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
