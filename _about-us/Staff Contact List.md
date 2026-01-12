@@ -255,7 +255,7 @@ variant: tiptap
 <p>SH - Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_bei-yi_michelle@schools.gov.sg</p>
+<p>lim_bei-yi_michelle@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
