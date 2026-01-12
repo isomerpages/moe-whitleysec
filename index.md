@@ -23,15 +23,15 @@ sections:
       cards:
         - title: Release of GCE 'O' Level Examinations
           description: ""
-          linktext: Learn more
+          linktext: More Info
           url: ""
         - title: 2026 Purchase of PLDs matters
           description: ""
-          linktext: Learn more
+          linktext: More Info
           url: https://staging-lite.d2qtvkgiblcys2.amplifyapp.com/key-programmes/ndlp/permalink/
         - title: 2026 Sec 1 Admin Matters
           description: ""
-          linktext: Learn more
+          linktext: More Info
           url: https://staging-lite.d2qtvkgiblcys2.amplifyapp.com/2026-sec-1-admin-matters/
         - title: Parent Support Group (PSG) Registration
           description: ""
