@@ -24,7 +24,7 @@ sections:
         - title: Release of GCE 'O' Level Examinations
           description: ""
           linktext: More Info
-          url: ""
+          url: /gce-o-level-results-release/
         - title: 2026 Purchase of PLDs matters
           description: ""
           linktext: More Info
