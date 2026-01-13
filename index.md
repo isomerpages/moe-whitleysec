@@ -28,7 +28,7 @@ sections:
         - title: 2026 Purchase of PLDs matters
           description: ""
           linktext: More Info
-          url: https://staging-lite.d2qtvkgiblcys2.amplifyapp.com/key-programmes/ndlp/permalink/
+          url: /key-programmes/ndlp/permalink/
         - title: 2026 Sec 1 Admin Matters
           description: ""
           linktext: More Info
