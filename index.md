@@ -29,10 +29,10 @@ sections:
           description: ""
           linktext: More Info
           url: /key-programmes/ndlp/permalink/
-        - title: 2026 Sec 1 Admin Matters
+        - title: 2026 HBL Schedule
           description: ""
           linktext: More Info
-          url: /2026-sec-1-admin-matters/
+          url: https://drive.google.com/file/d/1tuQnyeF7mr3tBEZwzx0C2NfCfjtPLY6K/view?usp=drive_link
         - title: Parent Support Group (PSG) Registration
           description: ""
           linktext: Click to register
