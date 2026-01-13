@@ -17,8 +17,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>School Management Committee</strong></h4>
+<h3><strong>School Management Committee</strong></h3>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h4><strong>School Leaders</strong></h4>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -68,25 +73,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chua Sok Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Upper Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_sok_ling@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Gek Yim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_gek_yim@moe.edu.sg</p>
+<td rowspan="1" colspan="3">
+<h4><strong>Heads of Department (HOD)</strong></h4>
 </td>
 </tr>
 <tr>
@@ -98,6 +86,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>foo_moo_tean@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Puay Hoon Veronica</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD - English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_puay_hoon_veronica@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -124,24 +123,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Low Hooi Yee</p>
+<p>Mr Kelvin Yew Yeu Weng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD - Character and Citizenship Education</p>
+<p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>low_hooi_yee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Puay Hoon Veronica</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD - English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_puay_hoon_veronica@moe.edu.sg</p>
+<p>kelvin_yew@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -157,59 +145,73 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kelvin Yew Yeu Weng</p>
+<p>Ms Low Hooi Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer
-<br>
-</p>
+<p>HOD - Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kelvin_yew@moe.edu.sg</p>
+<p>low_hooi_yee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Tifany Tay Jing Wen</p>
+<p>Ms Ong Xin Yi Clarissa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Student Well-Being</p>
+<p>HOD - Student Management (Ag)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tifany_tay_jing_wen@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sarina Binte Omar Bakri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH - CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sarina_omar_bakri@moe.edu.sg</p>
+<p>ong_xin_yi_clarissa@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jaswant Singh</p>
+<p>Ms Chua Sok Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Discipline</p>
+<p>Year Head (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jaswant_singh_g_singh@moe.edu.sg</p>
+<p>chua_sok_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Beiyi Michelle</p>
+<p>Ms Tan Gek Yim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Science</p>
+<p>Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_bei-yi_michelle@schools.gov.sg</p>
+<p>tan_gek_yim@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h4><strong>Subject Heads (SH)</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lye Jia Lin Charlene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Sec 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lye_jia_lin_charlene@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Lishi Theresa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_lishi_theresa@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -239,10 +241,21 @@ variant: tiptap
 <p>Ms Lim Eu Boon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - MTL</p>
+<p>SH - Mother Tongue Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_eu_boon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Beiyi Michelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_bei-yi_michelle@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -258,13 +271,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Lishi Theresa</p>
+<p>Mdm Sarina Binte Omar Bakri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Humanities</p>
+<p>SH - CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_lishi_theresa@moe.edu.sg</p>
+<p>sarina_omar_bakri@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -280,32 +293,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lye Jia Lin Charlene</p>
+<p>Mr Jaswant Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>SH - Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lye_jia_lin_charlene@moe.edu.sg</p>
+<p>jaswant_singh_g_singh@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Xin Yi Clarissa</p>
+<p>Miss Tifany Tay Jing Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>SH - Student Well-Being (Ag)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_xin_yi_clarissa@moe.edu.sg</p>
+<p>tifany_tay_jing_wen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<h4><br><strong>Lead Teachers / Senior Teachers</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<h4><strong>Lead Teachers / Senior Teachers (LT/ST)</strong></h4>
 </td>
 </tr>
 <tr>
@@ -410,7 +420,7 @@ variant: tiptap
 <p>Ms Tan Gek Yim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Year Head</p>
+<p>Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_gek_yim@moe.edu.sg</p>
@@ -576,7 +586,7 @@ variant: tiptap
 <p>Ms Lye Jia Lin Charlene&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Year Head</p>
+<p>Assistant Year Head (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lye_jia_lin_charlene@moe.edu.sg</p>
@@ -765,7 +775,7 @@ variant: tiptap
 <p>Ms Chua Sok Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Year Head</p>
+<p>Year Head (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chua_sok_ling@moe.edu.sg</p>
@@ -910,7 +920,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>Secondary 4 Form Teachers</strong></h4>
+<h4><strong>Secondary 4 &amp; 5 Form Teachers</strong></h4>
 </th>
 </tr>
 <tr>
@@ -932,7 +942,7 @@ variant: tiptap
 <p>Ms Chua Sok Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4 Year Head</p>
+<p>Year Head (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chua_sok_ling@moe.edu.sg</p>
@@ -1046,6 +1056,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>sia_ai-lim@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Valentino Lee Hok Chiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Caring</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>valentino_lee_hok_chiong@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

@@ -17,4 +17,24 @@ sections:
           description: ""
           url: /news-and-events/
       variant: image
+  - textcards:
+      title: Announcements
+      id: textcards
+      cards:
+        - title: Release of GCE 'O' Level Examinations
+          description: ""
+          linktext: More Info
+          url: /gce-o-level-results-release/
+        - title: 2026 Purchase of PLDs matters
+          description: ""
+          linktext: More Info
+          url: /key-programmes/ndlp/permalink/
+        - title: 2026 HBL Schedule
+          description: ""
+          linktext: More Info
+          url: https://drive.google.com/file/d/1tuQnyeF7mr3tBEZwzx0C2NfCfjtPLY6K/view?usp=drive_link
+        - title: Parent Support Group (PSG) Registration
+          description: ""
+          linktext: Click to register
+          url: https://go.gov.sg/sec1psg2026
 ---

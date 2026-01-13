@@ -152,7 +152,7 @@ Raising a Digitally Smart Child</p>
 <h4><strong>f) ICT Briefing Slides for Sec 1 Parents (9 Jan)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1J-7tNXTYTHpzCKX3gNEphcyiFJPJuEfq/view?usp=drive_link" rel="noopener nofollow" target="_blank">Briefing Slides for ICT Sec 1 Parents' Engagement 2026</a>
+<p><a href="https://drive.google.com/drive/folders/1g4z9pMHCTYLctH-OmnZFgbaVPhdL3pmV?usp=sharing" rel="noopener nofollow" target="_blank">Briefing Slides for ICT Sec 1 Parents' Engagement 2026</a>
 </p>
 </li>
 </ul>
