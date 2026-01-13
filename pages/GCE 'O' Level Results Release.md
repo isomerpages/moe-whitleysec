@@ -39,11 +39,6 @@ in the Drama Room by 1.30 pm.</p>
 </ul>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 </li>
