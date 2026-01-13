@@ -29,7 +29,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Students are to be in their school uniform.</p>
+<p>Students are to be in Full/half school uniform (White blouse/shirt/pe
+t-shirt with school skirt/pants).</p>
 </li>
 <li>
 <p>Students and accompanying parent(s)/guardian(s) are to be seated in the
@@ -53,6 +54,7 @@ Drama Room by 1.30 pm.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/file/d/1DmCf8BBavZuoOH_Qc4etX7osR2_wyjMU/view?usp=drive_link" rel="noopener nofollow" target="_blank">SEL &amp; ECG Resources for Students</a>
 </p>
+<p>Consolidated Infosheet</p>
 </td>
 </tr>
 </tbody>
