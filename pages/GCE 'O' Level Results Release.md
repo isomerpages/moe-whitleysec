@@ -54,7 +54,7 @@ in the Drama Room by 1.30 pm.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/108pkgY0xZt0qr98-2c3b0sabu880w-l-/view?usp=drive_link" rel="noopener nofollow" target="_blank">Summarised Infosheet for Students</a>
+<p><a href="https://drive.google.com/file/d/1xi25hZs-IQMOOcUdvREFHy0HhYVodiYx/view?usp=drivesdk" rel="noopener nofollow" target="_blank">Summarised Infosheet for Students</a>
 </p>
 </li>
 <li>
