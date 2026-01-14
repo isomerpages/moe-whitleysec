@@ -12,61 +12,6 @@ criteria, and key application timelines. Parents and students are strongly
 encouraged to review the slides carefully.</p>
 <p><a href="/files/2025 N Level Student Briefing/2025_N_Level_Briefing_Slides_Student__For_Website_Upload_.pdf" rel="noopener noreferrer nofollow" target="_blank">Please click here for more information.</a>
 </p>
-<hr>
-<h3><strong>School/General Office Closing Time - 3 Nov to 30 Dec</strong></h3>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Event</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>School Closure Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>General Office Closure Time</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3rd Nov - 30th Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Holiday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>28th Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Eat with Your Family Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5.00pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
 <h3><strong>Public Speaking and Debate @ Whitley Secondary School</strong></h3>
 <p>Join us to unlock your potential in becoming effective communicators.
 You will be given various platforms – in and out of school – to scale greater
