@@ -83,10 +83,11 @@ the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <hr>
-<h4><strong>At WHITLEY Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u></strong></h4>
+<h4><strong>At WHITLEY Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/SED FILE/2025_SEXUALITY_EDUCATION_LESSONS_IN_CCE___SEC1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+<p><a href="/files/SED FILE/2025_SEXUALITY_EDUCATION_LESSONS_IN_CCE___SEC1.pdf" rel="noopener noreferrer nofollow" target="_blank">Second</a>
+<a href="/files/Sec_1_2026.pdf" rel="noopener nofollow" target="_blank">ary</a><a href="/files/SED FILE/2025_SEXUALITY_EDUCATION_LESSONS_IN_CCE___SEC1.pdf" rel="noopener noreferrer nofollow" target="_blank"> 1</a>
 </p>
 </li>
 <li>
@@ -94,15 +95,15 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/SED FILE/2025_SEXUALITY_EDUCATION_LESSONS_IN_CCE___SEC3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/Sec_3_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/SED FILE/2025_SEXUALITY_EDUCATION_LESSONS_IN_CCE___SEC4.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
+<p><a href="/files/Sec_4_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
 </p>
 </li>
 <li>
-<p><a href="/files/SED FILE/2025_SEXUALITY_EDUCATION_LESSONS_IN_CCE___SEC5.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a>
+<p><a href="/files/Sec_5_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a>
 </p>
 </li>
 </ul>
@@ -118,7 +119,7 @@ negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-<h4><strong>At WHITLEY Secondary School, the eTeens programme will be implemented as follows in 2025:</strong></h4>
+<h4><strong>At WHITLEY Secondary School, the eTeens programme will be implemented as follows in 2026:</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -172,4 +173,18 @@ of assertiveness and responsible decision-making</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Information for Parents</strong>
+</p>
+<p>Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
+supplementary sexuality education programmes by MOE-approved external providers.</p>
+<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also available <a href="/files/SED_OPT_OUT_Form_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. The completed
+form is to be submitted by 13/02/2026.</p>
+<p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also available <a href="/files/SED_OPT_OUT_Form_Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. &nbsp;The completed
+form is to be submitted by 13/02/2026.</p>
+<p>Parents can contact the school at <a href="mailto:whitley_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">whitley_ss@moe.edu.sg</a> for discussion
+or to seek clarification about the school’s Sexuality Education programme.</p>
 <p></p>
