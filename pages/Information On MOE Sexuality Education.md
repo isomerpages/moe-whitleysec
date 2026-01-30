@@ -53,7 +53,7 @@ ones.</p>
 </ul>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h4><strong>OVERVIEW OF WHITLEY SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
+<h4><strong>OVERVIEW OF WHITLEY SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h4>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -83,11 +83,10 @@ the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <hr>
-<h4><strong>At WHITLEY Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u></strong></h4>
+<h4><strong>At WHITLEY Secondary School, the following Sexuality Education lessons will be taught in 2026</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/SED FILE/2025_SEXUALITY_EDUCATION_LESSONS_IN_CCE___SEC1.pdf" rel="noopener noreferrer nofollow" target="_blank">Second</a>
-<a href="/files/Sec_1_2026.pdf" rel="noopener nofollow" target="_blank">ary</a><a href="/files/SED FILE/2025_SEXUALITY_EDUCATION_LESSONS_IN_CCE___SEC1.pdf" rel="noopener noreferrer nofollow" target="_blank"> 1</a>
+<p><a href="/files/Sec_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
 </p>
 </li>
 <li>
