@@ -25,10 +25,6 @@ sections:
           description: ""
           linktext: More Info
           url: /gce-o-level-results-release/
-        - title: 2026 Purchase of PLDs matters
-          description: ""
-          linktext: More Info
-          url: /key-programmes/ndlp/permalink/
         - title: 2026 HBL Schedule
           description: ""
           linktext: More Info
