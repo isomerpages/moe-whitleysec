@@ -16,8 +16,9 @@ locations:
     title: General Office.
 contacts:
   - content:
-      - phone: +65 6564 5613
+      - phone: +65 6456 1336
       - email: whitley_ss@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
+feedback: ""
 ---
