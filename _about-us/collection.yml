@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Contact Us.md
       - School Mission, Vision and Values.md
       - School Crest.md
       - School Song.md
