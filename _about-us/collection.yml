@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - School Mission, Vision and Values.md
       - School Crest.md
       - School Song.md
       - Stories of Our Ex Whitleyans.md
       - School Management Committee.md
       - Staff Contact List.md
+      - Contact Us.md
