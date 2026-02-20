@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Discover the yearbook—click the image!</strong></h4>
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1CHBRwNPb3VNEBXtYLrsG-3I5v0YaQIyU/view?usp=sharing"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Year Book/Whitley_2025_Yearbook_Final_HR_Page_01.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1i_yB0dZYIun_P-1c5Qf9njrC6iVBpt4e/view?usp=sharing"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Year Book/Whitley_2025_Yearbook_Final_HR_Page_01.jpg"></a>
 <a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1mO-r2Ys7kQxdtw-mz3cce6wzhYRJdKwT/view?usp=sharing">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Whitley_Secondary_School_Yearbook_2024_Page_01.jpg">
 </a>
