@@ -19,7 +19,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://vle.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space - SLS</a>
 </p>
 </td>
 </tr>
