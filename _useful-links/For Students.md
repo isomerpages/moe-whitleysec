@@ -14,17 +14,6 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Year Book</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.whitleysec.moe.edu.sg/whitley-year-book/" rel="noopener noreferrer nofollow" target="_blank">School Year Books</a>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
 <p>Learning Portals</p>
 </th>
 </tr>
