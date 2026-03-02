@@ -4,8 +4,6 @@ permalink: /departments/Mathematics/permalink/
 description: ""
 variant: tiptap
 ---
-<h1>Mathematics</h1>
-<p></p>
 <p></p>
 <p>The Mathematics Department believes in enabling students to acquire mathematical
 concepts and skills for continuous learning in Mathematics. To supplement
