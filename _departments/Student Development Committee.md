@@ -4,8 +4,6 @@ permalink: /departments/sdc/permalink/
 description: ""
 variant: tiptap
 ---
-<h1>Student Development Committee</h1>
-<p></p>
 <p></p>
 <p>Character &amp; Citizenship Education Department Whitley Secondary School
 adopts a holistic approach to Character &amp; Citizenship Education (CCE).
