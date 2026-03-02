@@ -4,8 +4,6 @@ permalink: /departments/Humanities/permalink/
 description: ""
 variant: tiptap
 ---
-<h1>Humanities</h1>
-<p></p>
 <p></p>
 <p>Whitley Secondary School Humanities Department teachers are committed
 to helping our students succeed in and broaden the horizons of their learning.
