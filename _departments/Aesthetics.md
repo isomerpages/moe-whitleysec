@@ -4,8 +4,7 @@ permalink: /departments/Aesthetics/permalink/
 description: ""
 variant: tiptap
 ---
-<h1>Aesthetics</h1>
-<h2>Design and Technology Unit</h2>
+<h3><strong>Design and Technology Unit</strong></h3>
 <p>Whitley Secondary School Aesthetics Department wants to help every Whitleyan
 to be innovative and develop a new way of thinking and doing things. This
 will allow students to visualise and provide practical design solutions
@@ -27,7 +26,7 @@ on appropriate technology to fulfil the intended purpose.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dnt1.png">
 </div>
-<h2>Art Unit</h2>
+<h3><strong>Art Unit</strong></h3>
 <p>Whitley Secondary School Aesthetics Department wants every Whitleyan to
 enjoy art and be equipped with basic art skills, communicate visually,
 and through that, be able to connect with society and culture. Our art
@@ -46,7 +45,7 @@ were sent for competitions such as the Draw my Stamp Story Art Competition
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dnt2.png">
 </div>
-<h2>Music Unit</h2>
+<h3><strong>Music Unit</strong></h3>
 <p>The Whitley Secondary School Aesthetics Department introduced the General
 Music Programme for the lower secondary students in Whitley Secondary School
 with the aims to inculcate in our students the ability to perform, create
@@ -63,7 +62,7 @@ foundation for an informed and life-long involvement in music.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dnt3.png">
 </div>
-<h2>Nutrition and Food Science Unit</h2>
+<h3><strong>Nutrition and Food Science Unit</strong></h3>
 <p>The Whitley Secondary School Aesthetics Department aims to empower our
 Nutrition &amp; Food Science students to be health-conscious and discerning
 consumers, enabling them to better manage their lives in the present and
