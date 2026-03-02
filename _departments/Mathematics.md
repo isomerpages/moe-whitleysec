@@ -4,25 +4,20 @@ permalink: /departments/Mathematics/permalink/
 description: ""
 variant: tiptap
 ---
-<h1>Mathematics</h1>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo 2025/mathematics_department_2.jpg">
-</div>
-<p>The Mathematics Department believes in enabling students to acquire mathematical
-concepts and skills for continuous learning in Mathematics. To supplement
-our meaningful and engaging lessons, we have introduced a Whitley Maths
-Talent Programme to stretch our students and help them explore the world
-of Mathematics. It is a developmental programme that caters to our Secondary
-One, Two and Three students who have demonstrated a strong grasp of the
-subject. In this programme, students are exposed to an advanced and enriched
-curriculum to stretch their learning. Students are also given the opportunity
-to participate in both National and International Mathematics Competitions.
-In spite of the Covid-19 pandemic, there were events and competitions that
-were held online. We hope this would help our students enjoy Mathematics
-better and make it part of their lives.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math1.png">
-</div>
-<p></p>
+<p>The Mathematics Department aims to enable students to acquire strong mathematical
+concepts and skills that support continuous learning and application in
+Mathematics.</p>
+<p>The department designs meaningful and engaging lessons to build students’
+understanding and appreciation of Mathematics. To further stretch students
+who demonstrate a strong grasp of the subject, the department offers the
+Whitley Maths Talent Programme.</p>
+<p>This developmental programme caters to Secondary 1, 2, and 3 students
+and exposes them to an advanced and enriched curriculum. Through the programme,
+students explore mathematical ideas beyond the syllabus and deepen their
+problem-solving and analytical skills. Students are also provided with
+opportunities to participate in both national and international Mathematics
+competitions, including online platforms when applicable.</p>
+<p>Through structured classroom learning and enrichment programmes, students
+develop confidence, resilience, and enjoyment in learning Mathematics.
+They strengthen their mathematical thinking and are encouraged to see Mathematics
+as a meaningful and relevant part of their lives.</p>

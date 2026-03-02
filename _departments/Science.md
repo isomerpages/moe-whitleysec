@@ -4,17 +4,16 @@ permalink: /departments/Science/permalink/
 description: ""
 variant: tiptap
 ---
-<h1>Science</h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo 2025/science_department_2.jpg">
-</div>
-<p>The Whitley Secondary School Science Department seeks to provide quality
-student-centric academic programmes, aligned with the Science Curriculum
-Framework that will enable students to meet future challenges. Through
-our key programmes such as the Amgen Biotech Experience, Annual Environment
-Week and participation in selected Talent Development programmes, we endeavour
-to cultivate a joy of learning in our students.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science.png">
-</div>
-<p></p>
+<p>The Science Department at Whitley Secondary School aims to provide quality,
+student-centric academic programmes aligned with the Science Curriculum
+Framework. The department seeks to equip students with the knowledge, skills,
+and dispositions needed to meet future challenges.</p>
+<p>The department designs learning experiences that emphasise inquiry, application,
+and relevance. Key programmes such as the <strong>Amgen Biotech Experience</strong>, <strong>Annual Environment Week</strong>,
+and selected <strong>Talent Development programmes</strong> provide students
+with opportunities to explore scientific concepts through authentic and
+hands-on learning experiences.</p>
+<p>Through these programmes, students develop a joy of learning in Science,
+strengthen their scientific thinking and problem-solving skills, and gain
+exposure to real-world scientific applications that prepare them for future
+academic and career pathways.</p>

@@ -4,45 +4,38 @@ permalink: /departments/pe/permalink/
 description: ""
 variant: tiptap
 ---
-<h1>Physical Education</h1>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo 2025/physical_education_department_2.jpg">
-</div>
-<p>Whitley Secondary School’s Physical Education Department aims to develop
-students’ learning capacity to be fit and healthy students who are resilient
-and adventurous. We believe in teaching our students to learn and adopt
-life-long healthy habits and that Physical Education is an integral part
-of the holistic development of every child. We seek to educate our students
-on overall fitness and wellness, develop games proficiency and learn important
-values such as teamwork, resilience and grit through sports.</p>
-<p>Besides subscribing to the PE Curriculum, various other robust and engaging
-programmes are organised to arouse the students’ interest and to encourage
-participation.</p>
-<p>At the end of their journey in Whitley, we strongly believe all Whitleyans
-will be able to enjoy outdoor activities and appreciate a variety of sports
-and games. Through the activities, students will also develop values such
-as teamwork and sportsmanship.</p>
-<p>In spite of the Covid-19 pandemic, we were very fortunate to be able to
-carry out the modified level camp for the secondary 1 to 3 levels. For
-secondary 1 and 2 students, it was a 3- day non residential camp where
-the students were treated to adventure based learning which they really
-enjoyed. Activities like kayaking, dragon boat, orienteering, outdoor cooking
-and amazing race.</p>
-<p>As for the secondary 3 students, they were privileged to attend the 2
-day Outward Bound Camp in Punggol, East Coast Park and Pulau Ubin area.
-They too had a great time immersing themselves in the outdoors leading
-to the experience of a lifetime.</p>
-<p>Whitley Secondary School was also responsible for organising the South
-7 Cluster Games. Whitley Secondary School students were very keen to participate
-in the football, badminton and basketball games organized at the cluster
-level. This event provided a good platform for the students to have a more
-meaningful engagement during this period.</p>
-<p>To further promote student fitness, the school also organized the All-Children
-Exercise Simultaneous Day@ WSS – Mass Dance. With the support of the PE/Sports
-Leaders, all students and staff carried out this mass dance in their respective
-classes due to the Covid-19 safety restrictions.</p>
+<p>The Physical Education (PE) Department aims to develop students into fit,
+healthy, resilient, and adventurous individuals. The department believes
+that PE is integral to the holistic development of every child and seeks
+to instil lifelong healthy habits in students.</p>
+<p>Through the PE curriculum, students learn about overall fitness and wellness,
+develop games proficiency, and acquire important values such as teamwork,
+resilience, grit, and sportsmanship through sports and physical activities.
+In addition to the core curriculum, the department organises a range of
+robust and engaging programmes to arouse students’ interest and encourage
+active participation.</p>
+<p>Students are provided with opportunities to experience outdoor and adventure-based
+learning. Modified level camps are conducted for Secondary 1 to 3 students,
+allowing them to participate in structured outdoor activities in a safe
+and supportive environment. Secondary 1 and 2 students take part in a three-day
+camp featuring activities such as kayaking, dragon boating, orienteering,
+outdoor cooking, and Amazing Race challenges. Secondary 3 students attend
+Outward Bound camp at locations such as Punggol, East Coast Park, and Pulau
+Ubin, immersing themselves in outdoor experiences that promote resilience
+and teamwork.</p>
+<p>The department also supports students’ participation in inter-school sporting
+events. Whitley Secondary School organises the South 7 Cluster Games, providing
+students with opportunities to compete in sports such as football, badminton,
+and basketball.</p>
+<p>To further promote physical activity and fitness, the school conducts
+initiatives such as the All-Children Exercise Simultaneous Day@WSS – Mass
+Dance, with students and staff participating in synchronised activities
+led by PE and Sports Leaders.</p>
+<p>Through sustained participation in PE and co-curricular programmes, students
+develop an appreciation for outdoor activities and a variety of sports
+and games. They cultivate teamwork, resilience, and sportsmanship, and
+are equipped with the knowledge and habits to lead active and healthy lifestyles
+beyond their years in Whitley.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE.png">
 </div>
