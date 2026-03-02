@@ -4,13 +4,12 @@ permalink: /departments/MotherTongue/permalink/
 description: ""
 variant: tiptap
 ---
-<h1>Mother Tongue</h1>
-<h2>MTL Reading Programme</h2>
+<h3><strong>MTL Reading Programme</strong></h3>
 <p>To enrich our students’ general knowledge the MTL Reading Programme was
 held every Thursday morning. Short and meaningful articles were distributed
 for students’ reading pleasure.</p>
-<h2>Chinese Language Unit Programmes</h2>
-<h3>Lunar New Year E-Celebration</h3>
+<h3><strong>Chinese Language Unit Programmes</strong></h3>
+<h4>Lunar New Year E-Celebration</h4>
 <p>The Whitley Mother Tongue Languages Department (Chinese Language Unit)
 wanted the whole school to be in a festive atmosphere so that Whitleyans
 may better appreciate and understand Chinese heritage and Lunar New Year
@@ -26,7 +25,7 @@ to engage the audience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT1.png">
 </div>
-<h3>Chinese Language Mother Tongue Fortnight</h3>
+<h4>Chinese Language Mother Tongue Fortnight</h4>
 <p>To help our students to actively learn the Chinese Language and culture
 and help them experience it as ‘a living language’. The Unit organized
 activities to provide authentic learning opportunities for students. In
@@ -37,7 +36,7 @@ level.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT2.png">
 </div>
-<h3>Cultural Performance Exposure Scheme</h3>
+<h4>Cultural Performance Exposure Scheme</h4>
 <p>To promote the learning of Chinese Language beyond the classroom. The
 Unit started an inaugural programme to engage our Secondary 3 students
 through interactive drama. “Body X 㗝呸 The Culprit” set our students back
@@ -46,13 +45,13 @@ students enjoyed the experience tremendously.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT3.png">
 </div>
-<h3>CL Unit Talent Management Programme</h3>
+<h4>CL Unit Talent Management Programme</h4>
 <p>To stretch the students’ potential to the fullest, the Unit makes use
 of every opportunity to prepare our students for competitions such as the
 19th National Secondary School Chinese Creative Writing Competition, National
 Chinese Challenge 2021, National English-Mandarin Translation Competition
 2021 and the National Pen Calligraphy Competition 2021.</p>
-<h3>13th National Chinese Short Film Competition</h3>
+<h4>13th National Chinese Short Film Competition</h4>
 <p>Congratulations to 6 of our Secondary 3 HCL students for clinching 3rd
 prize for the 13th National Short Film Competition! They have learnt valuable
 media production skills during the pre-competition workshops and applied
@@ -62,13 +61,7 @@ See video at https://youtu.be/cL4mLHwERFU #whitleysec #whitleyinspires</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT4.png">
 </div>
-<h3>National Pen Calligraphy Competition 2021</h3>
-<p>Congratulations to Ye Rangqu (1E) for achieving the Merit award in the
-2021 National Schools Chinese Stiff Pen Calligraphy Competition.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT5.png">
-</div>
-<h3>Chinese Language Professional Learning Team Project</h3>
+<h4>Chinese Language Professional Learning Team Project</h4>
 <p>To help our students be more confident with their communication skills
 and to share an opinion in a more organized and persuasive manner, the
 Unit created an Oral conversation lesson package to help students confidently
@@ -78,8 +71,8 @@ support collaborative learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT6.png">
 </div>
-<h2>Malay Language Unit</h2>
-<h3>Malay Language Mother Tongue Fortnight</h3>
+<h2><strong>Malay Language Unit</strong></h2>
+<h4>Malay Language Mother Tongue Fortnight</h4>
 <p>To help our students to actively learn the Malay Language and culture
 and help them experience it as ‘a living language’. The Unit organized
 activities to provide authentic learning opportunities for students. In
@@ -95,7 +88,7 @@ among the students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT8.png">
 </div>
-<h3>Malay Language Professional Learning Team Project</h3>
+<h4>Malay Language Professional Learning Team Project</h4>
 <p>To help our students be more confident with their communication skills
 and to improve the students’ written literacy, the Unit tried to leverage
 ICT tools. The Unit created an E-Pedagogy on Narrative Writing package
@@ -103,8 +96,8 @@ to achieve these aims.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT9.png">
 </div>
-<h2>Tamil Language Unit</h2>
-<h3>Tamil Language Mother Tongue Fortnight</h3>
+<h3><strong>Tamil Language Unit</strong></h3>
+<h4>Tamil Language Mother Tongue Fortnight</h4>
 <p>To help our students to actively learn the Malay Language and culture
 and help them experience it as ‘a living language’. The Unit organized
 activities to provide authentic learning opportunities for students. In
@@ -121,7 +114,7 @@ practices of the games.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT10.png">
 </div>
-<h3>TL Unit Talent Management Programme</h3>
+<h4>TL Unit Talent Management Programme</h4>
 <p>To stretch the students’ potential to the fullest, the Unit made use of
 every opportunity to prepare our students for various competitions and
 events, such as the North Zone Tamil Literacy Character Fancy Dress and
@@ -132,7 +125,7 @@ really enjoyed these opportunities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT11.png">
 </div>
-<h3>S7-Tamil/Common Interest Group</h3>
+<h4>S7-Tamil/Common Interest Group</h4>
 <p>To learn and share best practices in pedagogy and lesson design among
 the various Tamil Language Units in the various cluster schools, our Senior
 Teacher, Mrs Amutha Mani led in the sharing of good Teaching and Learning
