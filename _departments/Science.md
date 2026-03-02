@@ -5,9 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1>Science</h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo 2025/science_department_2.jpg">
-</div>
 <p>The Whitley Secondary School Science Department seeks to provide quality
 student-centric academic programmes, aligned with the Science Curriculum
 Framework that will enable students to meet future challenges. Through
