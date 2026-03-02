@@ -4,7 +4,6 @@ permalink: /departments/Science/permalink/
 description: ""
 variant: tiptap
 ---
-<h1>Science</h1>
 <p>The Whitley Secondary School Science Department seeks to provide quality
 student-centric academic programmes, aligned with the Science Curriculum
 Framework that will enable students to meet future challenges. Through
