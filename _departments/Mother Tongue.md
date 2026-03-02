@@ -5,9 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1>Mother Tongue</h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept Photo 2025/mother_tongue_languages_department_2.jpg">
-</div>
 <h2>MTL Reading Programme</h2>
 <p>To enrich our students’ general knowledge the MTL Reading Programme was
 held every Thursday morning. Short and meaningful articles were distributed
