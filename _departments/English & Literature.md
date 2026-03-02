@@ -4,8 +4,6 @@ permalink: /departments/permalink/
 description: ""
 variant: tiptap
 ---
-<h1>English &amp; Literature</h1>
-<p></p>
 <p></p>
 <p>The English Language and Literature Department is committed to equipping
 every Whitleyan with effective and affective communication skills. As a
