@@ -5,83 +5,68 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Design and Technology Unit</strong></h3>
-<p>Whitley Secondary School Aesthetics Department wants to help every Whitleyan
-to be innovative and develop a new way of thinking and doing things. This
-will allow students to visualise and provide practical design solutions
-for real-world contexts. To help our students achieve this, we train them
-in using a Design Process: Using thinking-and-doing process. This will
-allow students to be more thoughtful, and to experience the visual language
-in the design of solutions.</p>
-<p>We also teach our students to do sketching and drawing: students will
-apply freehand sketching and drawing skills in designing, this will help
-students to visually explore, generate, reason and develop design solutions.
-We also train students to do 3D Manipulation: Students will manipulate
-3D objects in the form of quick mock-ups and working with resistant materials
-to serve as tactile experiences to tinker, test&nbsp;&nbsp;and evaluate
-ideas, and to in the form of quick mock-ups and working with resistant
-materials to serve as tactile experiences to tinker, test and evaluate
-ideas, as the final design proposal. Students will also be expected to
-use what they have learned to create&nbsp;functional prototypes, and leverage
-on appropriate technology to fulfil the intended purpose.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dnt1.png">
-</div>
-<h3><strong>Art Unit</strong></h3>
-<p>Whitley Secondary School Aesthetics Department wants every Whitleyan to
-enjoy art and be equipped with basic art skills, communicate visually,
-and through that, be able to connect with society and culture. Our art
-lessons are developed closely in line with MOE art syllabus.</p>
-<p>Students develop observation, drawing and rendering skills, composition
-techniques, brainstorm, research and processing skills, visual inquiry
-and art appreciation. At the Upper Secondary level, students develop independence
-and take ownership in art making processes through projects and coursework.</p>
-<p>As an academic subject, we want to use art to develop every student holistically.
-Art develops students’ sense of identity and culture and build their capacity
-to be discerning in processing visual information. This skill would help
-them communicate effectively in the 21st Century.</p>
-<p>To stretch our students and help them better appreciate art, students
-were sent for competitions such as the Draw my Stamp Story Art Competition
-2021.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dnt2.png">
-</div>
-<h3><strong>Music Unit</strong></h3>
-<p>The Whitley Secondary School Aesthetics Department introduced the General
-Music Programme for the lower secondary students in Whitley Secondary School
-with the aims to inculcate in our students the ability to perform, create
-music, listen and respond to music using musical terms, and gain an appreciation
-for the subject within both local as well as global contexts.</p>
-<p>In order to achieve these goals, our students learn and practise several
-musical instruments such as basic percussion, guitar, and keyboard. Students
-are also encouraged to explore musical creativity through song-writing
-and composing modules on e-platforms such as Google Song Maker and Bandlab.
-Through Whitley's comprehensive 2-year General Music Programme, our students
-develop the propensity for creative expression and communication, develop
-an awareness for music in local and global cultures, and acquire a basic
-foundation for an informed and life-long involvement in music.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dnt3.png">
-</div>
-<h3><strong>Nutrition and Food Science Unit</strong></h3>
-<p>The Whitley Secondary School Aesthetics Department aims to empower our
-Nutrition &amp; Food Science students to be health-conscious and discerning
-consumers, enabling them to better manage their lives in the present and
-the future. Through hands-on practical sessions in the kitchen, students
-benefit from experiential learning and have a higher engagement with the
-discipline. Students will also acquire practical skill sets that can help
-them in the future. The Covid-19 pandemic also did not rob students of
-their learning experiences as teachers still held lessons in the kitchen.
-Students were exposed to various cooking methods and basic culinary skills
-such as basic knife skills such as chopping, slicing and dicing, as well
-as cake and pastry making skills. Students also had sensory evaluation
-experiences in the classroom.</p>
-<p>The general coursework for Secondary 1 students was to improve and make
-healthier a popular hawker dish while the Secondary 2 students were tasked
-to study the role of ingredients in cakes and deepen their ability to evaluate
-food options. Through these assignments, students were able to better appreciate
-and apply the knowledge and skills that they learnt during Nutrition &amp;
-Food Science lessons.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dnt4.png">
-</div>
+<p>The Design and Technology Unit in the Whitley Secondary School Aesthetics
+Department aims to nurture every Whitleyan to be innovative and to develop
+new ways of thinking and doing. The subject equips students with the ability
+to visualise ideas and propose practical design solutions for real-world
+contexts.</p>
+<p>Students are guided through a structured <strong>Design Process</strong> that
+integrates thinking and doing. This process encourages thoughtful decision-making
+and the use of visual language in the design of solutions.
+<br>Students learn freehand sketching and drawing skills to visually explore,
+generate, reason, and develop design ideas. They also engage in <strong>3D manipulation</strong>,
+creating quick mock-ups and working with resistant materials. These tactile
+experiences allow students to tinker, test, and evaluate ideas before refining
+their final design proposals.</p>
+<p>Through these learning experiences, students apply their knowledge and
+skills to create functional prototypes and leverage appropriate technology
+to fulfil the intended purpose of their designs.</p>
+<hr>
 <p></p>
+<h3><strong>Art Unit</strong></h3>
+<p>The Art Unit in the Whitley Secondary School Aesthetics Department aims
+to enable every Whitleyan to enjoy art and develop fundamental art skills
+to communicate visually and connect with society and culture. The art curriculum
+is developed in close alignment with the MOE Art Syllabus.</p>
+<p>Students develop observation, drawing, and rendering skills, as well as
+composition techniques, brainstorming, research and processing skills,
+visual inquiry, and art appreciation. At the Upper Secondary level, students
+demonstrate greater independence and take ownership of their art-making
+processes through projects and coursework.</p>
+<p>As an academic subject, art supports the holistic development of students
+by strengthening their sense of identity and cultural awareness. It builds
+their capacity to be discerning in processing visual information and enables
+effective communication in the 21st century. Students are also stretched
+through participation in art competitions such as the <em>Draw My Stamp Story Art Competition</em>.</p>
+<hr>
+<h3><strong>Music Unit</strong></h3>
+<p>The Music Unit in the Whitley Secondary School Aesthetics Department aims
+to develop students’ ability to perform and create music, listen and respond
+using appropriate musical terminology, and appreciate music in both local
+and global contexts.</p>
+<p>Through the two-year <strong>General Music Programme</strong> at the Lower
+Secondary level, students learn and practise a range of musical instruments
+such as basic percussion, guitar, and keyboard. Students explore musical
+creativity through songwriting and composition modules using e-platforms
+such as Google Song Maker and BandLab.</p>
+<p>The programme develops students’ creative expression and communication
+skills, fosters an awareness of music across cultures, and provides a foundational
+grounding for informed and lifelong engagement with music.</p>
+<hr>
+<p></p>
+<h3><strong>Nutrition and Food Science Unit</strong></h3>
+<p>The Nutrition and Food Science Unit in the Whitley Secondary School Aesthetics
+Department aims to empower students to be health-conscious and discerning
+consumers who are able to make informed food choices in the present and
+the future.</p>
+<p>Students engage in hands-on practical sessions in the kitchen, benefiting
+from experiential learning and high levels of engagement. They learn a
+range of cooking methods and acquire basic culinary skills, including knife
+skills such as chopping, slicing, and dicing, as well as cake and pastry-making
+techniques. Students also participate in sensory evaluation activities
+conducted in the classroom.</p>
+<p>Through structured coursework, Secondary 1 students improve the nutritional
+value of a popular hawker dish, while Secondary 2 students examine the
+role of ingredients in cakes and develop their ability to evaluate food
+options. These experiences enable students to apply knowledge and skills
+meaningfully and develop practical competencies beyond the classroom.</p>
