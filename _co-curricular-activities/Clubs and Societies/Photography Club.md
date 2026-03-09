@@ -8,10 +8,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
-<h3><strong>Photography Club</strong></h3>
 <h3>Teachers in Charge</h3>
-<p>Ng Kai Yong:&nbsp;<a href="mailto:ng_kai_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kai_yong@schools.gov.sg</a>
-<br>Mdm Shermane Yeo: <a href="mailto:shermane_yeo_geok_lang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shermane_yeo_geok_lang@schools.gov.sg</a>
+<p>Ng Kai Yong:&nbsp;<a href="mailto:ng_kai_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kai_yong</a><a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<br>Mdm Shermane Yeo: <a href="mailto:shermane_yeo_geok_lang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shermane_yeo_geok_lang</a>
+<a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
 </p>
 <h4>Training Schedule</h4>
 <ul data-tight="true" class="tight">
