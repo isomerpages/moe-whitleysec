@@ -8,12 +8,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
-<h3><strong>Girl Guides</strong></h3>
+<h3></h3>
 <h4>Teachers in Charge</h4>
-<p>Miss Heng Hui Hui: <a href="mailto:hui_hui_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hui_hui_heng@schools.gov.sg</a>
-<br>Miss Clarissa Low: <a href="mailto:low_hui_min_clarissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_hui_min_clarissa@schools.gov.sg</a>
-<br>Ms. G. Vani: <a href="mailto:gnanasekaran_vani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gnanasekaran_vani@schools.gov.sg</a>
-<br>Ms Lee Jin Hui [<a href="mailto:Lee_Jin_Hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Jin_Hui@schools.gov.sg</a>]</p>
+<p>Miss Heng Hui Hui: <a href="mailto:hui_hui_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hui_hui_heng@moe.edu.sg</a>
+<br>Miss Clarissa Low: <a href="mailto:low_hui_min_clarissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_hui_min_clarissa</a>
+<a href="mailto:hui_hui_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<br>Ms. G. Vani: <a href="mailto:gnanasekaran_vani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gnanasekaran_vani</a>
+<a href="mailto:hui_hui_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<br>Ms Lee Jin Hui [<a href="mailto:Lee_Jin_Hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Jin_Hui</a><a href="mailto:hui_hui_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>]</p>
 <p></p>
 <h3>Training Schedule</h3>
 <p><strong>Days:</strong> Thursdays
