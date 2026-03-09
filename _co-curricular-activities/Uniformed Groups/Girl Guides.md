@@ -8,7 +8,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
-<h3><strong>Girl Guides</strong></h3>
 <h4>Teachers in Charge</h4>
 <p>Miss Heng Hui Hui: <a href="mailto:hui_hui_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hui_hui_heng@moe.edu.sg</a>
 <br>Miss Clarissa Low: <a href="mailto:low_hui_min_clarissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_hui_min_clarissa</a>
