@@ -8,7 +8,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
-<h3><strong>National Police Cadets Corp</strong></h3>
 <p>Miss Tifany Tay: <a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tifany_tay_jing_wen@moe.edu.sg</a>
 <br>Mr. Valentino Lee: <a href="mailto:valentino_lee_hok_chiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">valentino_lee_hok_chiong</a>
 <a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
