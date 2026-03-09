@@ -8,11 +8,13 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
-<h3><strong>Concert Band</strong></h3>
 <h4>Teachers in Charge</h4>
-<p>Ms Amanda Yew: <a href="mailto:yew_hui_shan_amanda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yew_hui_shan_amanda@schools.gov.sg</a>
-<br>Mdm Shermane Yeo: <a href="mailto:shermane_yeo_geok_lang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shermane_yeo_geok_lang@schools.gov.sg</a>
-<br>Ms Tuty Asmary: <a href="mailto:tuty_asmary_subarjono@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tuty_asmary_subarjono@schools.gov.sg</a>
+<p>Ms Amanda Yew: <a href="mailto:yew_hui_shan_amanda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yew_hui_shan_amanda</a>
+<a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<br>Mdm Shermane Yeo: <a href="mailto:shermane_yeo_geok_lang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shermane_yeo_geok_lang</a>
+<a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<br>Ms Tuty Asmary: <a href="mailto:tuty_asmary_subarjono@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tuty_asmary_subarjono</a>
+<a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
 </p>
 <h4>Training Schedule</h4>
 <p>Days: Tuesdays and Thursdays
