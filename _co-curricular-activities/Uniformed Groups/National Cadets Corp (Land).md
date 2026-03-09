@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h3><strong>National Cadets Corp (Land)</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
+</div>
 <h3>Teachers in Charge</h3>
 <p>Mr Andy Zui: <a href="mailto:andy_zui_wee_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">andy_zui_wee_liang@moe.edu.sg</a>
 </p>
