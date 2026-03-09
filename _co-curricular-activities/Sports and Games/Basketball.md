@@ -8,11 +8,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
-<h3><strong>Basketball</strong></h3>
 <h4>Teachers in Charge</h4>
-<p>Ms. Ng Soo Hoon: <a href="mailto:ng_soo_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_soo_hoon@schools.gov.sg</a>
-<br>Mdm. Zhu Lili: <a href="mailto:zhu_li_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_li_li@schools.gov.sg</a>
-<br>Mr. Daniel:<a href="mailto:mohamed_amin_mohamed_hussa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_amin_mohamed_hussa@schools.gov.sg</a>
+<p>Ms. Ng Soo Hoon: <a href="mailto:ng_soo_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_soo_hoon</a><a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<br>Mdm. Zhu Lili: <a href="mailto:zhu_li_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_li_li</a>
+<a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<br>Mr. Daniel:<a href="mailto:mohamed_amin_mohamed_hussa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_amin_mohamed_hussa</a>
+<a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
 <br>
 <br>
 </p>
