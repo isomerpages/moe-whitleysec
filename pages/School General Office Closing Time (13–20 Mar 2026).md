@@ -4,11 +4,58 @@ permalink: /school-general-office-closing-time-13-20-mar-2026/
 variant: tiptap
 description: ""
 ---
-<p>Please note the School and General Office closing times from <strong>13 to 20 March 2026</strong>.
-On <strong>Friday, 13 March 2026</strong>, the school will close at <strong>6.00 pm</strong> and
-the General Office will close at <strong>5.30 pm</strong>.
-<br>
-<br>During the <strong>school holidays from 16 to 20 March 2026</strong>, the
-school will close at <strong>6.30 pm</strong>, while the General Office
-will close at <strong>6.00 pm</strong>.</p>
-<p>Please take note of the above closing times.</p>
+<h4><strong>Term 1</strong></h4>
+<p>Please note the School and General Office closing times from <strong>13 to 20 March 2026</strong>.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>General Office Closure Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>School Closure Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 March 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eat with Your Family Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.00 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 to 20 March 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Holiday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.30 pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
