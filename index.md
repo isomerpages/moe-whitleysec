@@ -21,10 +21,6 @@ sections:
       title: Announcements
       id: textcards
       cards:
-        - title: Release of GCE 'O' Level Examinations
-          description: ""
-          linktext: More Info
-          url: /gce-o-level-results-release/
         - title: 2026 HBL Schedule
           description: ""
           linktext: More Info
@@ -33,4 +29,8 @@ sections:
           description: ""
           linktext: Click to register
           url: https://go.gov.sg/sec1psg2026
+        - title: School General Office Closing Time
+          description: ""
+          linktext: More Info
+          url: /school-general-office-closing-time-13-20-mar-2026/
 ---

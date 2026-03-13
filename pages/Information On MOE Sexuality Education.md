@@ -57,9 +57,8 @@ more information on MOE Sexuality Education.</p>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click here (
-<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>) for more information
-on the scope of Sexuality Education in the school curriculum.</p>
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
+more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>The subjects that incorporate topics on sexuality include:
 <br>a. Science
 <br>b.Character and Citizenship Education (CCE)</p>
@@ -86,33 +85,37 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <h4><strong>At WHITLEY Secondary School, the following Sexuality Education lessons will be taught in 2026</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Sec_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+<p><a href="/files/2026_SED/Sec1_SED_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/SED FILE/2025_SEXUALITY_EDUCATION_LESSONS_IN_CCE___SEC2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
+<p><a href="/files/2026_SED/Sec2_SED_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_3_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/2026_SED/Sec3_SED_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_4_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
+<p><a href="/files/2026_SED/Sec4_SED_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_5_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a>
+<p><a href="/files/2026_SED/Sec5_SED_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a>
 </p>
 </li>
 </ul>
 <h3><strong>eTeens Programme:</strong></h3>
-<p>eTeens is a programme developed by Health Promotion Board, in collaboration
-with the Ministry of Education, to provide Secondary 3 students with accurate
-information on STIs, HIV and protection from a health perspective. eTeens
-is conducted in two segments – a mass talk segment and a classroom-based
-programme. The desired outcome of the eTeens programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
+<p><em>eTeens</em> is a programme that was developed by Health Promotion Board,
+in collaboration with the Ministry of Education, to provide Secondary 3
+students with accurate information on STIs, HIV and protection from a health
+perspective. With the formation of the Communicable Diseases Agency (CDA)
+on 1 April 2025, the programme would now be managed by CDA’s Training and
+Education Division instead of HPB. <em>eTeens</em> is conducted in two segments
+– a mass talk segment and a classroom-based programme. The desired outcome
+of the <em>eTeens</em> programme is that students are empowered to make wise,
+informed and sensible decisions to protect themselves from sexually transmitted
+infectious diseases.</p>
 <p>Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
@@ -145,13 +148,15 @@ Abstinence and upholding family values are the key messages.</p>
 <p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Raise awareness and provide knowledge on:</p>
-<p></p>
-<p>Infectious diseases (STIs and HIV): what it is, how it spreads, how to
-prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).</p>
-<p>
-<br>Managing relationships and risky situations in a healthy way.</p>
+<p><strong>Raise awareness and provide knowledge on:</strong>
+<br>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+what it is, how it spreads, how to prevent infection mainly through ABC
+(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact
+<br>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)
+<br>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+way, including avenues for help-seeking.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3</p>
@@ -178,8 +183,8 @@ of assertiveness and responsible decision-making</p>
 supplementary sexuality education programmes by MOE-approved external providers.</p>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also available <a href="/files/SED_OPT_OUT_Form_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. The completed
-form is to be submitted by 13/02/2026.</p>
+at the start of the year and is also available <a href="/files/2026_SED/SED_OPT_OUT_Form_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. The
+completed form is to be submitted by 13/02/2026.</p>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also available <a href="/files/SED_OPT_OUT_Form_Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. &nbsp;The completed
