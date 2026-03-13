@@ -30,7 +30,7 @@ sections:
           linktext: Click to register
           url: https://go.gov.sg/sec1psg2026
         - title: School/General Office Closing Time
-          description: Card description
+          description: ""
           linktext: More Info
           url: /school-general-office-closing-time-13-20-mar-2026/
 ---
