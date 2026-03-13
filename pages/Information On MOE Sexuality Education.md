@@ -148,16 +148,14 @@ Abstinence and upholding family values are the key messages.</p>
 <p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Raise awareness and provide knowledge on:</p>
-<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+<p><strong>Raise awareness and provide knowledge on:</strong>
+<br>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
 what it is, how it spreads, how to prevent infection mainly through ABC
 (abstinence, being faithful, correct, and consistent condom use), consequences
-and impact</p>
-<p>&nbsp;</p>
-<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
-assertiveness, negotiation to say ‘no’ to peer pressure)</p>
-<p>&nbsp;</p>
-<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+and impact
+<br>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)
+<br>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
 way, including avenues for help-seeking.</p>
 </td>
 <td rowspan="1" colspan="1">
