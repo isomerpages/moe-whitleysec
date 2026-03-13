@@ -21,10 +21,6 @@ sections:
       title: Announcements
       id: textcards
       cards:
-        - title: Release of GCE 'O' Level Examinations
-          description: ""
-          linktext: More Info
-          url: /gce-o-level-results-release/
         - title: 2026 HBL Schedule
           description: ""
           linktext: More Info
