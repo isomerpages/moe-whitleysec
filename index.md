@@ -33,4 +33,8 @@ sections:
           description: ""
           linktext: Click to register
           url: https://go.gov.sg/sec1psg2026
+        - title: School/General Office Closing Time
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
