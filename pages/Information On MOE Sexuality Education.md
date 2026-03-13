@@ -85,33 +85,37 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <h4><strong>At WHITLEY Secondary School, the following Sexuality Education lessons will be taught in 2026</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Sec_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+<p><a href="/files/2026_SED/Sec1_SED_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/SED FILE/2025_SEXUALITY_EDUCATION_LESSONS_IN_CCE___SEC2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
+<p><a href="/files/2026_SED/Sec2_SED_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_3_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/2026_SED/Sec3_SED_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_4_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
+<p><a href="/files/2026_SED/Sec4_SED_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_5_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a>
+<p><a href="/files/2026_SED/Sec5_SED_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a>
 </p>
 </li>
 </ul>
 <h3><strong>eTeens Programme:</strong></h3>
-<p>eTeens is a programme developed by Health Promotion Board, in collaboration
-with the Ministry of Education, to provide Secondary 3 students with accurate
-information on STIs, HIV and protection from a health perspective. eTeens
-is conducted in two segments – a mass talk segment and a classroom-based
-programme. The desired outcome of the eTeens programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
+<p><em>eTeens</em> is a programme that was developed by Health Promotion Board,
+in collaboration with the Ministry of Education, to provide Secondary 3
+students with accurate information on STIs, HIV and protection from a health
+perspective. With the formation of the Communicable Diseases Agency (CDA)
+on 1 April 2025, the programme would now be managed by CDA’s Training and
+Education Division instead of HPB. <em>eTeens</em> is conducted in two segments
+– a mass talk segment and a classroom-based programme. The desired outcome
+of the <em>eTeens</em> programme is that students are empowered to make wise,
+informed and sensible decisions to protect themselves from sexually transmitted
+infectious diseases.</p>
 <p>Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
@@ -145,12 +149,16 @@ Abstinence and upholding family values are the key messages.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Raise awareness and provide knowledge on:</p>
-<p></p>
-<p>Infectious diseases (STIs and HIV): what it is, how it spreads, how to
-prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).</p>
-<p>
-<br>Managing relationships and risky situations in a healthy way.</p>
+<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+what it is, how it spreads, how to prevent infection mainly through ABC
+(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact</p>
+<p>&nbsp;</p>
+<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)</p>
+<p>&nbsp;</p>
+<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+way, including avenues for help-seeking.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3</p>
