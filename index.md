@@ -29,7 +29,7 @@ sections:
           description: ""
           linktext: Click to register
           url: https://go.gov.sg/sec1psg2026
-        - title: School/General Office Closing Time
+        - title: School General Office Closing Time
           description: ""
           linktext: More Info
           url: /school-general-office-closing-time-13-20-mar-2026/
