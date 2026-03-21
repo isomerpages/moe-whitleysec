@@ -21,16 +21,16 @@ sections:
       title: Announcements
       id: textcards
       cards:
-        - title: 2026 HBL Schedule
-          description: ""
-          linktext: More Info
-          url: https://drive.google.com/file/d/1tuQnyeF7mr3tBEZwzx0C2NfCfjtPLY6K/view?usp=drive_link
-        - title: Parent Support Group (PSG) Registration
-          description: ""
-          linktext: Click to register
-          url: https://go.gov.sg/sec1psg2026
         - title: School General Office Closing Time
           description: ""
           linktext: More Info
           url: /school-general-office-closing-time-13-20-mar-2026/
+        - title: Parent Support Group (PSG) Registration
+          description: ""
+          linktext: Click to register
+          url: https://go.gov.sg/sec1psg2026
+        - title: 2026 HBL Schedule
+          description: ""
+          linktext: More Info
+          url: https://drive.google.com/file/d/1tuQnyeF7mr3tBEZwzx0C2NfCfjtPLY6K/view?usp=drive_link
 ---
