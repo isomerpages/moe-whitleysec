@@ -56,6 +56,20 @@ description: ""
 <p>6.30 pm</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 March 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hari Raya Puasa (Off-in-lieu)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Closed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Closed</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
