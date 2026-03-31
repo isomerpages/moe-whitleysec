@@ -8,11 +8,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
-<p>Miss Tifany Tay: <a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tifany_tay_jing_wen@moe.edu.sg</a>
-<br>Mr. Valentino Lee: <a href="mailto:valentino_lee_hok_chiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">valentino_lee_hok_chiong</a>
-<a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
-<br>Ms Nabilah Syahirah: <a href="mailto:nabilah_syahirah_abdul_fatah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nabilah_syahirah_abdul_fatah</a>
-<a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<h4>Teachers in Charge</h4>
+<p>Miss Tifany Tay: <a href="mailto:tifany_tay_jing_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tifany_tay_jing_wen@moe.edu.sg</a>
+<br>Mr. Valentino Lee: <a href="mailto:valentino_lee_hok_chiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">valentino_lee_hok_chiong@moe.edu.sg</a>
+<br>Ms Nabilah Syahirah: <a href="mailto:nabilah_syahirah_abdul_fatah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nabilah_syahirah_abdul_fatah@moe.edu.sg</a>
+<br>Ms Joyce Mah: <a href="mailto:mah_min_hui_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mah_min_hui_joyce@moe.edu.sg</a>
+<br>Ms Sheryl Poon: <a href="mailto:poon_li_yi_sheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poon_li_yi_sheryl@moe.edu.sg</a>
 </p>
 <h4>Training Schedule</h4>
 <p>Days: Thursdays

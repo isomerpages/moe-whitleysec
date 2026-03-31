@@ -9,9 +9,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
 <h4>Teachers in Charge</h4>
-<p>Mr. Faizal Bin Mohamad: <a href="mailto:faizal_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">faizal_mohamad</a><a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
-<br>Miss Letchumi: <a href="mailto:s_letchumi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">s_letchumi</a>
-<a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p>Mr. Faizal Bin Mohamad: <a href="mailto:faizal_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faizal_mohamad@moe.edu.sg</a>
+<br>Miss Letchumi: <a href="mailto:s_letchumi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">s_letchumi@moe.edu.sg</a>
 </p>
 <h4>Training Schedule</h4>
 <p>Days: Tuesdays and Thursdays

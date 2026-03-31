@@ -9,11 +9,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
 <h4>Teachers in Charge</h4>
-<p>Ms. Ng Soo Hoon: <a href="mailto:ng_soo_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_soo_hoon</a><a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p>Miss Heng Hui Hui: <a href="mailto:hui_hui_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hui_hui_heng@moe.edu.sg</a>
+<br>Ms. Ng Soo Hoon: <a href="mailto:ng_soo_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_soo_hoon@moe.edu.sg</a>
 <br>Mdm. Zhu Lili: <a href="mailto:zhu_li_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_li_li</a>
-<a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
-<br>Mr. Daniel:<a href="mailto:mohamed_amin_mohamed_hussa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_amin_mohamed_hussa</a>
-<a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<a href="mailto:tifany_tay_jing_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<br>Mr. Daniel:<a href="mailto:mohamed_amin_mohamed_hussa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_amin_mohamed_hussa@moe.edu.sg</a>
 <br>
 <br>
 </p>
