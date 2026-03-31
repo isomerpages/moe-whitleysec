@@ -32,7 +32,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/co-curricular-activities/Uniformed-Groups/GirlGuides"><img style="width:95%" height="auto" width="100%" src="/images/cca3.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/co-curricular-activities/Uniformed-Groups/GirlGuides/permalink/"><img style="width:95%" height="auto" width="100%" src="/images/cca3.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
