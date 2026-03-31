@@ -9,9 +9,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
 <h4>Teachers in Charge</h4>
-<p>Miss Lee Shin Jiu: <a href="mailto:lee_shin_jiu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_shin_jiu</a><a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
-<br>Mrs. Engel Lim: <a href="mailto:teo_huei_huei_engel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_huei_huei_engel</a>
-<a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p>Miss Lee Shin Jiu: <a href="mailto:lee_shin_jiu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_shin_jiu@moe.edu.sg</a>
+<br>Mrs. Engel Lim: <a href="mailto:teo_huei_huei_engel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_huei_huei_engel@moe.edu.sg</a>
 </p>
 <h4>Training Schedule</h4>
 <p><strong>Days</strong>: Tuesdays and Thursdays
