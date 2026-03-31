@@ -9,7 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
 <h3>Teachers in Charge</h3>
-<p>Ng Kai Yong:&nbsp;<a href="mailto:ng_kai_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kai_yong</a><a href="mailto:tifany_tay_jing_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p>Ng Kai Yong:&nbsp;<a href="mailto:ng_kai_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kai_yong@moe.edu.sg</a>
 <br>Mdm Shermane Yeo: <a href="mailto:shermane_yeo_geok_lang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shermane_yeo_geok_lang@moe.edu.sg</a>
 </p>
 <h4>Training Schedule</h4>
