@@ -9,12 +9,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
 <h3>Teachers in Charge</h3>
-<p>Miss Lee Sok Kum: <a href="mailto:lee_sok_kum@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sok_kum</a><a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
-<br>Ms Lim Eu Boon:&nbsp;<a href="mailto:lim_eu_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_eu_boon</a><a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
-<br>Mr Jimmy Wang:&nbsp;<a href="mailto:jimmy_wang_hung_keat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jimmy_wang_hung_keat</a>
-<a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
-<br>Miss Charlene Tan: <a href="mailto:tan_seow_li_charlene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_seow_li_charlene</a>
-<a href="mailto:tifany_tay_jing_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p>Miss Lee Sok Kum: <a href="mailto:lee_sok_kum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sok_kum@moe.edu.sg</a>
+<br>Ms Lim Eu Boon:&nbsp;<a href="mailto:lim_eu_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_eu_boon@moe.edu.sg</a>
+<br>Mr Jimmy Wang:&nbsp;<a href="mailto:jimmy_wang_hung_keat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jimmy_wang_hung_keat@moe.edu.sg</a>
+<br>Miss Charlene Tan: <a href="mailto:tan_seow_li_charlene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_seow_li_charlene@moe.edu.sg</a>
 </p>
 <h4>Training Schedule</h4>
 <ul data-tight="true" class="tight">
