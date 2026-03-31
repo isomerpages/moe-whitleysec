@@ -36,7 +36,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:95%" height="auto" width="100%" src="/images/cca4.png">
+<img style="width:95%" height="auto" width="100%" alt="/co-curricular-activities/uniformed-groups/national-cadets-corp-land/" src="/images/cca4.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
