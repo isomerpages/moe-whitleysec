@@ -24,7 +24,7 @@ sections:
         - title: 2026 Direct School Admission (DSA)
           description: ""
           linktext: More Info
-          url: ""
+          url: /direct-school-admission-2026/
         - title: Parent Support Group (PSG) Registration
           description: ""
           linktext: Click to register
