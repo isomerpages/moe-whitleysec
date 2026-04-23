@@ -174,8 +174,7 @@ and has the passion for the community and heart to serve others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/whitley_student_leadership_photo.png">
 </div>
-<p><strong><em>Student Leadership Opportunities</em></strong>
-</p>
+<h4><strong><em>Student Leadership Opportunities</em></strong></h4>
 <p>The table below outlines the formal leadership opportunities that are
 available to students that they can use to challenge themselves.</p>
 <table style="minWidth: 50px">
@@ -262,8 +261,7 @@ that include:</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em>Growth Model for Student Leaders</em></strong>
-</p>
+<h4><strong><em>Growth Model for Student Leaders</em></strong></h4>
 <p></p>
 </li>
 <li>
@@ -286,8 +284,7 @@ to develop their social-emotional competencies as they grow in self-awareness
 and learn how to manage relationships. They will also grow in their emerging
 21 century competencies such as critical, adaptive and inventive thinking.</p>
 <p></p>
-<p><strong><em>Selection Criteria and Process</em></strong>
-</p>
+<h4><strong><em>Selection Criteria and Process</em></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
