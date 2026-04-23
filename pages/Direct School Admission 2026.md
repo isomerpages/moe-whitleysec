@@ -159,6 +159,8 @@ or international level, is an advantage.</p>
 </li>
 </ol>
 <h3><strong><em>(2) Student Leadership @ Whitley Secondary School</em></strong></h3>
+<ol data-tight="true" class="tight">
+<li>
 <p>At Whitley Secondary school, we firmly believe in the importance of student
 leadership as reflected in our school mission: “To nurture Whitleyans to
 be Exemplary Leaders with the Heart to Care and the Will to Learn”. The
@@ -168,10 +170,8 @@ and has the passion for the community and heart to serve others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/whitley_student_leadership_photo.png">
 </div>
-<p></p>
-<h4><strong><em>Student Leadership Opportunities</em></strong></h4>
-<ol data-tight="true" class="tight">
-<li>
+<p><strong><em>Student Leadership Opportunities</em></strong>
+</p>
 <p>The table below outlines the formal leadership opportunities that are
 available to students that they can use to challenge themselves.</p>
 <table style="minWidth: 50px">
@@ -238,10 +238,11 @@ available to students that they can use to challenge themselves.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 </li>
 <li>
-<p>&nbsp;In addition to that, there are other Student Leadership development
-platforms that include:</p>
+<p>In addition to that, there are other Student Leadership development platforms
+that include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Active Citizen for Social Change (ACSC) Programme</p>
@@ -254,13 +255,13 @@ platforms that include:</p>
 </li>
 <li>
 <p>Overseas Service Learning Trip</p>
-<p></p>
 </li>
 </ul>
+<p></p>
+<p><strong><em>Growth Model for Student Leaders</em></strong>
+</p>
+<p></p>
 </li>
-</ol>
-<h3><strong><em>Growth Model for Student Leaders</em></strong></h3>
-<ol data-tight="true" class="tight">
 <li>
 <p>Students who assume formal leadership roles will undergo and participate
 in intentionally designed learning experiences to equip and challenge them
@@ -281,7 +282,8 @@ to develop their social-emotional competencies as they grow in self-awareness
 and learn how to manage relationships. They will also grow in their emerging
 21 century competencies such as critical, adaptive and inventive thinking.</p>
 <p></p>
-<h4><strong><em>Selection Criteria and Process</em></strong></h4>
+<p><strong><em>Selection Criteria and Process</em></strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -308,35 +310,17 @@ and learn how to manage relationships. They will also grow in their emerging
 <p>Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Applicants should have</p>
-</li>
-<li>
 <p>attained at least a Very Good for their conduct grade,</p>
-</li>
-<li>
 <p>assumed leadership position(s) in primary school e.g. CCA, class committee,</p>
-</li>
-<li>
 <p>possess character attributes that display discipline, integrity, responsibility,
 resilience, empathy and</p>
-</li>
-<li>
 <p>have actively participated in school and/or community projects.</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted applicants will be asked to</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>attend an interview, and</p>
-</li>
-<li>
 <p>prepare a portfolio to showcase their leadership experiences.</p>
-</li>
-</ul>
 </td>
 </tr>
 </tbody>
