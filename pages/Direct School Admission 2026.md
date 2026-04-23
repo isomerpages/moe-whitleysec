@@ -160,6 +160,7 @@ or international level, is an advantage.</p>
 <li>
 <p><em>Applicants who do not have prior experience in public speaking and debating may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em>
 </p>
+<hr>
 </li>
 </ol>
 <h3><strong><em>(2) Student Leadership @ Whitley Secondary School</em></strong></h3>
