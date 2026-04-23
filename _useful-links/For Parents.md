@@ -70,7 +70,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.whitleysec.moe.edu.sg/student-leadership/" rel="noopener noreferrer nofollow" target="_blank">Leadership and Character</a>
+<p><a href="https://www.whitleysec.moe.edu.sg/direct-school-admission-2026/" rel="noopener noreferrer nofollow" target="_blank">Leadership and Character</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,7 +79,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.whitleysec.moe.edu.sg/public-speaking-and-debate/" rel="noopener noreferrer nofollow" target="_blank">Public Speaking and Debate</a>
+<p><a href="https://www.whitleysec.moe.edu.sg/direct-school-admission-2026/" rel="noopener noreferrer nofollow" target="_blank">Public Speaking and Debate</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
