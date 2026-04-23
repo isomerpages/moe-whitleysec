@@ -23,7 +23,7 @@ sections:
       cards:
         - title: 2026 Direct School Admission (DSA)
           description: ""
-          linktext: Learn more
+          linktext: More Info
           url: ""
         - title: Parent Support Group (PSG) Registration
           description: ""
