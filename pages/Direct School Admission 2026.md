@@ -84,6 +84,10 @@ the area of talent.</p>
 <p>In today’s world, the ability to speak clearly and think critically matters.
 At Whitley Secondary School, our 4-year Communicative Arts Programme gives
 you a clear pathway to grow as a confident communicator.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_23_at_2_19_57_PM.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Secondary 1</strong>: Build confidence through dramatic storytelling
