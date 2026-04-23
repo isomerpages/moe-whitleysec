@@ -21,10 +21,10 @@ sections:
       title: Announcements
       id: textcards
       cards:
-        - title: School General Office Closing Time
+        - title: 2026 Direct School Admission (DSA)
           description: ""
-          linktext: More Info
-          url: /school-general-office-closing-time-13-20-mar-2026/
+          linktext: Learn more
+          url: ""
         - title: Parent Support Group (PSG) Registration
           description: ""
           linktext: Click to register
@@ -33,4 +33,8 @@ sections:
           description: ""
           linktext: More Info
           url: https://drive.google.com/file/d/1tuQnyeF7mr3tBEZwzx0C2NfCfjtPLY6K/view?usp=drive_link
+        - title: School General Office Closing Time
+          description: ""
+          linktext: More Info
+          url: /school-general-office-closing-time-13-20-mar-2026/
 ---
