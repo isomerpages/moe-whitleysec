@@ -830,8 +830,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_seow_li_charlene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_seow_li_charlene@moe.edu.sg</a>
-</p>
+<p>tan_seow_li_charlene@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1535,4 +1534,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="mailto:tan_seow_li_charlene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_seow_li_charlene@moe.edu.sg</a>
+</p>
