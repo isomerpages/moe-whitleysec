@@ -9,9 +9,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
 <h3>Teachers in Charge</h3>
-<p>Ng Kai Yong:&nbsp;ng_kai_yong@moe.edu.sg
+<p>Mr Ng Kai Yong:&nbsp;ng_kai_yong@moe.edu.sg
 <br>Mdm Shermane Yeo: shermane_yeo_geok_lang@moe.edu.sg
-<br>Ms Michel Lim: lim_bei-yi_michelle@schools.gov.sg</p>
+<br>Miss Michel Lim: lim_bei-yi_michelle@schools.gov.sg</p>
 <h4>Training Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
