@@ -9,8 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
 <h4>Teachers in Charge</h4>
-<p>Miss Christine Chin:&nbsp;<a href="mailto:chin_siew_kin_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_siew_kin_christine@moe.edu.sg</a>
-</p>
+<p>Miss Christine Chin</p>
 <h4>Training Details</h4>
 <ul data-tight="true" class="tight">
 <li>
