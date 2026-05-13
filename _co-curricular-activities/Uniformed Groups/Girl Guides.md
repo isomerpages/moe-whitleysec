@@ -10,13 +10,9 @@ variant: tiptap
 </div>
 <h3></h3>
 <h4>Teachers in Charge</h4>
-<p>Miss Clarissa Low: <a href="mailto:low_hui_min_clarissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_hui_min_clarissa</a>
-<a href="mailto:hui_hui_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
-<br>Ms. G. Vani: <a href="mailto:gnanasekaran_vani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gnanasekaran_vani@moe.edu.sg</a>
-<br>Ms Lee Jin Hui: <a href="mailto:Lee_Jin_Hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Jin_Hui</a>
-<a href="mailto:hui_hui_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
-</p>
-<p></p>
+<p>Miss Clarissa Low: low_hui_min_clarissa@moe.edu.sg
+<br>Ms. G. Vani: gnanasekaran_vani@moe.edu.sg
+<br>Ms Lee Jin Hui: Lee_Jin_Hui@moe.edu.sg</p>
 <h3>Training Schedule</h3>
 <p><strong>Days:</strong> Thursdays
 <br><strong>Time:</strong> 3:00 PM - 6:00 PM</p>
