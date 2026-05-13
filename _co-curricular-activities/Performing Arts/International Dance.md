@@ -9,9 +9,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
 <h4>Teachers in Charge</h4>
-<p>Ms. Tan Boon Ya: <a href="mailto:tan_boon_ya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_ya@moe.edu.sg</a>
-<br>Ms. Kalaivani: <a href="mailto:kalaivani_pookays@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalaivani_pookays@moe.edu.sg</a>
-</p>
+<p>Ms. Tan Boon Ya: tan_boon_ya@moe.edu.sg
+<br>Mdm Hanim Bte Shaik Noh: hanim_shaik_noh@moe.edu.sg</p>
 <h4>Training Schedule</h4>
 <p>Days: Tuesdays and Thursdays
 <br>Time: 2:45 PM - 5:45 PM

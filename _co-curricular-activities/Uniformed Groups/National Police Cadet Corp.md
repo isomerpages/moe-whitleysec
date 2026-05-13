@@ -9,12 +9,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
 <h4>Teachers in Charge</h4>
-<p>Miss Tifany Tay: <a href="mailto:tifany_tay_jing_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tifany_tay_jing_wen@moe.edu.sg</a>
-<br>Mr. Valentino Lee: <a href="mailto:valentino_lee_hok_chiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">valentino_lee_hok_chiong@moe.edu.sg</a>
-<br>Ms Nabilah Syahirah: <a href="mailto:nabilah_syahirah_abdul_fatah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nabilah_syahirah_abdul_fatah@moe.edu.sg</a>
-<br>Ms Joyce Mah: <a href="mailto:mah_min_hui_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mah_min_hui_joyce@moe.edu.sg</a>
-<br>Ms Sheryl Poon: <a href="mailto:poon_li_yi_sheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poon_li_yi_sheryl@moe.edu.sg</a>
-</p>
+<p>Miss Tifany Tay: tifany_tay_jing_wen@moe.edu.sg
+<br>Mr. Valentino Lee: valentino_lee_hok_chiong@moe.edu.sg
+<br>Ms Nabilah Syahirah: nabilah_syahirah_abdul_fatah@moe.edu.sg
+<br>Ms Joyce Mah: mah_min_hui_joyce@moe.edu.sg
+<br>Ms Sheryl Poon: poon_li_yi_sheryl@moe.edu.sg</p>
 <h4>Training Schedule</h4>
 <p>Days: Thursdays
 <br>Time: 3:00 PM - 6:00 PM</p>

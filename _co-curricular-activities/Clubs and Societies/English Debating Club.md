@@ -9,12 +9,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
 <h4>Teachers in Charge</h4>
-<p>Ms Daphne Li <a href="mailto:li_weixiang_daphne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_weixiang_daphne@moe.edu.sg</a>
-<br>Ms Lee Yi Wen <a href="mailto:lee_yi_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yi_wen</a>
-<a href="mailto:tifany_tay_jing_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
-<br>Ms Priscilla Tang <a href="mailto:tang_si_ying_priscilla@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_si_ying_priscilla</a>
-<a href="mailto:tifany_tay_jing_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
-</p>
+<p>Ms Daphne Li: li_weixiang_daphne@moe.edu.sg
+<br>Ms Lee Yi Wen: lee_yi_wen@moe.edu.sg
+<br>Ms Michel Lim: lim_bei-yi_michelle@schools.gov.sg</p>
 <h4>Training Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>

@@ -9,10 +9,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
 <h4>Teachers in Charge</h4>
-<p>Ms Amanda Yew: <a href="mailto:yew_hui_shan_amanda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yew_hui_shan_amanda@moe.edu.sg</a>
-<br>Mdm Shermane Yeo: <a href="mailto:shermane_yeo_geok_lang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shermane_yeo_geok_lang@moe.edu.sg</a>
-<br>Ms Tuty Asmary: <a href="mailto:tuty_asmary_subarjono@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tuty_asmary_subarjono@moe.edu.sg</a>
-</p>
+<p>Ms Amanda Yew: yew_hui_shan_amanda@moe.edu.sg
+<br>Mdm Shermane Yeo: shermane_yeo_geok_lang@moe.edu.sg
+<br>Ms Tuty Asmary: tuty_asmary_subarjono@moe.edu.sg</p>
 <h4>Training Schedule</h4>
 <p>Days: Tuesdays and Thursdays
 <br>Time: 2.45 PM - 5.45 PM
