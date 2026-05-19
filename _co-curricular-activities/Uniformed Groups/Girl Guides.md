@@ -15,11 +15,11 @@ variant: tiptap
 <h3>Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Puan Noor Aishah Award 2022 - Gold</strong>
+<p><strong>2022 Puan Noor Aishah Award - Gold</strong>
 </p>
 </li>
 <li>
-<p><strong>Puan Noor Aishah Award 2023 - Gold</strong>
+<p><strong>2023 Puan Noor Aishah Award - Gold</strong>
 </p>
 </li>
 <li>
@@ -27,11 +27,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Puan Noor Aishah Award 2024 - Gold</strong>
+<p><strong>2024 Puan Noor Aishah Award - Gold</strong>
 </p>
 </li>
 <li>
-<p><strong>Puan Noor Aishah Award 2025 - Gold</strong>
+<p><strong>2025 Puan Noor Aishah Award  - Gold</strong>
 </p>
 <p></p>
 </li>
