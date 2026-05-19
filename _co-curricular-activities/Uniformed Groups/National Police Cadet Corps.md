@@ -6,36 +6,39 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h4>Teachers in Charge</h4>
-<p>Mr. Valentino Lee: <a href="mailto:valentino_lee_hok_chiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">valentino_lee_hok_chiong@moe.edu.sg</a> 
-</p>
-<p>Miss Tifany Tay: <a href="mailto:tifany_tay_jing_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tifany_tay_jing_wen@moe.edu.sg</a> 
-</p>
-<p>Ms Nabilah Syahirah: <a href="mailto:nabilah_syahirah_abdul_fatah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nabilah_syahirah_abdul_fatah@moe.edu.sg</a> 
-</p>
-<p>Ms Joyce Mah: <a href="mailto:mah_min_hui_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mah_min_hui_joyce@moe.edu.sg</a> 
-</p>
-<p>Ms Sheryl Poon: <a href="mailto:poon_li_yi_sheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poon_li_yi_sheryl@moe.edu.sg</a>
-</p>
+<p>Mr. Valentino Lee: valentino_lee_hok_chiong@moe.edu.sg</p>
+<p>Miss Tifany Tay: tifany_tay_jing_wen@moe.edu.sg</p>
+<p>Ms Nabilah Syahirah: nabilah_syahirah_abdul_fatah@moe.edu.sg</p>
+<p>Ms Joyce Mah: mah_min_hui_joyce@moe.edu.sg</p>
+<p>Ms Sheryl Poon: poon_li_yi_sheryl@moe.edu.sg</p>
 <h4>Training Schedule</h4>
 <p>Days: Thursdays
 <br>Time: 3:00 PM - 6:00 PM</p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>2022 Unit Overall Proficiency Award - Distinction</p>
+<p><strong>2022 Unit Overall Proficiency Award - Distinction</strong>
+</p>
 </li>
 <li>
-<p>2023 Unit Overall Proficiency Award - Distinction</p>
+<p><strong>2023 Unit Overall Proficiency Award - Distinction</strong>
+</p>
 </li>
 <li>
-<p>2024 Unit Overall Proficiency Award - Distinction</p>
+<p><strong>2024 Unit Overall Proficiency Award - Distinction</strong>
+</p>
 </li>
 <li>
-<p>2024 SPF-NPCC Badge Awardee - Cayla Soh (4E)</p>
+<p><strong>2024 SPF-NPCC Badge Awardee - Cayla Soh (4E)</strong>
+</p>
 </li>
 <li>
-<p>2025 SPF-NPCC Badge Awardees - Kanzulhaseen Mohamed Zabir Khan (4L) And
-Marcellius Melvin Wijaya (4D)</p>
+<p><strong>2025 SPF-NPCC Badge Awardees - Kanzulhaseen Mohamed Zabir Khan (4L) And Marcellius Melvin Wijaya (4D)</strong>
+</p>
+</li>
+<li>
+<p><strong>2025 Unit Overall Proficiency Award - Distinction</strong>
+</p>
 </li>
 </ul>
 <table style="minWidth: 100px">
