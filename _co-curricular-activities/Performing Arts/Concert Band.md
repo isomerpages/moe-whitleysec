@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
-</div>
 <h4>Teachers in Charge</h4>
 <p>Ms Amanda Yew: yew_hui_shan_amanda@moe.edu.sg
 <br>Mdm Shermane Yeo: shermane_yeo_geok_lang@moe.edu.sg
