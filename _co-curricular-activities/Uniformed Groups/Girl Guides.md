@@ -29,6 +29,10 @@ variant: tiptap
 <li>
 <p><strong>Puan Noor Aishah Award 2024 - Gold</strong>
 </p>
+</li>
+<li>
+<p><strong>Puan Noor Aishah Award 2025 - Gold</strong>
+</p>
 <p></p>
 </li>
 </ul>
