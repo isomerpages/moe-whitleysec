@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
-</div>
 <h3>Teachers in Charge</h3>
 <p>Mr Andy Zui: andy_zui_wee_liang@moe.edu.sg
 <br>Mr Krishan Sanjay Mahesh: krishan_sanjay_mahesh@moe.edu.sg
