@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
-</div>
 <h3>Teachers in Charge</h3>
 <p>Miss Lee Sok Kum: lee_sok_kum@moe.edu.sg
 <br>Ms Lim Eu Boon:&nbsp;lim_eu_boon@moe.edu.sg
