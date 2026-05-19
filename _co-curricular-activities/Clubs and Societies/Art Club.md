@@ -22,8 +22,10 @@ variant: tiptap
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore International Original Comics Competition - Bronze (Tan Wan
-Yu Zoe 4R)</p>
+<p>2025 Land Transport Authority: Upper Thomson MRT Station Artwork Display
+(Eight Whitley Art Club students’ artwork have been selected for display
+on the station's wall panels)</p>
+<p></p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
