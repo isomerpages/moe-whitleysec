@@ -5,10 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
-</div>
-<h3></h3>
 <h4>Teachers in Charge</h4>
 <p>Miss Clarissa Low: low_hui_min_clarissa@moe.edu.sg
 <br>Ms. G. Vani: gnanasekaran_vani@moe.edu.sg
