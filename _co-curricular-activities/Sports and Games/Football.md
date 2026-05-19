@@ -16,6 +16,13 @@ variant: tiptap
 <p>Days: Tuesdays and Thursdays
 <br>Time: 2:45 PM - 5:45 PM
 <br>Venue: School Field</p>
+<h4>Achievements</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>2025 National School Games ‘B’ Div Football (League 4) - Semi-finalists</strong>
+</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/football1.png">
 </div>
