@@ -40,6 +40,14 @@ variant: tiptap
 <p><strong>2025 Unit Overall Proficiency Award - Distinction</strong>
 </p>
 </li>
+<li>
+<p><strong>2026 SPF-NPCC Badge Awardees - Samantha Yeo Zhixuan (4I) and Phoebe Anne Gouw Pei Ling (4E)</strong>
+</p>
+</li>
+<li>
+<p><strong>2026 Station Inspector Rank Awardees - Samantha Yeo Zhixuan (4I) and Sim See Kee Megan (4P)</strong>
+</p>
+</li>
 </ul>
 <table style="minWidth: 100px">
 <colgroup>
