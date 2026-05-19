@@ -5,12 +5,11 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
-</div>
 <h4>Teachers in Charge</h4>
-<p>Miss Lee Shin Jiu: lee_shin_jiu@moe.edu.sg
-<br>Mrs. Engel Lim: teo_huei_huei_engel@moe.edu.sg</p>
+<p>Mrs. Engel Lim: <a href="mailto:teo_huei_huei_engel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_huei_huei_engel@moe.edu.sg</a>
+</p>
+<p>Miss Lee Shin Jiu: <a href="mailto:lee_shin_jiu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_shin_jiu@moe.edu.sg</a> 
+</p>
 <h4>Training Schedule</h4>
 <p><strong>Days</strong>: Tuesdays and Thursdays
 <br><strong>Time</strong>: 2.45PM - 4.45PM
