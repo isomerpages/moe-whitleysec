@@ -26,6 +26,10 @@ variant: tiptap
 <p><strong>2024 Outstanding Cadet Award - Cledera Luis Matteo (4P)</strong>
 </p>
 </li>
+<li>
+<p><strong>2025 National Cadet Corps Unit Recognition - Distinction</strong>
+</p>
+</li>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
