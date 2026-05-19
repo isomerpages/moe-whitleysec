@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
-</div>
 <h4>Teachers in Charge</h4>
 <p>Ms. Tan Boon Ya: tan_boon_ya@moe.edu.sg
 <br>Mdm Hanim Bte Shaik Noh: hanim_shaik_noh@moe.edu.sg</p>
