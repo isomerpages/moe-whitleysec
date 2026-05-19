@@ -20,7 +20,11 @@ variant: tiptap
 <br>Time: 3:00 PM - 6:00 PM
 <br>Venue: School Hall</p>
 <h4>Achievements</h4>
-<p>Participation in National School Games 2022</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2025 National School Games 'C' Division Badminton Girls (League 4) - Champion</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/badminton1.png">
 </div>
