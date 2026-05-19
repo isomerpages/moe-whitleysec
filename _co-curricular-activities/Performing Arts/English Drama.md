@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4>Teachers in Charge</h4>
 <p>Miss Letchumi: s_letchumi@moe.edu.sg</p>
-<p>Mr. Faizal Bin Mohamad: <a href="mailto:faizal_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faizal_mohamad@moe.edu.sg</a> 
+<p>Mr. Faizal Bin Mohamad: <a href="mailto:faizal_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faizal_mohamad@moe.edu.sg</a>
 </p>
 <h4>Training Schedule</h4>
 <p>Days: Tuesdays and Thursdays
@@ -77,9 +77,7 @@ Philippines, and Thailand (August).</p>
 </ul>
 </li>
 <li>
-<p><strong>2025 International Science Drama Competition</strong>
-</p>
-<p><strong>'Managing the Energy Trilemma'</strong>
+<p><strong>2025 International Science Drama Competition 'Managing the Energy Trilemma'</strong>
 </p>
 <p>Singapore Finals: Champion</p>
 <p>Most Outstanding Performer: Shen Haoxiang (1 Empathy)</p>
@@ -90,9 +88,7 @@ Philippines, and Thailand (August).</p>
 </ul>
 </li>
 <li>
-<p><strong>Singapore Youth Festival 2025</strong>
-</p>
-<p><strong>Managing the Energy Trilemma</strong>
+<p><strong>Singapore Youth Festival 2025 Managing the Energy Trilemma</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
