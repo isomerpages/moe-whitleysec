@@ -11,9 +11,9 @@ variant: tiptap
 <h4>Teachers in Charge</h4>
 <p>Miss Heng Hui Hui: hui_hui_heng@moe.edu.sg
 <br>Ms. Ng Soo Hoon: ng_soo_hoon@moe.edu.sg
-<br>Mdm. Zhu Lili: zhu_li_li@moe.edu.sg
-<br>Mr. Daniel:mohamed_amin_mohamed_hussa@moe.edu.sg
-<br>
+<br>Mdm. Zhu Lili : zhu_li_li@moe.edu.sg
+<br>Mr. Daniel :mohamed_amin_mohamed_hussa@moe.edu.sg
+<br><strong>ADD KANI</strong>
 </p>
 <h4>Training Schedule</h4>
 <p><strong>Boys Basketball Training Schedule</strong>
