@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
-</div>
 <h4>Teachers in Charge</h4>
 <p>Ms Kuah Li Wen: kuah_li_wen@moe.edu.sg
 <br>Mr Quek Ting: quek_ting@moe.edu.sg</p>
