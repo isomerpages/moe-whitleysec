@@ -5,17 +5,14 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
-</div>
 <h4>Teachers in Charge</h4>
-<p>Mr. Ryan Ng: ng_hua_yang@moe.edu.sg
-<br>Mr. Jaswant Singh: jaswant_singh_g_singh@moe.edu.sg
-<br>Mr. Alfred Rojes: alfred_rojes@moe.edu.sg</p>
+<p>Mr. Ryan Ng (ng_hua_yang@moe.edu.sg)
+<br>Mr. Jaswant Singh (jaswant_singh_g_singh@moe.edu.sg)
+<br>Mr. Alfred Rojes (alfred_rojes@moe.edu.sg)</p>
 <h4>Training Schedule</h4>
-<p>Days: Tuesdays and Thursdays
-<br>Time: 2:45 PM - 5:45 PM
-<br>Venue: School Field</p>
+<p><strong>Days:</strong> Tuesdays and Thursdays
+<br><strong>Time: </strong>2:45 PM - 5:45 PM
+<br><strong>Venue: </strong>School Field</p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
