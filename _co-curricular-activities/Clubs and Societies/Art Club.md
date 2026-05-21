@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 variant: tiptap
 ---
 <h4>Teachers in Charge</h4>
-<p>Miss Christine Chin:&nbsp;chin_siew_kin_christine@moe.edu.sg</p>
+<p>Miss Christine Chin (chin_siew_kin_christine@moe.edu.sg)</p>
 <h4>Training Details</h4>
 <ul data-tight="true" class="tight">
 <li>
