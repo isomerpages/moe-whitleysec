@@ -6,9 +6,9 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h4>Teachers in Charge</h4>
-<p>Miss Clarissa Low: low_hui_min_clarissa@moe.edu.sg
-<br>Ms. G. Vani: gnanasekaran_vani@moe.edu.sg
-<br>Ms Lee Jin Hui: Lee_Jin_Hui@moe.edu.sg</p>
+<p>Miss Clarissa Low (low_hui_min_clarissa@moe.edu.sg)
+<br>Ms. G. Vani (gnanasekaran_vani@moe.edu.sg)
+<br>Ms Lee Jin Hui (lee_Jin_Hui@moe.edu.sg)</p>
 <h3>Training Schedule</h3>
 <p><strong>Days:</strong> Thursdays
 <br><strong>Time:</strong> 3:00 PM - 6:00 PM</p>
@@ -31,7 +31,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>2025 Puan Noor Aishah Award  - Gold</strong>
+<p><strong>2025 Puan Noor Aishah Award - Gold</strong>
 </p>
 <p></p>
 </li>
