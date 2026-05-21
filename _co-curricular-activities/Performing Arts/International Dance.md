@@ -6,12 +6,12 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h4>Teachers in Charge</h4>
-<p>Ms. Tan Boon Ya: tan_boon_ya@moe.edu.sg
-<br>Mdm Hanim Bte Shaik Noh: hanim_shaik_noh@moe.edu.sg</p>
+<p>Ms. Tan Boon Ya (tan_boon_ya@moe.edu.sg)
+<br>Mdm Hanim Bte Shaik Noh (hanim_shaik_noh@moe.edu.sg)</p>
 <h4>Training Schedule</h4>
-<p>Days: Tuesdays and Thursdays
-<br>Time: 2:45 PM - 5:45 PM
-<br>Venue: Drama Room</p>
+<p><strong>Days:</strong> Tuesdays and Thursdays
+<br><strong>Time: </strong>2:45 PM - 5:45 PM
+<br><strong>Venue:</strong> Drama Room</p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
