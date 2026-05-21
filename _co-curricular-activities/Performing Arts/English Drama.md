@@ -6,13 +6,12 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h4>Teachers in Charge</h4>
-<p>Miss Letchumi: s_letchumi@moe.edu.sg</p>
-<p>Mr. Faizal Bin Mohamad: <a href="mailto:faizal_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faizal_mohamad@moe.edu.sg</a>
-</p>
+<p>Miss Letchumi (s_letchumi@moe.edu.sg)</p>
+<p>Mr. Faizal Bin Mohamad (faizal_mohamad@moe.edu.sg)</p>
 <h4>Training Schedule</h4>
-<p>Days: Tuesdays and Thursdays
-<br>Time: 3:00 PM - 6:00 PM
-<br>Venue: Performing Arts Studio</p>
+<p><strong>Days:</strong> Tuesdays and Thursdays
+<br><strong>Time: </strong>3:00 PM - 6:00 PM
+<br><strong>Venue:</strong> Performing Arts Studio</p>
 <h4>Recent Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
