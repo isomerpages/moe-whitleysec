@@ -6,14 +6,14 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h4>Teachers in Charge</h4>
-<p>Mr. Valentino Lee: valentino_lee_hok_chiong@moe.edu.sg</p>
-<p>Miss Tifany Tay: tifany_tay_jing_wen@moe.edu.sg</p>
-<p>Ms Nabilah Syahirah: nabilah_syahirah_abdul_fatah@moe.edu.sg</p>
-<p>Ms Joyce Mah: mah_min_hui_joyce@moe.edu.sg</p>
-<p>Ms Sheryl Poon: poon_li_yi_sheryl@moe.edu.sg</p>
+<p>Mr. Valentino Lee (valentino_lee_hok_chiong@moe.edu.sg)</p>
+<p>Miss Tifany Tay (tifany_tay_jing_wen@moe.edu.sg)</p>
+<p>Ms Nabilah Syahirah (nabilah_syahirah_abdul_fatah@moe.edu.sg)</p>
+<p>Ms Joyce Mah (mah_min_hui_joyce@moe.edu.sg)</p>
+<p>Ms Sheryl Poon (poon_li_yi_sheryl@moe.edu.sg)</p>
 <h4>Training Schedule</h4>
-<p>Days: Thursdays
-<br>Time: 3:00 PM - 6:00 PM</p>
+<p><strong>Days: </strong>Thursdays
+<br><strong>Time:</strong> 3:00 PM - 6:00 PM</p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
