@@ -6,9 +6,8 @@ third_nav_title: Clubs and Societies
 variant: tiptap
 ---
 <h3>Teachers in Charge</h3>
-<p>Mr Ng Kai Yong:&nbsp;<a href="mailto:ng_kai_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kai_yong@moe.edu.sg</a> 
-<br>Mdm Nor Shana Abdul Aziz : <a href="mailto:nor_shana_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_shana_abdul_aziz@moe.edu.sg</a> 
-</p>
+<p>Mr Ng Kai Yong (ng_kai_yong@moe.edu.sg)
+<br>Mdm Nor Shana Abdul Aziz (nur_shana_abdul_aziz@moe.edu.sg)</p>
 <p>Training Schedule</p>
 <ul data-tight="true" class="tight">
 <li>
