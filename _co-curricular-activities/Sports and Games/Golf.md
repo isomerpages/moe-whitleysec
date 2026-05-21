@@ -6,10 +6,11 @@ third_nav_title: Sports and Games
 variant: tiptap
 ---
 <h4>Teachers in Charge</h4>
-<p>Ms Kuah Li Wen: kuah_li_wen@moe.edu.sg
-<br>Mr Quek Ting: quek_ting@moe.edu.sg</p>
+<p>Ms Kuah Li Wen (kuah_li_wen@moe.edu.sg)
+<br>Mr Quek Ting (quek_ting@moe.edu.sg)</p>
 <h4>Training Details</h4>
-<p>Tuesdays: 2.45pm - 3.15pm
+<p>Day : Tuesdays</p>
+<p>Time : 2.45pm - 3.15pm
 <br>Venue: Orchid Country Club</p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
