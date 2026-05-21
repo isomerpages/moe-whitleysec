@@ -6,10 +6,10 @@ third_nav_title: Clubs and Societies
 variant: tiptap
 ---
 <h3>Teachers in Charge</h3>
-<p>Miss Lee Sok Kum: lee_sok_kum@moe.edu.sg
-<br>Ms Lim Eu Boon:&nbsp;lim_eu_boon@moe.edu.sg
-<br>Mr Jimmy Wang:&nbsp;jimmy_wang_hung_keat@moe.edu.sg
-<br>Miss Charlene Tan: tan_seow_li_charlene@moe.edu.sg</p>
+<p>Miss Lee Sok Kum (lee_sok_kum@moe.edu.sg)
+<br>Ms Lim Eu Boon (lim_eu_boon@moe.edu.sg)
+<br>Mr Jimmy Wang&nbsp;(jimmy_wang_hung_keat@moe.edu.sg)
+<br>Miss Charlene Tan (tan_seow_li_charlene@moe.edu.sg)</p>
 <h4>Training Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
