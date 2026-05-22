@@ -5,16 +5,13 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
-</div>
 <h4>Teachers in Charge</h4>
-<p>Mr. Faizal Bin Mohamad: faizal_mohamad@moe.edu.sg
-<br>Miss Letchumi: s_letchumi@moe.edu.sg</p>
+<p>Miss Letchumi (s_letchumi@moe.edu.sg)</p>
+<p>Mr. Faizal Bin Mohamad (faizal_mohamad@moe.edu.sg)</p>
 <h4>Training Schedule</h4>
-<p>Days: Tuesdays and Thursdays
-<br>Time: 3:00 PM - 6:00 PM
-<br>Venue: Performing Arts Studio</p>
+<p><strong>Days:</strong> Tuesdays and Thursdays
+<br><strong>Time: </strong>3:00 PM - 6:00 PM
+<br><strong>Venue:</strong> Performing Arts Studio</p>
 <h4>Recent Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -79,9 +76,7 @@ Philippines, and Thailand (August).</p>
 </ul>
 </li>
 <li>
-<p><strong>2025 International Science Drama Competition</strong>
-</p>
-<p><strong>'Managing the Energy Trilemma'</strong>
+<p><strong>2025 International Science Drama Competition 'Managing the Energy Trilemma'</strong>
 </p>
 <p>Singapore Finals: Champion</p>
 <p>Most Outstanding Performer: Shen Haoxiang (1 Empathy)</p>
@@ -92,9 +87,7 @@ Philippines, and Thailand (August).</p>
 </ul>
 </li>
 <li>
-<p><strong>Singapore Youth Festival 2025</strong>
-</p>
-<p><strong>Managing the Energy Trilemma</strong>
+<p><strong>Singapore Youth Festival 2025 Managing the Energy Trilemma</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>

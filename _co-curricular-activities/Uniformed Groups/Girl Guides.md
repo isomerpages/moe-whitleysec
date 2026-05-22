@@ -5,25 +5,21 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
-</div>
-<h3></h3>
 <h4>Teachers in Charge</h4>
-<p>Miss Clarissa Low: low_hui_min_clarissa@moe.edu.sg
-<br>Ms. G. Vani: gnanasekaran_vani@moe.edu.sg
-<br>Ms Lee Jin Hui: Lee_Jin_Hui@moe.edu.sg</p>
+<p>Miss Clarissa Low (low_hui_min_clarissa@moe.edu.sg)
+<br>Ms. G. Vani (gnanasekaran_vani@moe.edu.sg)
+<br>Ms Lee Jin Hui (lee_Jin_Hui@moe.edu.sg)</p>
 <h3>Training Schedule</h3>
 <p><strong>Days:</strong> Thursdays
 <br><strong>Time:</strong> 3:00 PM - 6:00 PM</p>
 <h3>Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Puan Noor Aishah Award 2022 - Gold</strong>
+<p><strong>2022 Puan Noor Aishah Award - Gold</strong>
 </p>
 </li>
 <li>
-<p><strong>Puan Noor Aishah Award 2023 - Gold</strong>
+<p><strong>2023 Puan Noor Aishah Award - Gold</strong>
 </p>
 </li>
 <li>
@@ -31,7 +27,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Puan Noor Aishah Award 2024 - Gold</strong>
+<p><strong>2024 Puan Noor Aishah Award - Gold</strong>
+</p>
+</li>
+<li>
+<p><strong>2025 Puan Noor Aishah Award - Gold</strong>
 </p>
 <p></p>
 </li>

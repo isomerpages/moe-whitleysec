@@ -113,6 +113,10 @@ DMA will be uninstalled when students graduate from or leave the school.</p>
 <p>📄<a href="/files/After_School_DMA_Options_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Slide Information on DMA</a>
 </p>
 </li>
+<li>
+<p>Request for changes to DMA Options : <a href="https://go.gov.sg/whitleysec-dma" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whitleysec-dma</a>
+</p>
+</li>
 </ul>
 <h4><strong>d) ICT Helpdesk</strong></h4>
 <div class="isomer-image-wrapper">
@@ -129,7 +133,7 @@ DMA will be uninstalled when students graduate from or leave the school.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Kit</a> -
+<p><a href="https://www.moe.gov.sg/api/media/77a52ade-7d52-41b2-b373-5b01eb228a8b/Parent-Kit---Raising-A-Digitally-Smart-Child.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Kit</a> -
 Raising a Digitally Smart Child</p>
 </li>
 <li>

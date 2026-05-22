@@ -5,35 +5,48 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
-</div>
 <h4>Teachers in Charge</h4>
-<p>Miss Tifany Tay: tifany_tay_jing_wen@moe.edu.sg
-<br>Mr. Valentino Lee: valentino_lee_hok_chiong@moe.edu.sg
-<br>Ms Nabilah Syahirah: nabilah_syahirah_abdul_fatah@moe.edu.sg
-<br>Ms Joyce Mah: mah_min_hui_joyce@moe.edu.sg
-<br>Ms Sheryl Poon: poon_li_yi_sheryl@moe.edu.sg</p>
+<p>Mr. Valentino Lee (valentino_lee_hok_chiong@moe.edu.sg)</p>
+<p>Miss Tifany Tay (tifany_tay_jing_wen@moe.edu.sg)</p>
+<p>Ms Nabilah Syahirah (nabilah_syahirah_abdul_fatah@moe.edu.sg)</p>
+<p>Ms Joyce Mah (mah_min_hui_joyce@moe.edu.sg)</p>
+<p>Ms Sheryl Poon (poon_li_yi_sheryl@moe.edu.sg)</p>
 <h4>Training Schedule</h4>
-<p>Days: Thursdays
-<br>Time: 3:00 PM - 6:00 PM</p>
+<p><strong>Days: </strong>Thursdays
+<br><strong>Time:</strong> 3:00 PM - 6:00 PM</p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>2022 Unit Overall Proficiency Award - Distinction</p>
+<p><strong>2022 Unit Overall Proficiency Award - Distinction</strong>
+</p>
 </li>
 <li>
-<p>2023 Unit Overall Proficiency Award - Distinction</p>
+<p><strong>2023 Unit Overall Proficiency Award - Distinction</strong>
+</p>
 </li>
 <li>
-<p>2024 Unit Overall Proficiency Award - Distinction</p>
+<p><strong>2024 Unit Overall Proficiency Award - Distinction</strong>
+</p>
 </li>
 <li>
-<p>2024 SPF-NPCC Badge Awardee - Cayla Soh (4E)</p>
+<p><strong>2024 SPF-NPCC Badge Awardee - Cayla Soh (4E)</strong>
+</p>
 </li>
 <li>
-<p>2025 SPF-NPCC Badge Awardees - Kanzulhaseen Mohamed Zabir Khan (4L) And
-Marcellius Melvin Wijaya (4D)</p>
+<p><strong>2025 SPF-NPCC Badge Awardees - Kanzulhaseen Mohamed Zabir Khan (4L) And Marcellius Melvin Wijaya (4D)</strong>
+</p>
+</li>
+<li>
+<p><strong>2025 Unit Overall Proficiency Award - Distinction</strong>
+</p>
+</li>
+<li>
+<p><strong>2026 SPF-NPCC Badge Awardees - Samantha Yeo Zhixuan (4I) and Phoebe Anne Gouw Pei Ling (4E)</strong>
+</p>
+</li>
+<li>
+<p><strong>2026 Station Inspector Rank Awardees - Samantha Yeo Zhixuan (4I) and Sim See Kee Megan (4P)</strong>
+</p>
 </li>
 </ul>
 <table style="minWidth: 100px">

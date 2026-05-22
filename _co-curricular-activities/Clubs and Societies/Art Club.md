@@ -5,11 +5,8 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
-</div>
 <h4>Teachers in Charge</h4>
-<p>Miss Christine Chin:&nbsp;chin_siew_kin_christine@moe.edu.sg</p>
+<p>Miss Christine Chin (chin_siew_kin_christine@moe.edu.sg)</p>
 <h4>Training Details</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -25,8 +22,10 @@ variant: tiptap
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore International Original Comics Competition - Bronze (Tan Wan
-Yu Zoe 4R)</p>
+<p>2025 Land Transport Authority: Upper Thomson MRT Station Artwork Display
+(Eight Whitley Art Club students’ artwork have been selected for display
+on the station's wall panels)</p>
+<p></p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">

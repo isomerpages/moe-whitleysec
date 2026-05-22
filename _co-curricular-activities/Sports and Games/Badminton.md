@@ -5,15 +5,12 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
-</div>
 <h4>Teachers in Charge</h4>
-<p>Mrs. Chandra: <a href="mailto:kanimozhi_thirunavukkarasu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kanimozhi_thirunavukkarasu@moe.edu.sg</a>
-<br>Mr. Tan Jian Xun: <a href="mailto:tan_jian_xun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jian_xun@moe.edu.sg</a>
-<br>Mr. Victor Wong: <a href="mailto:wong_kok_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kok_heng@moe.edu.sg</a>
-<br>Ms. Kuah Li Wen: <a href="mailto:kuah_li_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kuah_li_wen@moe.edu.sg</a>
-</p>
+<p>Mr. Tan Jian Xun (tan_jian_xun@moe.edu.sg)
+<br>Mr. Victor Wong (wong_kok_heng@moe.edu.sg)</p>
+<p>Ms Ho Yng En Grace (ho_yng_en_grace@moe.edu.sg)</p>
+<p>Ms Kavitha Kalimuthu (kavitha_kalimuthu@moe.edu.sg)</p>
+<p></p>
 <h4>Training Schedule</h4>
 <p><strong>Girls Training Schedule</strong>
 <br>Days: Mondays and Wednesdays
@@ -23,7 +20,11 @@ variant: tiptap
 <br>Time: 3:00 PM - 6:00 PM
 <br>Venue: School Hall</p>
 <h4>Achievements</h4>
-<p>Participation in National School Games 2022</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2025 National School Games 'C' Division Badminton Girls (League 4) - Champion</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/badminton1.png">
 </div>

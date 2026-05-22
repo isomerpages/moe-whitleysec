@@ -5,14 +5,10 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
-</div>
 <h3>Teachers in Charge</h3>
-<p>Mr Ng Kai Yong:&nbsp;ng_kai_yong@moe.edu.sg
-<br>Mdm Shermane Yeo: shermane_yeo_geok_lang@moe.edu.sg
-<br>Miss Michel Lim: lim_bei-yi_michelle@schools.gov.sg</p>
-<h4>Training Schedule</h4>
+<p>Mr Ng Kai Yong (ng_kai_yong@moe.edu.sg)
+<br>Mdm Nor Shana Abdul Aziz (nur_shana_abdul_aziz@moe.edu.sg)</p>
+<p>Training Schedule</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Day</strong>: Thursdays</p>
@@ -36,7 +32,6 @@ variant: tiptap
 <p></p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Photography Club/Screenshot_2025_11_25_100636.png">
 </div>
