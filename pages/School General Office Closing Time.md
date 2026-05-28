@@ -4,8 +4,7 @@ permalink: /school-general-office-closing-time-13-20-mar-2026/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Term 1</strong></h4>
-<p>Please note the School and General Office closing times from <strong>13 to 20 March 2026</strong>.</p>
+<h4>Please note the School and General Office closing times</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -30,7 +29,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13 March 2026</p>
+<p>29 May 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Eat with Your Family Day</p>
@@ -44,30 +43,58 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16 to 20 March 2026</p>
+<p>1 June 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vesak Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School closed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>General office closed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 to 9 June 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Holiday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.00 pm</p>
+<p>6.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.30 pm</p>
+<p>6.00 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23 March 2026</p>
+<p>10 June 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hari Raya Puasa (Off-in-lieu)</p>
+<p>Power Shut Down</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Closed</p>
+<p>5.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Closed</p>
+<p>General office closed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 to 28 June 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Holiday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.00 pm</p>
 </td>
 </tr>
 </tbody>
