@@ -21,39 +21,11 @@ description: ""
 <p>Event</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>General Office Closure Time</p>
-</th>
-<th rowspan="1" colspan="1">
 <p>School Closure Time</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>29 May 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Eat with Your Family Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5.30 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.00 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 June 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vesak Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School closed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General office closed</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>General Office Closure Time</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -63,7 +35,7 @@ description: ""
 <p>School Holiday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.30 pm</p>
+<p>6.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.00 pm</p>
