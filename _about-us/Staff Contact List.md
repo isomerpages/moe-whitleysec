@@ -101,6 +101,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Ong Chan Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD - Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_chan_hong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Ho Peng Hoe (Ivan)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -223,17 +234,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>jerome_lim_jit_how@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ong Chan Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH - Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ong_chan_hong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

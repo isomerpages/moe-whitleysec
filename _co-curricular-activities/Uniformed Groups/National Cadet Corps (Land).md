@@ -1,6 +1,6 @@
 ---
-title: National Cadet Corp (Land)
-permalink: /co-curricular-activities/uniformed-groups/national-cadets-corp-land/
+title: National Cadet Corps (Land)
+permalink: /co-curricular-activities/uniformed-groups/national-cadets-corps-land/
 description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
