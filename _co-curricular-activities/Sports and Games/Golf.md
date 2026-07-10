@@ -10,7 +10,7 @@ variant: tiptap
 <br>Mr Quek Ting (quek_ting@moe.edu.sg)</p>
 <h4>Training Details</h4>
 <p>Day : Tuesdays</p>
-<p>Time : 2.45pm - 3.15pm
+<p>Time : 2.45pm - 5.15pm
 <br>Venue: Orchid Country Club</p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
