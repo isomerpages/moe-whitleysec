@@ -29,7 +29,35 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 to 9 June 2026</p>
+<p>3 Sep (Thu)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers’ Day Lunch</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.15am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Sep (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers Day and Eat with your Family Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 Sep (Mon)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Holiday</p>
@@ -38,35 +66,36 @@ description: ""
 <p>6.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.00 pm</p>
+<p>6.00pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10 June 2026</p>
+<p>8 Sep (Tues)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Power Shut Down</p>
+<p>EAS Learning Journey</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>General office closed</p>
+<p>General office is closed</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11 to 28 June 2026</p>
+<p>9 – 11 Sep</p>
+<p>(Wed to Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Holiday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.30 pm</p>
+<p>6.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.00 pm</p>
+<p>6.00pm</p>
 </td>
 </tr>
 </tbody>
